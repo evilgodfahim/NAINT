@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 20 Oct 2025 14:13:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Oct 2025 15:13:53 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Pakistan, Afghanistan agree to ‘ceasefire’]]></title>
+<link>https://www.newagebd.net/post/south-asia/279626/pakistan-afghanistan-agree-to-ceasefire</link>
+<pubDate>Mon, 20 Oct 2025 15:13:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Protest hits Rome over Libya migrant deal after boat wreck]]></title>
 <link>https://www.newagebd.net/post/europe/279585/protest-hits-rome-over-libya-migrant-deal-after-boat-wreck</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[9 killed in Israeli strike on bus in Gaza]]></title>
-<link>https://www.newagebd.net/post/middle-east/279518/9-killed-in-israeli-strike-on-bus-in-gaza</link>
-<pubDate>Sun, 19 Oct 2025 17:01:25 -0000</pubDate>
+<title><![CDATA[Two people killed as cargo plane skids off Hong Kong runway]]></title>
+<link>https://www.newagebd.net/post/asia/279653/two-people-killed-as-cargo-plane-skids-off-hong-kong-runway</link>
+<pubDate>Mon, 20 Oct 2025 15:13:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Zelensky urges allies against appeasing Russia after US trip]]></title>
 <link>https://www.newagebd.net/post/europe/279627/zelensky-urges-allies-against-appeasing-russia-after-us-trip</link>
 <pubDate>Sun, 19 Oct 2025 18:42:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan, Afghanistan agree to ‘ceasefire’]]></title>
-<link>https://www.newagebd.net/post/south-asia/279626/pakistan-afghanistan-agree-to-ceasefire</link>
-<pubDate>Sun, 19 Oct 2025 18:27:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
