@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 20 Oct 2025 08:18:54 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Oct 2025 09:16:24 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Protest hits Rome over Libya migrant deal after boat wreck]]></title>
+<link>https://www.newagebd.net/post/europe/279585/protest-hits-rome-over-libya-migrant-deal-after-boat-wreck</link>
+<pubDate>Mon, 20 Oct 2025 08:25:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Germany recalls ambassador to Georgia over anti-EU ‘agitation’]]></title>
 <link>https://www.newagebd.net/post/europe/279584/germany-recalls-ambassador-to-georgia-over-anti-eu-agitation</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump tells Zelensky to ‘make a deal’ with Russia]]></title>
-<link>https://www.newagebd.net/post/europe/279517/trump-tells-zelensky-to-make-a-deal-with-russia</link>
-<pubDate>Sun, 19 Oct 2025 16:46:25 -0000</pubDate>
+<title><![CDATA[Israel, Hamas accuse each other of breaching Gaza truce]]></title>
+<link>https://www.newagebd.net/post/middle-east/279631/israel-hamas-accuse-each-other-of-breaching-gaza-truce</link>
+<pubDate>Mon, 20 Oct 2025 09:16:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Pakistan, Afghanistan agree to ‘ceasefire’]]></title>
 <link>https://www.newagebd.net/post/south-asia/279626/pakistan-afghanistan-agree-to-ceasefire</link>
 <pubDate>Sun, 19 Oct 2025 18:27:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Protest hits Rome over Libya migrant deal after boat wreck]]></title>
-<link>https://www.newagebd.net/post/europe/279585/protest-hits-rome-over-libya-migrant-deal-after-boat-wreck</link>
-<pubDate>Sun, 19 Oct 2025 18:12:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
