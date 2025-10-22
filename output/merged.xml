@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 22 Oct 2025 14:15:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Oct 2025 15:13:01 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Sarkozy jailed, proclaiming his innocence]]></title>
+<link>https://www.newagebd.net/post/europe/279773/sarkozy-jailed-proclaiming-his-innocence</link>
+<pubDate>Wed, 22 Oct 2025 15:02:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[France intensifies hunt for Louvre raiders]]></title>
 <link>https://www.newagebd.net/post/europe/279772/france-intensifies-hunt-for-louvre-raiders</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Khamenei tells Trump to ‘keep dreaming’]]></title>
-<link>https://www.newagebd.net/post/middle-east/279673/khamenei-tells-trump-to-keep-dreaming</link>
-<pubDate>Tue, 21 Oct 2025 16:41:04 -0000</pubDate>
+<title><![CDATA[Europe backs Trump’s Ukraine peace push]]></title>
+<link>https://www.newagebd.net/post/europe/279825/europe-backs-trumps-ukraine-peace-push</link>
+<pubDate>Wed, 22 Oct 2025 15:13:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Gaza ceasefire vital to deliver food, save lives: UN]]></title>
 <link>https://www.newagebd.net/post/middle-east/279774/gaza-ceasefire-vital-to-deliver-food-save-lives-un</link>
 <pubDate>Tue, 21 Oct 2025 19:45:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sarkozy jailed, proclaiming his innocence]]></title>
-<link>https://www.newagebd.net/post/europe/279773/sarkozy-jailed-proclaiming-his-innocence</link>
-<pubDate>Tue, 21 Oct 2025 18:18:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
