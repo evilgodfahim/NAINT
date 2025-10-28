@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Oct 2025 04:16:11 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 05:14:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Four killed in Cameroon opposition protests]]></title>
 <link>https://www.newagebd.net/post/africa/280363/four-killed-in-cameroon-opposition-protests</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Afghanistan, Pakistan truce talks enter third day]]></title>
+<link>https://www.newagebd.net/post/south-asia/280407/afghanistan-pakistan-truce-talks-enter-third-day</link>
+<pubDate>Tue, 28 Oct 2025 04:59:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia captures three more Ukraine villages]]></title>
 <link>https://www.newagebd.net/post/europe/280399/russia-captures-three-more-ukraine-villages</link>
 <pubDate>Mon, 27 Oct 2025 19:53:50 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[NGOs warn 28 ‘carbon bomb’ projects launched since 2021]]></title>
 <link>https://www.newagebd.net/post/europe/280366/ngos-warn-28-carbon-bomb-projects-launched-since-2021</link>
 <pubDate>Mon, 27 Oct 2025 19:23:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fears for trapped civilians in Sudan’s El-Fasher after RSF claims control]]></title>
-<link>https://www.newagebd.net/post/africa/280364/fears-for-trapped-civilians-in-sudans-el-fasher-after-rsf-claims-control</link>
-<pubDate>Mon, 27 Oct 2025 18:20:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
