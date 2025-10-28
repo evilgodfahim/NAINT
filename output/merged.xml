@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Oct 2025 06:21:36 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 07:13:42 GMT</lastBuildDate>
+<item>
+<title><![CDATA[NGOs warn 28 ‘carbon bomb’ projects launched since 2021]]></title>
+<link>https://www.newagebd.net/post/europe/280366/ngos-warn-28-carbon-bomb-projects-launched-since-2021</link>
+<pubDate>Tue, 28 Oct 2025 06:42:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Fears for trapped civilians in Sudan’s El-Fasher after RSF claims control]]></title>
 <link>https://www.newagebd.net/post/africa/280364/fears-for-trapped-civilians-in-sudans-el-fasher-after-rsf-claims-control</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump starts key Asian tour with deals ahead of China meet]]></title>
-<link>https://www.newagebd.net/post/Asia/280295/trump-starts-key-asian-tour-with-deals-ahead-of-china-meet</link>
-<pubDate>Mon, 27 Oct 2025 16:24:15 -0000</pubDate>
+<title><![CDATA[US, Japan sign agreement on ‘securing’ supplies of critical minerals, rare earths]]></title>
+<link>https://www.newagebd.net/post/asia/280419/us-japan-sign-agreement-on-securing-supplies-of-critical-minerals-rare-earths</link>
+<pubDate>Tue, 28 Oct 2025 07:13:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[ASEAN not sending monitors to Myanmar polls]]></title>
 <link>https://www.newagebd.net/post/asia/280398/asean-not-sending-monitors-to-myanmar-polls</link>
 <pubDate>Mon, 27 Oct 2025 19:38:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[NGOs warn 28 ‘carbon bomb’ projects launched since 2021]]></title>
-<link>https://www.newagebd.net/post/europe/280366/ngos-warn-28-carbon-bomb-projects-launched-since-2021</link>
-<pubDate>Mon, 27 Oct 2025 19:23:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
