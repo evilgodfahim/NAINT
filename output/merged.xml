@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 31 Oct 2025 06:20:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Oct 2025 07:13:13 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli army kills worker in raid on south Lebanon]]></title>
+<link>https://www.newagebd.net/post/middle-east/280639/israeli-army-kills-worker-in-raid-on-south-lebanon</link>
+<pubDate>Fri, 31 Oct 2025 06:40:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Xi, Trump talks win cautious optimism in China]]></title>
 <link>https://www.newagebd.net/post/asia/280619/xi-trump-talks-win-cautious-optimism-in-china</link>
@@ -59,12 +65,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[100 killed in Israeli strikes on Gaza]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/280521/100-killed-in-israeli-strikes-on-gaza</link>
-<pubDate>Wed, 29 Oct 2025 19:44:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Two killed as Russia batters Ukraine energy sites]]></title>
 <link>https://www.newagebd.net/post/europe/280690/two-killed-as-russia-batters-ukraine-energy-sites</link>
 <pubDate>Thu, 30 Oct 2025 19:01:15 -0000</pubDate>
@@ -80,12 +80,6 @@
 <title><![CDATA[Climate change, poor planning drive Vietnam flooding]]></title>
 <link>https://www.newagebd.net/post/asia/280642/climate-change-poor-planning-drive-vietnam-flooding</link>
 <pubDate>Thu, 30 Oct 2025 18:31:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli army kills worker in raid on south Lebanon]]></title>
-<link>https://www.newagebd.net/post/middle-east/280639/israeli-army-kills-worker-in-raid-on-south-lebanon</link>
-<pubDate>Thu, 30 Oct 2025 18:00:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
