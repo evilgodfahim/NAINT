@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 01 Nov 2025 14:11:01 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Nov 2025 15:11:12 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US, UK withdraw non-essential embassy staff from Mali]]></title>
+<link>https://www.newagebd.net/post/africa/280760/us-uk-withdraw-non-essential-embassy-staff-from-mali</link>
+<pubDate>Sat, 01 Nov 2025 15:09:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[700 killed in Tanzania post-election violence]]></title>
 <link>https://www.newagebd.net/post/africa/280759/700-killed-in-tanzania-post-election-violence</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Two killed as Russia batters Ukraine energy sites]]></title>
-<link>https://www.newagebd.net/post/europe/280690/two-killed-as-russia-batters-ukraine-energy-sites</link>
-<pubDate>Fri, 31 Oct 2025 18:34:11 -0000</pubDate>
+<title><![CDATA[Afghan woman defies Taliban govt as ambassador to Austria]]></title>
+<link>https://www.newagebd.net/post/south-asia/280792/afghan-woman-defies-taliban-govt-as-ambassador-to-austria</link>
+<pubDate>Sat, 01 Nov 2025 14:44:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Pak-Afghan ceasefire extended]]></title>
 <link>https://www.newagebd.net/post/south-asia/280770/pak-afghan-ceasefire-extended</link>
 <pubDate>Fri, 31 Oct 2025 20:01:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US, UK withdraw non-essential embassy staff from Mali]]></title>
-<link>https://www.newagebd.net/post/africa/280760/us-uk-withdraw-non-essential-embassy-staff-from-mali</link>
-<pubDate>Fri, 31 Oct 2025 19:46:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
