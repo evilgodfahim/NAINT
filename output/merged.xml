@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 02 Nov 2025 14:11:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 15:11:52 GMT</lastBuildDate>
+<item>
+<title><![CDATA[2 dead in suspected Greek vendetta shooting]]></title>
+<link>https://www.newagebd.net/post/europe/280860/2-dead-in-suspected-greek-vendetta-shooting</link>
+<pubDate>Sun, 02 Nov 2025 14:26:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[UN reduces mission in Colombia amid US pressure]]></title>
 <link>https://www.newagebd.net/post/north-america/280859/un-reduces-mission-in-colombia-amid-us-pressure</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Turkey to hold Gaza peace plan meeting for Muslim states]]></title>
-<link>https://www.newagebd.net/post/middle-east/280789/turkey-to-hold-gaza-peace-plan-meeting-for-muslim-states</link>
-<pubDate>Sat, 01 Nov 2025 18:27:29 -0000</pubDate>
+<title><![CDATA[Maldives begins ‘generational ban’ on smoking]]></title>
+<link>https://www.newagebd.net/post/south-asia/280894/maldives-begins-generational-ban-on-smoking</link>
+<pubDate>Sun, 02 Nov 2025 15:11:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[White House restricts reporters’ access to press office]]></title>
 <link>https://www.newagebd.net/post/north-america/280872/white-house-restricts-reporters-access-to-press-office</link>
 <pubDate>Sat, 01 Nov 2025 19:50:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[2 dead in suspected Greek vendetta shooting]]></title>
-<link>https://www.newagebd.net/post/europe/280860/2-dead-in-suspected-greek-vendetta-shooting</link>
-<pubDate>Sat, 01 Nov 2025 19:35:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
