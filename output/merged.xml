@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 03 Nov 2025 07:14:25 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 08:20:11 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Mamdani leads dramatic NY mayoral race]]></title>
+<link>https://www.newagebd.net/post/north-america/280936/mamdani-leads-dramatic-ny-mayoral-race</link>
+<pubDate>Mon, 03 Nov 2025 08:20:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israel warns of intensifying attacks against Hezbollah in south Lebanon]]></title>
 <link>https://www.newagebd.net/post/middle-east/280935/israel-warns-of-intensifying-attacks-against-hezbollah-in-south-lebanon</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indian Sikhs given visas for festival in Pakistan]]></title>
-<link>https://www.newagebd.net/post/south-asia/280893/indian-sikhs-given-visas-for-festival-in-pakistan</link>
-<pubDate>Sun, 02 Nov 2025 15:58:30 -0000</pubDate>
+<title><![CDATA[At least nine people killed in Afghanistan earthquake]]></title>
+<link>https://www.newagebd.net/post/south-asia/281007/at-least-nine-people-killed-in-afghanistan-earthquake</link>
+<pubDate>Mon, 03 Nov 2025 07:15:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Iran vows to rebuild nuclear sites ‘stronger than before’]]></title>
 <link>https://www.newagebd.net/post/middle-east/280937/iran-vows-to-rebuild-nuclear-sites-stronger-than-before</link>
 <pubDate>Sun, 02 Nov 2025 21:57:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mamdani leads dramatic NY mayoral race]]></title>
-<link>https://www.newagebd.net/post/north-america/280936/mamdani-leads-dramatic-ny-mayoral-race</link>
-<pubDate>Sun, 02 Nov 2025 18:15:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
