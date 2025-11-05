@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 05 Nov 2025 05:14:28 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 06:21:19 GMT</lastBuildDate>
+<item>
+<title><![CDATA[India launches mass overhaul of voter rolls]]></title>
+<link>https://www.newagebd.net/post/south-asia/281183/india-launches-mass-overhaul-of-voter-rolls</link>
+<pubDate>Wed, 05 Nov 2025 06:05:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Responding to Trump, Nigeria says no tolerance for religious persecution]]></title>
 <link>https://www.newagebd.net/post/africa/281182/responding-to-trump-nigeria-says-no-tolerance-for-religious-persecution</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[GAZA RECONSTRUCTION: Turkey rallies Muslim allies]]></title>
-<link>https://www.newagebd.net/post/middle-east/281079/gaza-reconstruction-turkey-rallies-muslim-allies</link>
-<pubDate>Tue, 04 Nov 2025 17:56:21 -0000</pubDate>
+<title><![CDATA[‘Inequality crisis’ threatens democracy, experts warn G20]]></title>
+<link>https://www.newagebd.net/post/africa/281219/inequality-crisis-threatens-democracy-experts-warn-g20</link>
+<pubDate>Wed, 05 Nov 2025 06:02:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[New Yorkers expected to pick Mamdani in stunning election]]></title>
 <link>https://www.newagebd.net/post/north-america/281189/new-yorkers-expected-to-pick-mamdani-in-stunning-election</link>
 <pubDate>Tue, 04 Nov 2025 19:45:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India launches mass overhaul of voter rolls]]></title>
-<link>https://www.newagebd.net/post/south-asia/281183/india-launches-mass-overhaul-of-voter-rolls</link>
-<pubDate>Tue, 04 Nov 2025 19:30:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
