@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 06 Nov 2025 11:12:21 GMT</lastBuildDate>
+<lastBuildDate>Thu, 06 Nov 2025 12:27:46 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Death toll tops 100 as Philippines digs out after typhoon]]></title>
+<link>https://www.newagebd.net/post/asia/281254/death-toll-tops-100-as-philippines-digs-out-after-typhoon</link>
+<pubDate>Thu, 06 Nov 2025 12:25:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Tanzania’s opposition leader charged with terrorism]]></title>
 <link>https://www.newagebd.net/post/africa/281253/tanzanias-opposition-leader-charged-with-terrorism</link>
@@ -59,12 +65,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China issues death sentences to 5 members of Myanmar gang]]></title>
-<link>https://www.newagebd.net/post/south-asia/281218/china-issues-death-sentences-to-5-members-of-myanmar-gang</link>
-<pubDate>Wed, 05 Nov 2025 14:55:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Gaza hospital receives 15 Palestinian bodies]]></title>
 <link>https://www.newagebd.net/post/middle-east/281293/gaza-hospital-receives-15-palestinian-bodies</link>
 <pubDate>Wed, 05 Nov 2025 20:15:48 -0000</pubDate>
@@ -80,12 +80,6 @@
 <title><![CDATA[Democrats win New Jersey, Virginia in early test of Trump’s second term]]></title>
 <link>https://www.newagebd.net/post/north-america/281255/democrats-win-new-jersey-virginia-in-early-test-of-trumps-second-term</link>
 <pubDate>Wed, 05 Nov 2025 19:45:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Death toll tops 100 as Philippines digs out after typhoon]]></title>
-<link>https://www.newagebd.net/post/asia/281254/death-toll-tops-100-as-philippines-digs-out-after-typhoon</link>
-<pubDate>Wed, 05 Nov 2025 17:59:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
