@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 06 Nov 2025 14:14:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 06 Nov 2025 15:15:28 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Democrats win New Jersey, Virginia in early test of Trump’s second term]]></title>
+<link>https://www.newagebd.net/post/north-america/281255/democrats-win-new-jersey-virginia-in-early-test-of-trumps-second-term</link>
+<pubDate>Thu, 06 Nov 2025 15:15:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Death toll tops 100 as Philippines digs out after typhoon]]></title>
 <link>https://www.newagebd.net/post/asia/281254/death-toll-tops-100-as-philippines-digs-out-after-typhoon</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[‘Inequality crisis’ threatens democracy, experts warn G20]]></title>
-<link>https://www.newagebd.net/post/africa/281219/inequality-crisis-threatens-democracy-experts-warn-g20</link>
-<pubDate>Wed, 05 Nov 2025 15:10:40 -0000</pubDate>
+<title><![CDATA[Bihar votes in key test for Modi government]]></title>
+<link>https://www.newagebd.net/post/South%20Asia/281330/bihar-votes-in-key-test-for-modi-government</link>
+<pubDate>Thu, 06 Nov 2025 14:58:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Nepal registers 125 parties for post-uprising polls]]></title>
 <link>https://www.newagebd.net/post/south-asia/281286/nepal-registers-125-parties-for-post-uprising-polls</link>
 <pubDate>Wed, 05 Nov 2025 20:00:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Democrats win New Jersey, Virginia in early test of Trump’s second term]]></title>
-<link>https://www.newagebd.net/post/north-america/281255/democrats-win-new-jersey-virginia-in-early-test-of-trumps-second-term</link>
-<pubDate>Wed, 05 Nov 2025 19:45:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
