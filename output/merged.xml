@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Nov 2025 05:13:03 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 06:18:30 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Six migrants killed in Bulgaria police car chase]]></title>
+<link>https://www.newagebd.net/post/europe/281494/six-migrants-killed-in-bulgaria-police-car-chase</link>
+<pubDate>Sat, 08 Nov 2025 06:12:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Multiple people fall ill after ‘suspicious’ package opened at US base]]></title>
 <link>https://www.newagebd.net/post/north-america/281493/multiple-people-fall-ill-after-suspicious-package-opened-at-us-base</link>
@@ -59,12 +65,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hundreds of flights cut across US in government paralysis]]></title>
-<link>https://www.newagebd.net/post/North%20America/281441/hundreds-of-flights-cut-across-us-in-government-paralysis</link>
-<pubDate>Fri, 07 Nov 2025 18:54:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[EU restricts visas for Russian nationals over Ukraine war]]></title>
 <link>https://www.newagebd.net/post/europe/281519/eu-restricts-visas-for-russian-nationals-over-ukraine-war</link>
 <pubDate>Fri, 07 Nov 2025 20:14:22 -0000</pubDate>
@@ -80,12 +80,6 @@
 <title><![CDATA[‘Systemic racism’ hard-wired into London police]]></title>
 <link>https://www.newagebd.net/post/europe/281496/systemic-racism-hard-wired-into-london-police</link>
 <pubDate>Fri, 07 Nov 2025 19:44:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Six migrants killed in Bulgaria police car chase]]></title>
-<link>https://www.newagebd.net/post/europe/281494/six-migrants-killed-in-bulgaria-police-car-chase</link>
-<pubDate>Fri, 07 Nov 2025 19:29:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
