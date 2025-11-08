@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Nov 2025 13:19:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 14:11:00 GMT</lastBuildDate>
+<item>
+<title><![CDATA[EU restricts visas for Russian nationals over Ukraine war]]></title>
+<link>https://www.newagebd.net/post/europe/281519/eu-restricts-visas-for-russian-nationals-over-ukraine-war</link>
+<pubDate>Sat, 08 Nov 2025 14:10:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[World leaders launch fund to save forests]]></title>
 <link>https://www.newagebd.net/post/latin-america/281499/world-leaders-launch-fund-to-save-forests</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US B-52 bombers fly off coast of Venezuela]]></title>
-<link>https://www.newagebd.net/post/latin-america/281487/us-b-52-bombers-fly-off-coast-of-venezuela</link>
-<pubDate>Fri, 07 Nov 2025 19:39:58 -0000</pubDate>
+<title><![CDATA[Earth cannot ‘sustain’ intensive fossil fuel use, Lula tells COP30]]></title>
+<link>https://www.newagebd.net/post/latin-america/281544/earth-cannot-sustain-intensive-fossil-fuel-use-lula-tells-cop30</link>
+<pubDate>Sat, 08 Nov 2025 13:28:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israeli forces kill two West Bank teenagers]]></title>
 <link>https://www.newagebd.net/post/middle-east/281520/israeli-forces-kill-two-west-bank-teenagers</link>
 <pubDate>Sat, 08 Nov 2025 07:12:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU restricts visas for Russian nationals over Ukraine war]]></title>
-<link>https://www.newagebd.net/post/europe/281519/eu-restricts-visas-for-russian-nationals-over-ukraine-war</link>
-<pubDate>Fri, 07 Nov 2025 20:14:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
