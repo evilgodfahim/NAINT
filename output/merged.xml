@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 09 Nov 2025 13:19:36 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 14:10:47 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Philippines stops typhoon search as new storm nears]]></title>
 <link>https://www.newagebd.net/post/asia/281560/philippines-stops-typhoon-search-as-new-storm-nears</link>
@@ -65,6 +65,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Malaysia searches for survivors after migrant boat sinks near Thai border]]></title>
+<link>https://www.newagebd.net/post/asia/281645/malaysia-searches-for-survivors-after-migrant-boat-sinks-near-thai-border</link>
+<pubDate>Sun, 09 Nov 2025 14:10:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Cornell University to pay $60m to settle Trump dispute]]></title>
+<link>https://www.newagebd.net/post/north-america/281620/cornell-university-to-pay-60m-to-settle-trump-dispute</link>
+<pubDate>Sun, 09 Nov 2025 13:55:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tehran to restrict water as Iran battles drought]]></title>
 <link>https://www.newagebd.net/post/middle-east/281619/tehran-to-restrict-water-as-iran-battles-drought</link>
 <pubDate>Sat, 08 Nov 2025 20:13:26 -0000</pubDate>
@@ -74,18 +86,6 @@
 <title><![CDATA[Nations to end mercury tooth fillings by 2034]]></title>
 <link>https://www.newagebd.net/post/europe/281616/nations-to-end-mercury-tooth-fillings-by-2034</link>
 <pubDate>Sat, 08 Nov 2025 19:58:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UN warns Gaza aid too slow, US eyes peace vote]]></title>
-<link>https://www.newagebd.net/post/middle-east/281600/un-warns-gaza-aid-too-slow-us-eyes-peace-vote</link>
-<pubDate>Sat, 08 Nov 2025 19:43:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli strikes in Lebanon kill three]]></title>
-<link>https://www.newagebd.net/post/middle-east/281561/israeli-strikes-in-lebanon-kill-three</link>
-<pubDate>Sat, 08 Nov 2025 19:28:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
