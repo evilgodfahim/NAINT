@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 10 Nov 2025 18:19:56 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Nov 2025 19:11:29 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Indonesia names late Suharto a national hero]]></title>
+<link>https://www.newagebd.net/post/asia/281767/indonesia-names-late-suharto-a-national-hero</link>
+<pubDate>Mon, 10 Nov 2025 19:08:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Sarkozy released from jail]]></title>
 <link>https://www.newagebd.net/post/europe/281766/sarkozy-released-from-jail</link>
@@ -17,9 +23,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[BBC chief quits amid row over Trump documentary]]></title>
-<link>https://www.newagebd.net/post/europe/281737/bbc-chief-quits-amid-row-over-trump-documentary</link>
-<pubDate>Mon, 10 Nov 2025 17:37:30 -0000</pubDate>
+<title><![CDATA[BBC apologises over Trump speech row, 2 bosses resign]]></title>
+<link>https://www.newagebd.net/post/Europe/281737/bbc-apologises-over-trump-speech-row-2-bosses-resign</link>
+<pubDate>Mon, 10 Nov 2025 18:53:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,12 +65,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iraqi forces, displaced people vote early ahead of election]]></title>
-<link>https://www.newagebd.net/post/middle-east/281671/iraqi-forces-displaced-people-vote-early-ahead-of-election</link>
-<pubDate>Sun, 09 Nov 2025 20:55:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Israel intensifies attacks on Lebanon]]></title>
 <link>https://www.newagebd.net/post/middle-east/281770/israel-intensifies-attacks-on-lebanon</link>
 <pubDate>Mon, 10 Nov 2025 17:13:05 -0000</pubDate>
@@ -80,12 +80,6 @@
 <title><![CDATA[Five killed, million displaced in Philippines Typhoon]]></title>
 <link>https://www.newagebd.net/post/asia/281768/five-killed-million-displaced-in-philippines-typhoon</link>
 <pubDate>Mon, 10 Nov 2025 16:43:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesia names late Suharto a national hero]]></title>
-<link>https://www.newagebd.net/post/asia/281767/indonesia-names-late-suharto-a-national-hero</link>
-<pubDate>Mon, 10 Nov 2025 16:28:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
