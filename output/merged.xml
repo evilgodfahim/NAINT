@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 10 Nov 2025 01:07:10 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Nov 2025 03:14:25 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syrian president arrives in US for landmark visit]]></title>
+<link>https://www.newagebd.net/post/north-america/281673/syrian-president-arrives-in-us-for-landmark-visit</link>
+<pubDate>Mon, 10 Nov 2025 03:08:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[1m evacuate as deadly Super Typhoon nears Philippines]]></title>
 <link>https://www.newagebd.net/post/asia/281672/1m-evacuate-as-deadly-super-typhoon-nears-philippines</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Malaysia searches for survivors after migrant boat sinks near Thai border]]></title>
-<link>https://www.newagebd.net/post/asia/281645/malaysia-searches-for-survivors-after-migrant-boat-sinks-near-thai-border</link>
-<pubDate>Sun, 09 Nov 2025 16:56:16 -0000</pubDate>
+<title><![CDATA[Migrant shipwreck off Malaysia kills seven]]></title>
+<link>https://www.newagebd.net/post/asia/281731/migrant-shipwreck-off-malaysia-kills-seven</link>
+<pubDate>Mon, 10 Nov 2025 02:14:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Taliban govt protests no invitation to UN climate summit]]></title>
 <link>https://www.newagebd.net/post/south-asia/281728/taliban-govt-protests-no-invitation-to-un-climate-summit</link>
 <pubDate>Sun, 09 Nov 2025 20:41:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian president arrives in US for landmark visit]]></title>
-<link>https://www.newagebd.net/post/north-america/281673/syrian-president-arrives-in-us-for-landmark-visit</link>
-<pubDate>Sun, 09 Nov 2025 20:26:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
