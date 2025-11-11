@@ -3,7 +3,19 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 11 Nov 2025 17:12:36 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 18:19:38 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Venezuela announces big military deployment to counter US presence]]></title>
+<link>https://www.newagebd.net/post/latin-america/281863/venezuela-announces-big-military-deployment-to-counter-us-presence</link>
+<pubDate>Tue, 11 Nov 2025 18:19:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanon releases Hannibal Gaddafi from prison on bail]]></title>
+<link>https://www.newagebd.net/post/middle-east/281861/lebanon-releases-hannibal-gaddafi-from-prison-on-bail</link>
+<pubDate>Tue, 11 Nov 2025 18:04:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[UN warns of rough winter ahead for refugees]]></title>
 <link>https://www.newagebd.net/post/europe/281860/un-warns-of-rough-winter-ahead-for-refugees</link>
@@ -17,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 12 people killed, dozens injured in Islamabad suicide bombing]]></title>
-<link>https://www.newagebd.net/post/South%20Asia/281835/at-least-12-people-killed-dozens-injured-in-islamabad-suicide-bombing</link>
-<pubDate>Tue, 11 Nov 2025 15:47:51 -0000</pubDate>
+<title><![CDATA[12 dead in Islamabad suicide bombing]]></title>
+<link>https://www.newagebd.net/post/South%20Asia/281835/12-dead-in-islamabad-suicide-bombing</link>
+<pubDate>Tue, 11 Nov 2025 17:49:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,18 +65,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel intensifies attacks on Lebanon]]></title>
-<link>https://www.newagebd.net/post/middle-east/281770/israel-intensifies-attacks-on-lebanon</link>
-<pubDate>Mon, 10 Nov 2025 20:08:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Saudi belly dancers break taboos behind closed doors]]></title>
-<link>https://www.newagebd.net/post/middle-east/281769/saudi-belly-dancers-break-taboos-behind-closed-doors</link>
-<pubDate>Mon, 10 Nov 2025 19:53:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Philippines digs out from Typhoon as death toll climbs]]></title>
 <link>https://www.newagebd.net/post/asia/281865/philippines-digs-out-from-typhoon-as-death-toll-climbs</link>
 <pubDate>Tue, 11 Nov 2025 16:17:52 -0000</pubDate>
@@ -74,18 +74,6 @@
 <title><![CDATA[BBC grapples with response to Trump legal threat]]></title>
 <link>https://www.newagebd.net/post/north-america/281864/bbc-grapples-with-response-to-trump-legal-threat</link>
 <pubDate>Tue, 11 Nov 2025 16:02:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela announces big military deployment to counter US presence]]></title>
-<link>https://www.newagebd.net/post/latin-america/281863/venezuela-announces-big-military-deployment-to-counter-us-presence</link>
-<pubDate>Tue, 11 Nov 2025 15:47:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanon releases Hannibal Gaddafi from prison on bail]]></title>
-<link>https://www.newagebd.net/post/middle-east/281861/lebanon-releases-hannibal-gaddafi-from-prison-on-bail</link>
-<pubDate>Tue, 11 Nov 2025 15:32:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
