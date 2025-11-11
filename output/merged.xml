@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 11 Nov 2025 19:11:14 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 20:15:06 GMT</lastBuildDate>
+<item>
+<title><![CDATA[BBC grapples with response to Trump legal threat]]></title>
+<link>https://www.newagebd.net/post/north-america/281864/bbc-grapples-with-response-to-trump-legal-threat</link>
+<pubDate>Tue, 11 Nov 2025 20:12:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Venezuela announces big military deployment to counter US presence]]></title>
 <link>https://www.newagebd.net/post/latin-america/281863/venezuela-announces-big-military-deployment-to-counter-us-presence</link>
@@ -24,8 +30,8 @@
 </item>
 <item>
 <title><![CDATA[Szalay wins booker prize with harrowing tale of masculinity]]></title>
-<link>https://www.newagebd.net/post/europe/281837/szalay-wins-booker-prize-with-harrowing-tale-of-masculinity</link>
-<pubDate>Tue, 11 Nov 2025 16:02:51 -0000</pubDate>
+<link>https://www.newagebd.net/post/Europe/281837/szalay-wins-booker-prize-with-harrowing-tale-of-masculinity</link>
+<pubDate>Tue, 11 Nov 2025 19:57:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At least 8 killed in car explosion near Red Fort in India capital]]></title>
-<link>https://www.newagebd.net/post/South%20Asia/281775/at-least-8-killed-in-car-explosion-near-red-fort-in-india-capital</link>
-<pubDate>Tue, 11 Nov 2025 11:38:09 -0000</pubDate>
+<title><![CDATA[US-China tensions weigh on Lisbon’s Web Summit]]></title>
+<link>https://www.newagebd.net/post/europe/281890/us-china-tensions-weigh-on-lisbons-web-summit</link>
+<pubDate>Tue, 11 Nov 2025 20:15:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Philippines digs out from Typhoon as death toll climbs]]></title>
 <link>https://www.newagebd.net/post/asia/281865/philippines-digs-out-from-typhoon-as-death-toll-climbs</link>
 <pubDate>Tue, 11 Nov 2025 16:17:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[BBC grapples with response to Trump legal threat]]></title>
-<link>https://www.newagebd.net/post/north-america/281864/bbc-grapples-with-response-to-trump-legal-threat</link>
-<pubDate>Tue, 11 Nov 2025 16:02:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
