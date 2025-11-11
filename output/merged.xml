@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 11 Nov 2025 11:12:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 12:28:18 GMT</lastBuildDate>
+<item>
+<title><![CDATA[At least 8 killed in car explosion near Red Fort in India capital]]></title>
+<link>https://www.newagebd.net/post/South%20Asia/281775/at-least-8-killed-in-car-explosion-near-red-fort-in-india-capital</link>
+<pubDate>Tue, 11 Nov 2025 11:38:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israel intensifies attacks on Lebanon]]></title>
 <link>https://www.newagebd.net/post/middle-east/281770/israel-intensifies-attacks-on-lebanon</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan commits to ‘dialogue’ despite Afghan talks ending]]></title>
-<link>https://www.newagebd.net/post/south-asia/281729/pakistan-commits-to-dialogue-despite-afghan-talks-ending</link>
-<pubDate>Mon, 10 Nov 2025 16:52:30 -0000</pubDate>
+<title><![CDATA[Russia seizes more villages, says Ukraine cannot win war]]></title>
+<link>https://www.newagebd.net/post/europe/281826/russia-seizes-more-villages-says-ukraine-cannot-win-war</link>
+<pubDate>Tue, 11 Nov 2025 12:13:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Int’l media association denounces Israeli settler attacks on journalists]]></title>
 <link>https://www.newagebd.net/post/middle-east/281803/intl-media-association-denounces-israeli-settler-attacks-on-journalists</link>
 <pubDate>Mon, 10 Nov 2025 19:50:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[At least 8 killed in car explosion near Red Fort in India capital]]></title>
-<link>https://www.newagebd.net/post/South%20Asia/281775/at-least-8-killed-in-car-explosion-near-red-fort-in-india-capital</link>
-<pubDate>Mon, 10 Nov 2025 19:20:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
