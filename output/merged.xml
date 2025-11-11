@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 11 Nov 2025 12:28:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 13:26:27 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Int’l media association denounces Israeli settler attacks on journalists]]></title>
+<link>https://www.newagebd.net/post/middle-east/281803/intl-media-association-denounces-israeli-settler-attacks-on-journalists</link>
+<pubDate>Tue, 11 Nov 2025 13:21:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[At least 8 killed in car explosion near Red Fort in India capital]]></title>
 <link>https://www.newagebd.net/post/South%20Asia/281775/at-least-8-killed-in-car-explosion-near-red-fort-in-india-capital</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine scrambles for energy after Russian attacks]]></title>
-<link>https://www.newagebd.net/post/europe/281730/ukraine-scrambles-for-energy-after-russian-attacks</link>
-<pubDate>Mon, 10 Nov 2025 17:07:30 -0000</pubDate>
+<title><![CDATA[At least 12 people killed, dozens injured in Islamabad suicide bombing]]></title>
+<link>https://www.newagebd.net/post/South%20Asia/281835/at-least-12-people-killed-dozens-injured-in-islamabad-suicide-bombing</link>
+<pubDate>Tue, 11 Nov 2025 13:26:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Death toll in Malaysia migrant shipwreck rises to 21]]></title>
 <link>https://www.newagebd.net/post/asia/281824/death-toll-in-malaysia-migrant-shipwreck-rises-to-21</link>
 <pubDate>Mon, 10 Nov 2025 20:05:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Int’l media association denounces Israeli settler attacks on journalists]]></title>
-<link>https://www.newagebd.net/post/middle-east/281803/intl-media-association-denounces-israeli-settler-attacks-on-journalists</link>
-<pubDate>Mon, 10 Nov 2025 19:50:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
