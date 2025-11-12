@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 12 Nov 2025 20:15:45 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Nov 2025 21:13:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[All 20 passengers killed after Turkish military plane crashes in Georgia]]></title>
 <link>https://www.newagebd.net/post/europe/281932/all-20-passengers-killed-after-turkish-military-plane-crashes-in-georgia</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Arrival of US aircraft carrier fuels Venezuelan fears of attack]]></title>
+<link>https://www.newagebd.net/post/latin-america/281962/arrival-of-us-aircraft-carrier-fuels-venezuelan-fears-of-attack</link>
+<pubDate>Wed, 12 Nov 2025 21:13:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[42 feared dead in migrant shipwreck off Libya: UN]]></title>
 <link>https://www.newagebd.net/post/europe/281961/42-feared-dead-in-migrant-shipwreck-off-libya-un</link>
 <pubDate>Wed, 12 Nov 2025 17:19:36 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Trump claims ‘obligation’ to sue BBC over speech edit]]></title>
 <link>https://www.newagebd.net/post/north-america/281959/trump-claims-obligation-to-sue-bbc-over-speech-edit</link>
 <pubDate>Wed, 12 Nov 2025 16:49:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[UK minister denies plotting against Starmer as rumours swirl]]></title>
-<link>https://www.newagebd.net/post/europe/281958/uk-minister-denies-plotting-against-starmer-as-rumours-swirl</link>
-<pubDate>Wed, 12 Nov 2025 16:34:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
