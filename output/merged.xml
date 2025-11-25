@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 25 Nov 2025 19:11:48 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 20:15:55 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Thailand floods kill 13, leaving people stranded, roads submerged]]></title>
+<link>https://www.newagebd.net/post/asia/283223/thailand-floods-kill-13-leaving-people-stranded-roads-submerged</link>
+<pubDate>Tue, 25 Nov 2025 20:15:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump ends US protected status for Myanmar nationals]]></title>
 <link>https://www.newagebd.net/post/north-america/283222/trump-ends-us-protected-status-for-myanmar-nationals</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela rejects US terrorist designation as ‘ridiculous lie’]]></title>
-<link>https://www.newagebd.net/post/latin-america/283151/venezuela-rejects-us-terrorist-designation-as-ridiculous-lie</link>
-<pubDate>Tue, 25 Nov 2025 16:06:26 -0000</pubDate>
+<title><![CDATA[Russia hammers Kyiv as talks over US plan rumble on]]></title>
+<link>https://www.newagebd.net/post/europe/283265/russia-hammers-kyiv-as-talks-over-us-plan-rumble-on</link>
+<pubDate>Tue, 25 Nov 2025 19:46:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Syrians protest after attacks on Alawite minority]]></title>
 <link>https://www.newagebd.net/post/middle-east/283224/syrians-protest-after-attacks-on-alawite-minority</link>
 <pubDate>Tue, 25 Nov 2025 17:51:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Thailand floods kill 13, leaving people stranded, roads submerged]]></title>
-<link>https://www.newagebd.net/post/asia/283223/thailand-floods-kill-13-leaving-people-stranded-roads-submerged</link>
-<pubDate>Tue, 25 Nov 2025 17:36:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
