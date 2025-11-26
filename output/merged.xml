@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 26 Nov 2025 12:29:26 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Nov 2025 13:30:21 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syrians protest after attacks on Alawite minority]]></title>
+<link>https://www.newagebd.net/post/middle-east/283224/syrians-protest-after-attacks-on-alawite-minority</link>
+<pubDate>Wed, 26 Nov 2025 13:30:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Thailand floods kill 13, leaving people stranded, roads submerged]]></title>
 <link>https://www.newagebd.net/post/asia/283223/thailand-floods-kill-13-leaving-people-stranded-roads-submerged</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China slams Japan’s plans to deploy missiles near Taiwan]]></title>
-<link>https://www.newagebd.net/post/asia/283152/china-slams-japans-plans-to-deploy-missiles-near-taiwan</link>
-<pubDate>Tue, 25 Nov 2025 16:21:26 -0000</pubDate>
+<title><![CDATA[Gaza survival at stake, UN warns]]></title>
+<link>https://www.newagebd.net/post/middle-east/283278/gaza-survival-at-stake-un-warns</link>
+<pubDate>Wed, 26 Nov 2025 13:30:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Japan scrambles aircraft over suspected China drone near Taiwan]]></title>
 <link>https://www.newagebd.net/post/asia/283225/japan-scrambles-aircraft-over-suspected-china-drone-near-taiwan</link>
 <pubDate>Tue, 25 Nov 2025 18:06:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrians protest after attacks on Alawite minority]]></title>
-<link>https://www.newagebd.net/post/middle-east/283224/syrians-protest-after-attacks-on-alawite-minority</link>
-<pubDate>Tue, 25 Nov 2025 17:51:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
