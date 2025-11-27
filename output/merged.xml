@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 27 Nov 2025 07:15:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 08:20:51 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Palestine Action launches court bid to scrap UK ban]]></title>
+<link>https://www.newagebd.net/post/europe/283358/palestine-action-launches-court-bid-to-scrap-uk-ban</link>
+<pubDate>Thu, 27 Nov 2025 08:20:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Democratic lawmakers accuse Trump of using FBI to ‘intimidate’ them]]></title>
 <link>https://www.newagebd.net/post/north-america/283357/democratic-lawmakers-accuse-trump-of-using-fbi-to-intimidate-them</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrians protest after attacks on Alawite minority]]></title>
-<link>https://www.newagebd.net/post/middle-east/283224/syrians-protest-after-attacks-on-alawite-minority</link>
-<pubDate>Wed, 26 Nov 2025 13:30:20 -0000</pubDate>
+<title><![CDATA[Israel launches new operation in West Bank]]></title>
+<link>https://www.newagebd.net/post/middle-east/283369/israel-launches-new-operation-in-west-bank</link>
+<pubDate>Thu, 27 Nov 2025 08:20:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Hundreds protest violence against women in Mexico]]></title>
 <link>https://www.newagebd.net/post/latin-america/283359/hundreds-protest-violence-against-women-in-mexico</link>
 <pubDate>Wed, 26 Nov 2025 18:56:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Palestine Action launches court bid to scrap UK ban]]></title>
-<link>https://www.newagebd.net/post/europe/283358/palestine-action-launches-court-bid-to-scrap-uk-ban</link>
-<pubDate>Wed, 26 Nov 2025 18:41:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
