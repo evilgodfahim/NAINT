@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 27 Nov 2025 10:15:51 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 11:12:58 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Hundreds protest violence against women in Mexico]]></title>
+<link>https://www.newagebd.net/post/latin-america/283359/hundreds-protest-violence-against-women-in-mexico</link>
+<pubDate>Thu, 27 Nov 2025 11:12:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Palestine Action launches court bid to scrap UK ban]]></title>
 <link>https://www.newagebd.net/post/europe/283358/palestine-action-launches-court-bid-to-scrap-uk-ban</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan scrambles aircraft over suspected China drone near Taiwan]]></title>
-<link>https://www.newagebd.net/post/asia/283225/japan-scrambles-aircraft-over-suspected-china-drone-near-taiwan</link>
-<pubDate>Wed, 26 Nov 2025 16:15:39 -0000</pubDate>
+<title><![CDATA[Magnitude 6.6 quake hits western Indonesia: USGS]]></title>
+<link>https://www.newagebd.net/post/asia/283393/magnitude-66-quake-hits-western-indonesia-usgs</link>
+<pubDate>Thu, 27 Nov 2025 11:12:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Floods in Thailand, Malaysia kill 34, displace thousands]]></title>
 <link>https://www.newagebd.net/post/asia/283361/floods-in-thailand-malaysia-kill-34-displace-thousands</link>
 <pubDate>Wed, 26 Nov 2025 19:11:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hundreds protest violence against women in Mexico]]></title>
-<link>https://www.newagebd.net/post/latin-america/283359/hundreds-protest-violence-against-women-in-mexico</link>
-<pubDate>Wed, 26 Nov 2025 18:56:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
