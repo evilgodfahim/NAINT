@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 27 Nov 2025 18:19:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 19:10:59 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Japan denies report that Trump told PM not to provoke China on Taiwan]]></title>
+<link>https://www.newagebd.net/post/asia/283447/japan-denies-report-that-trump-told-pm-not-to-provoke-china-on-taiwan</link>
+<pubDate>Thu, 27 Nov 2025 19:10:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Nigeria declares national emergency after mass kidnappings]]></title>
 <link>https://www.newagebd.net/post/africa/283446/nigeria-declares-national-emergency-after-mass-kidnappings</link>
@@ -41,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[65 dead, over 250 missing in Hong Kong’s deadliest blaze in decades]]></title>
-<link>https://www.newagebd.net/post/Asia/283398/65-dead-over-250-missing-in-hong-kongs-deadliest-blaze-in-decades</link>
-<pubDate>Thu, 27 Nov 2025 15:52:29 -0000</pubDate>
+<title><![CDATA[Death toll rises to 83 in HK fire]]></title>
+<link>https://www.newagebd.net/post/Asia/283398/death-toll-rises-to-83-in-hk-fire</link>
+<pubDate>Thu, 27 Nov 2025 18:55:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli army fortifying positions in south Lebanon]]></title>
-<link>https://www.newagebd.net/post/middle-east/283362/israeli-army-fortifying-positions-in-south-lebanon</link>
-<pubDate>Thu, 27 Nov 2025 15:14:22 -0000</pubDate>
+<title><![CDATA[Israel launches new strikes in south Lebanon]]></title>
+<link>https://www.newagebd.net/post/middle-east/283451/israel-launches-new-strikes-in-south-lebanon</link>
+<pubDate>Thu, 27 Nov 2025 19:10:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Venezuela bans airlines that halted flights per US warning]]></title>
 <link>https://www.newagebd.net/post/latin-america/283448/venezuela-bans-airlines-that-halted-flights-per-us-warning</link>
 <pubDate>Thu, 27 Nov 2025 17:05:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan denies report that Trump told PM not to provoke China on Taiwan]]></title>
-<link>https://www.newagebd.net/post/asia/283447/japan-denies-report-that-trump-told-pm-not-to-provoke-china-on-taiwan</link>
-<pubDate>Thu, 27 Nov 2025 16:50:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
