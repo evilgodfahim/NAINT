@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 28 Nov 2025 13:26:07 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 14:13:59 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israel launches new strikes in south Lebanon]]></title>
+<link>https://www.newagebd.net/post/middle-east/283451/israel-launches-new-strikes-in-south-lebanon</link>
+<pubDate>Fri, 28 Nov 2025 14:13:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[France to restore voluntary military service: Macron]]></title>
 <link>https://www.newagebd.net/post/europe/283450/france-to-restore-voluntary-military-service-macron</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guinea-Bissau military appoints general as leader after coup]]></title>
-<link>https://www.newagebd.net/post/africa/283404/guinea-bissau-military-appoints-general-as-leader-after-coup</link>
-<pubDate>Thu, 27 Nov 2025 16:07:29 -0000</pubDate>
+<title><![CDATA[Trump says to suspend ‘third world’ migration after troop killed]]></title>
+<link>https://www.newagebd.net/post/North%20America/283501/trump-says-to-suspend-third-world-migration-after-troop-killed</link>
+<pubDate>Fri, 28 Nov 2025 14:13:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Russia will stop fighting when Ukraine withdraws: Putin]]></title>
 <link>https://www.newagebd.net/post/europe/283469/russia-will-stop-fighting-when-ukraine-withdraws-putin</link>
 <pubDate>Thu, 27 Nov 2025 22:13:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel launches new strikes in south Lebanon]]></title>
-<link>https://www.newagebd.net/post/middle-east/283451/israel-launches-new-strikes-in-south-lebanon</link>
-<pubDate>Thu, 27 Nov 2025 19:10:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
