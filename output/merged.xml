@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 29 Nov 2025 13:21:52 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Nov 2025 14:12:04 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Zuma’s daughter quits S African parliament]]></title>
+<link>https://www.newagebd.net/post/africa/283537/zumas-daughter-quits-s-african-parliament</link>
+<pubDate>Sat, 29 Nov 2025 14:12:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[ICC rejects release for Duterte]]></title>
 <link>https://www.newagebd.net/post/europe/283536/icc-rejects-release-for-duterte</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll in Southeast Asia floods tops 300]]></title>
-<link>https://www.newagebd.net/post/South%20Asia/283506/death-toll-in-southeast-asia-floods-tops-300</link>
-<pubDate>Fri, 28 Nov 2025 19:00:08 -0000</pubDate>
+<title><![CDATA[Millions pushed into risky migration in Asia as livelihoods collapse: OHCHR]]></title>
+<link>https://www.newagebd.net/post/asia/283617/millions-pushed-into-risky-migration-in-asia-as-livelihoods-collapse-ohchr</link>
+<pubDate>Sat, 29 Nov 2025 14:12:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Guinea-Bissau capital inches back to normal after coup]]></title>
 <link>https://www.newagebd.net/post/africa/283538/guinea-bissau-capital-inches-back-to-normal-after-coup</link>
 <pubDate>Fri, 28 Nov 2025 19:10:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Zuma’s daughter quits S African parliament]]></title>
-<link>https://www.newagebd.net/post/africa/283537/zumas-daughter-quits-s-african-parliament</link>
-<pubDate>Fri, 28 Nov 2025 18:55:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
