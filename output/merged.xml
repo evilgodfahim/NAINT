@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 29 Nov 2025 14:12:04 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Nov 2025 15:12:46 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Guinea-Bissau capital inches back to normal after coup]]></title>
+<link>https://www.newagebd.net/post/africa/283538/guinea-bissau-capital-inches-back-to-normal-after-coup</link>
+<pubDate>Sat, 29 Nov 2025 15:12:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Zuma’s daughter quits S African parliament]]></title>
 <link>https://www.newagebd.net/post/africa/283537/zumas-daughter-quits-s-african-parliament</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Death toll from Hong Kong’s fire rises to 128, dozens missing]]></title>
-<link>https://www.newagebd.net/post/Asia/283518/death-toll-from-hong-kongs-fire-rises-to-128-dozens-missing</link>
-<pubDate>Fri, 28 Nov 2025 17:49:31 -0000</pubDate>
+<title><![CDATA[Sri Lanka declares emergency as cyclone kills 132]]></title>
+<link>https://www.newagebd.net/post/south-asia/283625/sri-lanka-declares-emergency-as-cyclone-kills-132</link>
+<pubDate>Sat, 29 Nov 2025 15:12:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israeli forces kill 13 in southern Syria operation]]></title>
 <link>https://www.newagebd.net/post/middle-east/283539/israeli-forces-kill-13-in-southern-syria-operation</link>
 <pubDate>Fri, 28 Nov 2025 20:15:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Guinea-Bissau capital inches back to normal after coup]]></title>
-<link>https://www.newagebd.net/post/africa/283538/guinea-bissau-capital-inches-back-to-normal-after-coup</link>
-<pubDate>Fri, 28 Nov 2025 19:10:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
