@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 01 Dec 2025 19:16:18 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 20:14:31 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Gunmen kidnap dozens Nigerians across two states]]></title>
+<link>https://www.newagebd.net/post/africa/283851/gunmen-kidnap-dozens-nigerians-across-two-states</link>
+<pubDate>Mon, 01 Dec 2025 20:14:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[‘Rage bait’ wins Oxford’s word of 2025]]></title>
 <link>https://www.newagebd.net/post/Europe/283840/rage-bait-wins-oxfords-word-of-2025</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[PKK urges Turkey to free Ocalan to advance peace process]]></title>
-<link>https://www.newagebd.net/post/middle-east/283745/pkk-urges-turkey-to-free-ocalan-to-advance-peace-process</link>
-<pubDate>Sun, 30 Nov 2025 19:59:53 -0000</pubDate>
+<title><![CDATA[HK arrests suspects as fire toll hits 151]]></title>
+<link>https://www.newagebd.net/post/asia/283856/hk-arrests-suspects-as-fire-toll-hits-151</link>
+<pubDate>Mon, 01 Dec 2025 20:14:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[HIV prevention shots begin in Africa]]></title>
 <link>https://www.newagebd.net/post/africa/283852/hiv-prevention-shots-begin-in-africa</link>
 <pubDate>Mon, 01 Dec 2025 17:53:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gunmen kidnap dozens Nigerians across two states]]></title>
-<link>https://www.newagebd.net/post/africa/283851/gunmen-kidnap-dozens-nigerians-across-two-states</link>
-<pubDate>Mon, 01 Dec 2025 17:38:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
