@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 02 Dec 2025 05:14:34 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 06:23:08 GMT</lastBuildDate>
+<item>
+<title><![CDATA[HK arrests suspects as fire toll hits 151]]></title>
+<link>https://www.newagebd.net/post/asia/283856/hk-arrests-suspects-as-fire-toll-hits-151</link>
+<pubDate>Tue, 02 Dec 2025 06:23:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[US gave Maduro chance to leave country: senator]]></title>
 <link>https://www.newagebd.net/post/north-america/283855/us-gave-maduro-chance-to-leave-country-senator</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hong Kong in mourning as fire death toll climbs to 146]]></title>
-<link>https://www.newagebd.net/post/asia/283749/hong-kong-in-mourning-as-fire-death-toll-climbs-to-146</link>
-<pubDate>Mon, 01 Dec 2025 16:20:02 -0000</pubDate>
+<title><![CDATA[Saudi residents say booze ban eased for more foreigners]]></title>
+<link>https://www.newagebd.net/post/middle-east/283923/saudi-residents-say-booze-ban-eased-for-more-foreigners</link>
+<pubDate>Tue, 02 Dec 2025 06:23:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Asia floods death toll tops 1,100]]></title>
 <link>https://www.newagebd.net/post/south-asia/283892/asia-floods-death-toll-tops-1100</link>
 <pubDate>Mon, 01 Dec 2025 21:42:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[HK arrests suspects as fire toll hits 151]]></title>
-<link>https://www.newagebd.net/post/asia/283856/hk-arrests-suspects-as-fire-toll-hits-151</link>
-<pubDate>Mon, 01 Dec 2025 20:14:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
