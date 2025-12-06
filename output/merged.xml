@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 06 Dec 2025 11:10:52 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 12:25:48 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump strategy pivots from global role, vows Europe ‘resistance’]]></title>
+<link>https://www.newagebd.net/post/north-america/284300/trump-strategy-pivots-from-global-role-vows-europe-resistance</link>
+<pubDate>Sat, 06 Dec 2025 12:25:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Asia flood death toll hits 1,750]]></title>
 <link>https://www.newagebd.net/post/asia/284298/asia-flood-death-toll-hits-1750</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China deploys warships in military ops: Taiwan]]></title>
-<link>https://www.newagebd.net/post/asia/284256/china-deploys-warships-in-military-ops-taiwan</link>
-<pubDate>Fri, 05 Dec 2025 19:32:27 -0000</pubDate>
+<title><![CDATA[Israeli army kill man in West Bank]]></title>
+<link>https://www.newagebd.net/post/middle-east/284334/israeli-army-kill-man-in-west-bank</link>
+<pubDate>Sat, 06 Dec 2025 12:25:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Hong Kong univ suspends student union over fire justice calls]]></title>
 <link>https://www.newagebd.net/post/asia/284330/hong-kong-univ-suspends-student-union-over-fire-justice-calls</link>
 <pubDate>Fri, 05 Dec 2025 22:43:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump strategy pivots from global role, vows Europe ‘resistance’]]></title>
-<link>https://www.newagebd.net/post/north-america/284300/trump-strategy-pivots-from-global-role-vows-europe-resistance</link>
-<pubDate>Fri, 05 Dec 2025 22:28:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
