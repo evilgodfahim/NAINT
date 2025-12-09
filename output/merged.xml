@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 09 Dec 2025 11:13:48 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 12:30:14 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Indonesia faces food, medical shortages after flood]]></title>
+<link>https://www.newagebd.net/post/asia/284605/indonesia-faces-food-medical-shortages-after-flood</link>
+<pubDate>Tue, 09 Dec 2025 12:30:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Syria’s Sharaa urges unity for post-Assad rebuild]]></title>
 <link>https://www.newagebd.net/post/middle-east/284604/syrias-sharaa-urges-unity-for-post-assad-rebuild</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Choppy wave kills four in Spain’s Tenerife]]></title>
-<link>https://www.newagebd.net/post/europe/284594/choppy-wave-kills-four-in-spains-tenerife</link>
-<pubDate>Mon, 08 Dec 2025 16:22:04 -0000</pubDate>
+<title><![CDATA[Major Japan quake injures 30]]></title>
+<link>https://www.newagebd.net/post/asia/284650/major-japan-quake-injures-30</link>
+<pubDate>Tue, 09 Dec 2025 12:30:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[European allies back Zelensky]]></title>
 <link>https://www.newagebd.net/post/europe/284606/european-allies-back-zelensky</link>
 <pubDate>Mon, 08 Dec 2025 18:07:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesia faces food, medical shortages after flood]]></title>
-<link>https://www.newagebd.net/post/asia/284605/indonesia-faces-food-medical-shortages-after-flood</link>
-<pubDate>Mon, 08 Dec 2025 17:52:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
