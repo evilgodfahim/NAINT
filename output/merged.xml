@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 09 Dec 2025 07:17:16 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 08:21:16 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syria’s Sharaa urges unity for post-Assad rebuild]]></title>
+<link>https://www.newagebd.net/post/middle-east/284604/syrias-sharaa-urges-unity-for-post-assad-rebuild</link>
+<pubDate>Tue, 09 Dec 2025 08:21:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Greek farmers clash with police on Crete]]></title>
 <link>https://www.newagebd.net/post/europe/284603/greek-farmers-clash-with-police-on-crete</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Car bomb kills 5 in front of Mexican PS]]></title>
-<link>https://www.newagebd.net/post/latin-america/284593/car-bomb-kills-5-in-front-of-mexican-ps</link>
-<pubDate>Mon, 08 Dec 2025 16:07:04 -0000</pubDate>
+<title><![CDATA[UN slams global apathy in 2026 aid appeal]]></title>
+<link>https://www.newagebd.net/post/north-america/284608/un-slams-global-apathy-in-2026-aid-appeal</link>
+<pubDate>Tue, 09 Dec 2025 08:21:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Indonesia faces food, medical shortages after flood]]></title>
 <link>https://www.newagebd.net/post/asia/284605/indonesia-faces-food-medical-shortages-after-flood</link>
 <pubDate>Mon, 08 Dec 2025 17:52:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syria’s Sharaa urges unity for post-Assad rebuild]]></title>
-<link>https://www.newagebd.net/post/middle-east/284604/syrias-sharaa-urges-unity-for-post-assad-rebuild</link>
-<pubDate>Mon, 08 Dec 2025 17:37:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
