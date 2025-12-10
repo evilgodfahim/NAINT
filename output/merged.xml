@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 10 Dec 2025 19:13:23 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Dec 2025 20:17:07 GMT</lastBuildDate>
+<item>
+<title><![CDATA[EU agrees deal to cut emissions 90pc by 2040]]></title>
+<link>https://www.newagebd.net/post/europe/284792/eu-agrees-deal-to-cut-emissions-90pc-by-2040</link>
+<pubDate>Wed, 10 Dec 2025 20:17:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Australian mum of late teen says social media ban ‘bittersweet’]]></title>
 <link>https://www.newagebd.net/post/Oceania/284791/australian-mum-of-late-teen-says-social-media-ban-bittersweet</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hamas says no Gaza truce second phase]]></title>
-<link>https://www.newagebd.net/post/middle-east/284687/hamas-says-no-gaza-truce-second-phase</link>
-<pubDate>Tue, 09 Dec 2025 20:14:45 -0000</pubDate>
+<title><![CDATA[South Korea, Japan protest over China, Russia aircraft incursions]]></title>
+<link>https://www.newagebd.net/post/Asia/284798/south-korea-japan-protest-over-china-russia-aircraft-incursions</link>
+<pubDate>Wed, 10 Dec 2025 20:17:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Daughter of Machado picks up Nobel peace prize in her absence]]></title>
 <link>https://www.newagebd.net/post/europe/284793/daughter-of-machado-picks-up-nobel-peace-prize-in-her-absence</link>
 <pubDate>Wed, 10 Dec 2025 15:50:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU agrees deal to cut emissions 90pc by 2040]]></title>
-<link>https://www.newagebd.net/post/europe/284792/eu-agrees-deal-to-cut-emissions-90pc-by-2040</link>
-<pubDate>Wed, 10 Dec 2025 15:35:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
