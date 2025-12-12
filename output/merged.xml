@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 12 Dec 2025 09:18:54 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Dec 2025 10:16:17 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US seized ‘very large’ tanker near Venezuela, Trump says]]></title>
+<link>https://www.newagebd.net/post/north-america/284890/us-seized-very-large-tanker-near-venezuela-trump-says</link>
+<pubDate>Fri, 12 Dec 2025 10:16:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[US, Japan hold joint air exercise]]></title>
 <link>https://www.newagebd.net/post/asia/284887/us-japan-hold-joint-air-exercise</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU agrees deal to cut emissions 90pc by 2040]]></title>
-<link>https://www.newagebd.net/post/europe/284792/eu-agrees-deal-to-cut-emissions-90pc-by-2040</link>
-<pubDate>Wed, 10 Dec 2025 20:17:06 -0000</pubDate>
+<title><![CDATA[Japan issues tsunami warning after 6.7-magnitude quake]]></title>
+<link>https://www.newagebd.net/post/Asia/284957/japan-issues-tsunami-warning-after-67-magnitude-quake</link>
+<pubDate>Fri, 12 Dec 2025 10:16:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Machado says US helped her leave Venezuela, vows return]]></title>
 <link>https://www.newagebd.net/post/europe/284891/machado-says-us-helped-her-leave-venezuela-vows-return</link>
 <pubDate>Thu, 11 Dec 2025 20:17:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US seized ‘very large’ tanker near Venezuela, Trump says]]></title>
-<link>https://www.newagebd.net/post/north-america/284890/us-seized-very-large-tanker-near-venezuela-trump-says</link>
-<pubDate>Thu, 11 Dec 2025 20:02:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
