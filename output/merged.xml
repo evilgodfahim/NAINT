@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 12 Dec 2025 07:18:25 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Dec 2025 08:21:06 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US, Japan hold joint air exercise]]></title>
+<link>https://www.newagebd.net/post/asia/284887/us-japan-hold-joint-air-exercise</link>
+<pubDate>Fri, 12 Dec 2025 08:21:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Bulgarian govt resigns after mass protests: PM]]></title>
 <link>https://www.newagebd.net/post/Europe/284883/bulgarian-govt-resigns-after-mass-protests-pm</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Australian mum of late teen says social media ban ‘bittersweet’]]></title>
-<link>https://www.newagebd.net/post/Oceania/284791/australian-mum-of-late-teen-says-social-media-ban-bittersweet</link>
-<pubDate>Wed, 10 Dec 2025 18:22:16 -0000</pubDate>
+<title><![CDATA[Fighting rages along border of Cambodia, Thailand]]></title>
+<link>https://www.newagebd.net/post/south-asia/284938/fighting-rages-along-border-of-cambodia-thailand</link>
+<pubDate>Fri, 12 Dec 2025 08:21:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[US seized ‘very large’ tanker near Venezuela, Trump says]]></title>
 <link>https://www.newagebd.net/post/north-america/284890/us-seized-very-large-tanker-near-venezuela-trump-says</link>
 <pubDate>Thu, 11 Dec 2025 20:02:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US, Japan hold joint air exercise]]></title>
-<link>https://www.newagebd.net/post/asia/284887/us-japan-hold-joint-air-exercise</link>
-<pubDate>Thu, 11 Dec 2025 19:47:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
