@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Dec 2025 15:13:09 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 16:15:49 GMT</lastBuildDate>
+<item>
+<title><![CDATA[N Korea troops cleared mines for Russia: Kim]]></title>
+<link>https://www.newagebd.net/post/asia/285156/n-korea-troops-cleared-mines-for-russia-kim</link>
+<pubDate>Sun, 14 Dec 2025 16:15:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Cambodia shuts Thailand border]]></title>
 <link>https://www.newagebd.net/post/south-asia/285126/cambodia-shuts-thailand-border</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[ELN locks down Colombian areas, cites Trump threats]]></title>
-<link>https://www.newagebd.net/post/latin-america/285087/eln-locks-down-colombian-areas-cites-trump-threats</link>
-<pubDate>Sat, 13 Dec 2025 18:29:32 -0000</pubDate>
+<title><![CDATA[Nine dead after shooting at Australia’s Bondi beach]]></title>
+<link>https://www.newagebd.net/post/Oceania/285178/nine-dead-after-shooting-at-australias-bondi-beach</link>
+<pubDate>Sun, 14 Dec 2025 16:15:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Guterres marks end of UN mission in Iraq]]></title>
 <link>https://www.newagebd.net/post/middle-east/285157/guterres-marks-end-of-un-mission-in-iraq</link>
 <pubDate>Sat, 13 Dec 2025 20:14:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[N Korea troops cleared mines for Russia: Kim]]></title>
-<link>https://www.newagebd.net/post/asia/285156/n-korea-troops-cleared-mines-for-russia-kim</link>
-<pubDate>Sat, 13 Dec 2025 19:59:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
