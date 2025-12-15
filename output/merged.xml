@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 15 Dec 2025 14:19:17 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 15:19:06 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump hints at possible Republican loss in midterms]]></title>
+<link>https://www.newagebd.net/post/north-america/285208/trump-hints-at-possible-republican-loss-in-midterms</link>
+<pubDate>Mon, 15 Dec 2025 15:19:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Hamas says weapons are ‘legitimate right’]]></title>
 <link>https://www.newagebd.net/post/middle-east/285207/hamas-says-weapons-are-legitimate-right</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guterres marks end of UN mission in Iraq]]></title>
-<link>https://www.newagebd.net/post/middle-east/285157/guterres-marks-end-of-un-mission-in-iraq</link>
-<pubDate>Sun, 14 Dec 2025 16:34:32 -0000</pubDate>
+<title><![CDATA[Zelensky in Berlin for talks with US envoys, Europeans]]></title>
+<link>https://www.newagebd.net/post/europe/285251/zelensky-in-berlin-for-talks-with-us-envoys-europeans</link>
+<pubDate>Mon, 15 Dec 2025 15:19:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[EU urges Iran to release Nobel-prize winner Mohammadi]]></title>
 <link>https://www.newagebd.net/post/europe/285209/eu-urges-iran-to-release-nobel-prize-winner-mohammadi</link>
 <pubDate>Sun, 14 Dec 2025 18:19:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump hints at possible Republican loss in midterms]]></title>
-<link>https://www.newagebd.net/post/north-america/285208/trump-hints-at-possible-republican-loss-in-midterms</link>
-<pubDate>Sun, 14 Dec 2025 18:04:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
