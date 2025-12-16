@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 16 Dec 2025 05:17:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Dec 2025 06:23:34 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Saudi Arabia executes 340 people in 2025]]></title>
+<link>https://www.newagebd.net/post/middle-east/285285/saudi-arabia-executes-340-people-in-2025</link>
+<pubDate>Tue, 16 Dec 2025 06:23:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Louvre Museum closed as workers strike]]></title>
 <link>https://www.newagebd.net/post/europe/285284/louvre-museum-closed-as-workers-strike</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump hints at possible Republican loss in midterms]]></title>
-<link>https://www.newagebd.net/post/north-america/285208/trump-hints-at-possible-republican-loss-in-midterms</link>
-<pubDate>Mon, 15 Dec 2025 15:19:05 -0000</pubDate>
+<title><![CDATA[Israeli army to demolish 25 residential buildings in West Bank camp]]></title>
+<link>https://www.newagebd.net/post/middle-east/285323/israeli-army-to-demolish-25-residential-buildings-in-west-bank-camp</link>
+<pubDate>Tue, 16 Dec 2025 06:23:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Flash flood kills dozens in Morocco town]]></title>
 <link>https://www.newagebd.net/post/africa/285287/flash-flood-kills-dozens-in-morocco-town</link>
 <pubDate>Mon, 15 Dec 2025 18:22:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Saudi Arabia executes 340 people in 2025]]></title>
-<link>https://www.newagebd.net/post/middle-east/285285/saudi-arabia-executes-340-people-in-2025</link>
-<pubDate>Mon, 15 Dec 2025 18:07:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
