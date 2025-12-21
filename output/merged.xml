@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 21 Dec 2025 19:10:48 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 20:14:55 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Taiwan police rule out ‘terrorism’ in metro stabbing]]></title>
+<link>https://www.newagebd.net/post/asia/285812/taiwan-police-rule-out-terrorism-in-metro-stabbing</link>
+<pubDate>Sun, 21 Dec 2025 20:14:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[North Korea says Japan’s nuclear ambitions must be stopped ‘at any cost’]]></title>
 <link>https://www.newagebd.net/post/asia/285811/north-korea-says-japans-nuclear-ambitions-must-be-stopped-at-any-cost</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[2nd drone in 24hrs crashed in Turkey]]></title>
-<link>https://www.newagebd.net/post/middle-east/285728/2nd-drone-in-24hrs-crashed-in-turkey</link>
-<pubDate>Sat, 20 Dec 2025 21:43:06 -0000</pubDate>
+<title><![CDATA[Drone attack on Sudan’s Darfur market kills 10]]></title>
+<link>https://www.newagebd.net/post/africa/285817/drone-attack-on-sudans-darfur-market-kills-10</link>
+<pubDate>Sun, 21 Dec 2025 20:14:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Victims, lawmakers criticise partial release of Epstein files]]></title>
 <link>https://www.newagebd.net/post/north-america/285813/victims-lawmakers-criticise-partial-release-of-epstein-files</link>
 <pubDate>Sun, 21 Dec 2025 17:49:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Taiwan police rule out ‘terrorism’ in metro stabbing]]></title>
-<link>https://www.newagebd.net/post/asia/285812/taiwan-police-rule-out-terrorism-in-metro-stabbing</link>
-<pubDate>Sun, 21 Dec 2025 17:34:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
