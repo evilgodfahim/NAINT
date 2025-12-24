@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 24 Dec 2025 19:11:20 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Dec 2025 20:15:41 GMT</lastBuildDate>
+<item>
+<title><![CDATA[India launches its heaviest satellite]]></title>
+<link>https://www.newagebd.net/post/south-asia/286062/india-launches-its-heaviest-satellite</link>
+<pubDate>Wed, 24 Dec 2025 20:15:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Libya’s top military chief killed in plane crash in Turkey]]></title>
 <link>https://www.newagebd.net/post/Middle%20East/286048/libyas-top-military-chief-killed-in-plane-crash-in-turkey</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Greta arrested at protest in London]]></title>
-<link>https://www.newagebd.net/post/europe/285996/greta-arrested-at-protest-in-london</link>
-<pubDate>Tue, 23 Dec 2025 19:30:30 -0000</pubDate>
+<title><![CDATA[Russia, China criticise US conduct towards Venezuela]]></title>
+<link>https://www.newagebd.net/post/europe/286083/russia-china-criticise-us-conduct-towards-venezuela</link>
+<pubDate>Wed, 24 Dec 2025 20:15:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[6.0-magnitude earthquake hits southeastern Taiwan]]></title>
 <link>https://www.newagebd.net/post/asia/286065/60-magnitude-earthquake-hits-southeastern-taiwan</link>
 <pubDate>Wed, 24 Dec 2025 15:48:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India launches its heaviest satellite]]></title>
-<link>https://www.newagebd.net/post/south-asia/286062/india-launches-its-heaviest-satellite</link>
-<pubDate>Wed, 24 Dec 2025 14:14:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
