@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 24 Dec 2025 05:18:55 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Dec 2025 06:24:14 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Turkey urges Kurds not to be obstacle to Syria’s stability]]></title>
+<link>https://www.newagebd.net/post/middle-east/286000/turkey-urges-kurds-not-to-be-obstacle-to-syrias-stability</link>
+<pubDate>Wed, 24 Dec 2025 06:24:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Houthis, Yemen govt say to exchange 3,000 prisoners]]></title>
 <link>https://www.newagebd.net/post/middle-east/285999/houthis-yemen-govt-say-to-exchange-3000-prisoners</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US in ‘pursuit’ of third oil tanker in Caribbean]]></title>
-<link>https://www.newagebd.net/post/latin-america/285909/us-in-pursuit-of-third-oil-tanker-in-caribbean</link>
-<pubDate>Tue, 23 Dec 2025 17:06:30 -0000</pubDate>
+<title><![CDATA[Israel vows to establish outposts in Gaza]]></title>
+<link>https://www.newagebd.net/post/middle-east/286043/israel-vows-to-establish-outposts-in-gaza</link>
+<pubDate>Wed, 24 Dec 2025 06:24:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Russian strikes hit Ukraine energy sites]]></title>
 <link>https://www.newagebd.net/post/europe/286034/russian-strikes-hit-ukraine-energy-sites</link>
 <pubDate>Tue, 23 Dec 2025 19:45:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Turkey urges Kurds not to be obstacle to Syria’s stability]]></title>
-<link>https://www.newagebd.net/post/middle-east/286000/turkey-urges-kurds-not-to-be-obstacle-to-syrias-stability</link>
-<pubDate>Tue, 23 Dec 2025 19:30:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
