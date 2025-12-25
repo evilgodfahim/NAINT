@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 25 Dec 2025 15:14:36 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 16:17:44 GMT</lastBuildDate>
+<item>
+<title><![CDATA[6.0-magnitude earthquake hits southeastern Taiwan]]></title>
+<link>https://www.newagebd.net/post/asia/286065/60-magnitude-earthquake-hits-southeastern-taiwan</link>
+<pubDate>Thu, 25 Dec 2025 16:17:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[India launches its heaviest satellite]]></title>
 <link>https://www.newagebd.net/post/south-asia/286062/india-launches-its-heaviest-satellite</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Greenland PM says ‘our decisions are made here’]]></title>
-<link>https://www.newagebd.net/post/north-america/285997/greenland-pm-says-our-decisions-are-made-here</link>
-<pubDate>Tue, 23 Dec 2025 19:45:30 -0000</pubDate>
+<title><![CDATA[Israel demolishes home of Palestinian]]></title>
+<link>https://www.newagebd.net/post/middle-east/286122/israel-demolishes-home-of-palestinian</link>
+<pubDate>Thu, 25 Dec 2025 16:17:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Australian lawmakers approve sweeping new state gun laws, protest ban]]></title>
 <link>https://www.newagebd.net/post/oceania/286081/australian-lawmakers-approve-sweeping-new-state-gun-laws-protest-ban</link>
 <pubDate>Wed, 24 Dec 2025 16:03:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[6.0-magnitude earthquake hits southeastern Taiwan]]></title>
-<link>https://www.newagebd.net/post/asia/286065/60-magnitude-earthquake-hits-southeastern-taiwan</link>
-<pubDate>Wed, 24 Dec 2025 15:48:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
