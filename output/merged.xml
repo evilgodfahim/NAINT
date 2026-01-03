@@ -3,7 +3,19 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 03 Jan 2026 13:24:50 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 14:12:59 GMT</lastBuildDate>
+<item>
+<title><![CDATA[6.5-magnitude quake shakes Mexico City]]></title>
+<link>https://www.newagebd.net/post/north-america/287030/65-magnitude-quake-shakes-mexico-city</link>
+<pubDate>Sat, 03 Jan 2026 14:12:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Saudi coalition strikes on UAE-backed forces in Yemen]]></title>
+<link>https://www.newagebd.net/post/middle-east/287018/saudi-coalition-strikes-on-uae-backed-forces-in-yemen</link>
+<pubDate>Sat, 03 Jan 2026 13:57:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Ukraine denies targeting civilians in Russia]]></title>
 <link>https://www.newagebd.net/post/europe/287017/ukraine-denies-targeting-civilians-in-russia</link>
@@ -53,15 +65,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China drills near Taiwan raise tensions, says US]]></title>
-<link>https://www.newagebd.net/post/asia/286993/china-drills-near-taiwan-raise-tensions-says-us</link>
-<pubDate>Fri, 02 Jan 2026 18:06:23 -0000</pubDate>
+<title><![CDATA[US bombs Caracas, Maduro captured: Trump]]></title>
+<link>https://www.newagebd.net/post/latin-america/287059/us-bombs-caracas-maduro-captured-trump</link>
+<pubDate>Sat, 03 Jan 2026 14:12:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Swiss investigators rush to identify fire victims]]></title>
-<link>https://www.newagebd.net/post/europe/286990/swiss-investigators-rush-to-identify-fire-victims</link>
-<pubDate>Fri, 02 Jan 2026 17:51:23 -0000</pubDate>
+<title><![CDATA[Cambodia accuses Thailand of ‘annexing’ border village]]></title>
+<link>https://www.newagebd.net/post/asia/287034/cambodia-accuses-thailand-of-annexing-border-village</link>
+<pubDate>Sat, 03 Jan 2026 13:57:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -74,18 +86,6 @@
 <title><![CDATA[UK renewable electricity hits record high in 2025: study]]></title>
 <link>https://www.newagebd.net/post/europe/287031/uk-renewable-electricity-hits-record-high-in-2025-study</link>
 <pubDate>Fri, 02 Jan 2026 21:59:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[6.5-magnitude quake shakes Mexico City]]></title>
-<link>https://www.newagebd.net/post/north-america/287030/65-magnitude-quake-shakes-mexico-city</link>
-<pubDate>Fri, 02 Jan 2026 21:44:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Saudi coalition strikes on UAE-backed forces in Yemen]]></title>
-<link>https://www.newagebd.net/post/middle-east/287018/saudi-coalition-strikes-on-uae-backed-forces-in-yemen</link>
-<pubDate>Fri, 02 Jan 2026 21:29:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
