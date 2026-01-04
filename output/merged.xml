@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 04 Jan 2026 07:16:26 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 08:19:13 GMT</lastBuildDate>
+<item>
+<title><![CDATA[DRC forces-M23 clashes near key city]]></title>
+<link>https://www.newagebd.net/post/africa/287140/drc-forces-m23-clashes-near-key-city</link>
+<pubDate>Sun, 04 Jan 2026 08:19:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[MSF warns of halting Gaza work by March]]></title>
 <link>https://www.newagebd.net/post/middle-east/287139/msf-warns-of-halting-gaza-work-by-march</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Saudi-backed forces advance in Yemen’s Hadramawt]]></title>
-<link>https://www.newagebd.net/post/middle-east/287095/saudi-backed-forces-advance-in-yemens-hadramawt</link>
-<pubDate>Sat, 03 Jan 2026 21:13:57 -0000</pubDate>
+<title><![CDATA[Maduro in NY prison while Trump says United States to ‘control’ Venezuela]]></title>
+<link>https://www.newagebd.net/post/north-america/287144/maduro-in-ny-prison-while-trump-says-united-states-to-control-venezuela</link>
+<pubDate>Sun, 04 Jan 2026 08:19:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Trump invites Japan PM to US]]></title>
 <link>https://www.newagebd.net/post/asia/287141/trump-invites-japan-pm-to-us</link>
 <pubDate>Sat, 03 Jan 2026 22:58:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[DRC forces-M23 clashes near key city]]></title>
-<link>https://www.newagebd.net/post/africa/287140/drc-forces-m23-clashes-near-key-city</link>
-<pubDate>Sat, 03 Jan 2026 22:43:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
