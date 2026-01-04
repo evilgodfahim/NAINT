@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 04 Jan 2026 04:42:53 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 05:20:50 GMT</lastBuildDate>
+<item>
+<title><![CDATA[MSF warns of halting Gaza work by March]]></title>
+<link>https://www.newagebd.net/post/middle-east/287139/msf-warns-of-halting-gaza-work-by-march</link>
+<pubDate>Sun, 04 Jan 2026 05:20:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Salvadoran journalist arrested in Spain]]></title>
 <link>https://www.newagebd.net/post/europe/287138/salvadoran-journalist-arrested-in-spain</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN chief deeply alarmed as Trump says Maduro, wife to be brought to New York]]></title>
-<link>https://www.newagebd.net/post/North%20America/287067/un-chief-deeply-alarmed-as-trump-says-maduro-wife-to-be-brought-to-new-york</link>
-<pubDate>Sat, 03 Jan 2026 22:13:22 -0000</pubDate>
+<title><![CDATA[Sparklers blamed in deadly Swiss bar fire]]></title>
+<link>https://www.newagebd.net/post/europe/287143/sparklers-blamed-in-deadly-swiss-bar-fire</link>
+<pubDate>Sun, 04 Jan 2026 05:20:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[DRC forces-M23 clashes near key city]]></title>
 <link>https://www.newagebd.net/post/africa/287140/drc-forces-m23-clashes-near-key-city</link>
 <pubDate>Sat, 03 Jan 2026 22:43:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[MSF warns of halting Gaza work by March]]></title>
-<link>https://www.newagebd.net/post/middle-east/287139/msf-warns-of-halting-gaza-work-by-march</link>
-<pubDate>Sat, 03 Jan 2026 22:28:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
