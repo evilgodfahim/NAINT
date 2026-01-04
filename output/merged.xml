@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 04 Jan 2026 15:13:19 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 16:16:57 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump invites Japan PM to US]]></title>
+<link>https://www.newagebd.net/post/asia/287141/trump-invites-japan-pm-to-us</link>
+<pubDate>Sun, 04 Jan 2026 16:16:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[DRC forces-M23 clashes near key city]]></title>
 <link>https://www.newagebd.net/post/africa/287140/drc-forces-m23-clashes-near-key-city</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India unveils Buddha gems after century abroad]]></title>
-<link>https://www.newagebd.net/post/south-asia/287096/india-unveils-buddha-gems-after-century-abroad</link>
-<pubDate>Sat, 03 Jan 2026 21:28:57 -0000</pubDate>
+<title><![CDATA[Myanmar’s pro-military party dominates elections according to official results]]></title>
+<link>https://www.newagebd.net/post/south-asia/287147/myanmars-pro-military-party-dominates-elections-according-to-official-results</link>
+<pubDate>Sun, 04 Jan 2026 16:16:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[6.5-magnitude quake kills two in Mexico City]]></title>
 <link>https://www.newagebd.net/post/north-america/287142/65-magnitude-quake-kills-two-in-mexico-city</link>
 <pubDate>Sat, 03 Jan 2026 23:13:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump invites Japan PM to US]]></title>
-<link>https://www.newagebd.net/post/asia/287141/trump-invites-japan-pm-to-us</link>
-<pubDate>Sat, 03 Jan 2026 22:58:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
