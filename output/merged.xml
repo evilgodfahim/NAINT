@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 04 Jan 2026 19:10:59 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 20:16:11 GMT</lastBuildDate>
+<item>
+<title><![CDATA[30 killed, several kidnapped in central Nigeria]]></title>
+<link>https://www.newagebd.net/post/africa/287175/30-killed-several-kidnapped-in-central-nigeria</link>
+<pubDate>Sun, 04 Jan 2026 20:16:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[France, UK conduct joint strikes against IS in Syria]]></title>
 <link>https://www.newagebd.net/post/europe/287174/france-uk-conduct-joint-strikes-against-is-in-syria</link>
@@ -41,9 +47,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Maduro in NY prison while Trump says United States to ‘control’ Venezuela]]></title>
-<link>https://www.newagebd.net/post/north-america/287144/maduro-in-ny-prison-while-trump-says-united-states-to-control-venezuela</link>
-<pubDate>Sun, 04 Jan 2026 16:50:03 -0000</pubDate>
+<title><![CDATA[Maduro in NY jail, US to run Venezuela]]></title>
+<link>https://www.newagebd.net/post/North%20America/287144/maduro-in-ny-jail-us-to-run-venezuela</link>
+<pubDate>Sun, 04 Jan 2026 20:01:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump invites Japan PM to US]]></title>
-<link>https://www.newagebd.net/post/asia/287141/trump-invites-japan-pm-to-us</link>
-<pubDate>Sun, 04 Jan 2026 16:16:55 -0000</pubDate>
+<title><![CDATA[New clashes in Iran as protests enter second week]]></title>
+<link>https://www.newagebd.net/post/middle-east/287179/new-clashes-in-iran-as-protests-enter-second-week</link>
+<pubDate>Sun, 04 Jan 2026 20:16:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Starmer vows to see out five-year term]]></title>
 <link>https://www.newagebd.net/post/europe/287176/starmer-vows-to-see-out-five-year-term</link>
 <pubDate>Sun, 04 Jan 2026 17:50:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[30 killed, several kidnapped in central Nigeria]]></title>
-<link>https://www.newagebd.net/post/africa/287175/30-killed-several-kidnapped-in-central-nigeria</link>
-<pubDate>Sun, 04 Jan 2026 17:35:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
