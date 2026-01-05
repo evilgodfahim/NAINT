@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 05 Jan 2026 05:30:42 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 06:28:57 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Swiss identify 24 victims of New Year fire at ski resort]]></title>
+<link>https://www.newagebd.net/post/europe/287178/swiss-identify-24-victims-of-new-year-fire-at-ski-resort</link>
+<pubDate>Mon, 05 Jan 2026 06:28:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[80 Yemeni killed in fighting, strikes since Friday]]></title>
 <link>https://www.newagebd.net/post/middle-east/287177/80-yemeni-killed-in-fighting-strikes-since-friday</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Maduro in NY jail, US to run Venezuela]]></title>
-<link>https://www.newagebd.net/post/North%20America/287144/maduro-in-ny-jail-us-to-run-venezuela</link>
-<pubDate>Sun, 04 Jan 2026 20:01:09 -0000</pubDate>
+<title><![CDATA[114 killed in week of attacks in Sudan’s Darfur]]></title>
+<link>https://www.newagebd.net/post/africa/287222/114-killed-in-week-of-attacks-in-sudans-darfur</link>
+<pubDate>Mon, 05 Jan 2026 06:28:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[New clashes in Iran as protests enter second week]]></title>
 <link>https://www.newagebd.net/post/middle-east/287179/new-clashes-in-iran-as-protests-enter-second-week</link>
 <pubDate>Sun, 04 Jan 2026 20:16:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Swiss identify 24 victims of New Year fire at ski resort]]></title>
-<link>https://www.newagebd.net/post/europe/287178/swiss-identify-24-victims-of-new-year-fire-at-ski-resort</link>
-<pubDate>Sun, 04 Jan 2026 18:20:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
