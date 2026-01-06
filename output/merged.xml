@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 06 Jan 2026 07:20:36 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 08:21:46 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Man arrested for vandalising US VP Vance’s Ohio home]]></title>
+<link>https://www.newagebd.net/post/north-america/287254/man-arrested-for-vandalising-us-vp-vances-ohio-home</link>
+<pubDate>Tue, 06 Jan 2026 08:21:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iran says no leniency for ‘rioters’ as protests persist]]></title>
 <link>https://www.newagebd.net/post/middle-east/287251/iran-says-no-leniency-for-rioters-as-protests-persist</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[114 killed in week of attacks in Sudan’s Darfur]]></title>
-<link>https://www.newagebd.net/post/africa/287222/114-killed-in-week-of-attacks-in-sudans-darfur</link>
-<pubDate>Mon, 05 Jan 2026 16:53:14 -0000</pubDate>
+<title><![CDATA[Patient killed in Russian strike on Kyiv clinic]]></title>
+<link>https://www.newagebd.net/post/europe/287310/patient-killed-in-russian-strike-on-kyiv-clinic</link>
+<pubDate>Tue, 06 Jan 2026 08:21:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[US attacking NATO ally would be end of ‘everything’, says Danish PM]]></title>
 <link>https://www.newagebd.net/post/North%20America/287257/us-attacking-nato-ally-would-be-end-of-everything-says-danish-pm</link>
 <pubDate>Mon, 05 Jan 2026 19:48:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Man arrested for vandalising US VP Vance’s Ohio home]]></title>
-<link>https://www.newagebd.net/post/north-america/287254/man-arrested-for-vandalising-us-vp-vances-ohio-home</link>
-<pubDate>Mon, 05 Jan 2026 18:23:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
