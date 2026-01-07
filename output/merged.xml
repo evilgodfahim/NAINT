@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 07 Jan 2026 15:18:05 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 16:21:25 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Five killed in clashes between Syria govt, Kurdish forces]]></title>
+<link>https://www.newagebd.net/post/middle-east/287389/five-killed-in-clashes-between-syria-govt-kurdish-forces</link>
+<pubDate>Wed, 07 Jan 2026 16:21:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Swiss officials admit inspections failure at burnt-out bar]]></title>
 <link>https://www.newagebd.net/post/europe/287388/swiss-officials-admit-inspections-failure-at-burnt-out-bar</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Patient killed in Russian strike on Kyiv clinic]]></title>
-<link>https://www.newagebd.net/post/europe/287310/patient-killed-in-russian-strike-on-kyiv-clinic</link>
-<pubDate>Tue, 06 Jan 2026 17:07:03 -0000</pubDate>
+<title><![CDATA[Trump considering military action to take control of Greenland]]></title>
+<link>https://www.newagebd.net/post/north-america/287424/trump-considering-military-action-to-take-control-of-greenland</link>
+<pubDate>Wed, 07 Jan 2026 16:21:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Delcy walks tightrope with US, Maduro loyalists]]></title>
 <link>https://www.newagebd.net/post/latin-america/287404/delcy-walks-tightrope-with-us-maduro-loyalists</link>
 <pubDate>Tue, 06 Jan 2026 20:01:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Five killed in clashes between Syria govt, Kurdish forces]]></title>
-<link>https://www.newagebd.net/post/middle-east/287389/five-killed-in-clashes-between-syria-govt-kurdish-forces</link>
-<pubDate>Tue, 06 Jan 2026 19:46:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
