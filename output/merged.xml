@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 08 Jan 2026 07:19:54 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 08:21:50 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US seizes Russia-flagged oil tanker in North Atlantic]]></title>
+<link>https://www.newagebd.net/post/north-america/287456/us-seizes-russia-flagged-oil-tanker-in-north-atlantic</link>
+<pubDate>Thu, 08 Jan 2026 08:21:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Syrian army shells Aleppo Kurdish areas after civilians flee]]></title>
 <link>https://www.newagebd.net/post/middle-east/287449/syrian-army-shells-aleppo-kurdish-areas-after-civilians-flee</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Delcy walks tightrope with US, Maduro loyalists]]></title>
-<link>https://www.newagebd.net/post/latin-america/287404/delcy-walks-tightrope-with-us-maduro-loyalists</link>
-<pubDate>Wed, 07 Jan 2026 17:08:05 -0000</pubDate>
+<title><![CDATA[Europe faces transport chaos as cold snap toll rises]]></title>
+<link>https://www.newagebd.net/post/europe/287494/europe-faces-transport-chaos-as-cold-snap-toll-rises</link>
+<pubDate>Thu, 08 Jan 2026 08:21:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Two killed, 30 injured in clashes during protests in Iran: local media]]></title>
 <link>https://www.newagebd.net/post/middle-east/287467/two-killed-30-injured-in-clashes-during-protests-in-iran-local-media</link>
 <pubDate>Wed, 07 Jan 2026 20:02:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US seizes Russia-flagged oil tanker in North Atlantic]]></title>
-<link>https://www.newagebd.net/post/north-america/287456/us-seizes-russia-flagged-oil-tanker-in-north-atlantic</link>
-<pubDate>Wed, 07 Jan 2026 19:47:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
