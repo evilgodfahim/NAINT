@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 08 Jan 2026 08:21:50 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 09:22:24 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Two killed, 30 injured in clashes during protests in Iran: local media]]></title>
+<link>https://www.newagebd.net/post/middle-east/287467/two-killed-30-injured-in-clashes-during-protests-in-iran-local-media</link>
+<pubDate>Thu, 08 Jan 2026 09:22:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[US seizes Russia-flagged oil tanker in North Atlantic]]></title>
 <link>https://www.newagebd.net/post/north-america/287456/us-seizes-russia-flagged-oil-tanker-in-north-atlantic</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[5 killed as cold snap grips Europe]]></title>
-<link>https://www.newagebd.net/post/europe/287408/5-killed-as-cold-snap-grips-europe</link>
-<pubDate>Wed, 07 Jan 2026 17:23:05 -0000</pubDate>
+<title><![CDATA[Trump withdraws United States from 66 global organisations, treaties]]></title>
+<link>https://www.newagebd.net/post/north-america/287507/trump-withdraws-united-states-from-66-global-organisations-treaties</link>
+<pubDate>Thu, 08 Jan 2026 09:22:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[BSF installs 12-feet-high fencing at Siliguri corridor]]></title>
 <link>https://www.newagebd.net/post/south-asia/287478/bsf-installs-12-feet-high-fencing-at-siliguri-corridor</link>
 <pubDate>Wed, 07 Jan 2026 20:17:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Two killed, 30 injured in clashes during protests in Iran: local media]]></title>
-<link>https://www.newagebd.net/post/middle-east/287467/two-killed-30-injured-in-clashes-during-protests-in-iran-local-media</link>
-<pubDate>Wed, 07 Jan 2026 20:02:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
