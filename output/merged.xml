@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 09 Jan 2026 07:20:41 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 08:21:35 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Lebanon’s army says completed first phase of disarming Hezbollah]]></title>
+<link>https://www.newagebd.net/post/middle-east/287561/lebanons-army-says-completed-first-phase-of-disarming-hezbollah</link>
+<pubDate>Fri, 09 Jan 2026 08:21:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Yemen separatist leader fled to UAE]]></title>
 <link>https://www.newagebd.net/post/middle-east/287560/yemen-separatist-leader-fled-to-uae</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Two killed, 30 injured in clashes during protests in Iran: local media]]></title>
-<link>https://www.newagebd.net/post/middle-east/287467/two-killed-30-injured-in-clashes-during-protests-in-iran-local-media</link>
-<pubDate>Thu, 08 Jan 2026 09:22:23 -0000</pubDate>
+<title><![CDATA[West must battle global misinformation: outgoing BBC chief]]></title>
+<link>https://www.newagebd.net/post/europe/287596/west-must-battle-global-misinformation-outgoing-bbc-chief</link>
+<pubDate>Fri, 09 Jan 2026 08:21:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[New clashes hit Iran as opposition urges protests, strikes]]></title>
 <link>https://www.newagebd.net/post/middle-east/287562/new-clashes-hit-iran-as-opposition-urges-protests-strikes</link>
 <pubDate>Thu, 08 Jan 2026 19:15:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Lebanon’s army says completed first phase of disarming Hezbollah]]></title>
-<link>https://www.newagebd.net/post/middle-east/287561/lebanons-army-says-completed-first-phase-of-disarming-hezbollah</link>
-<pubDate>Thu, 08 Jan 2026 19:00:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
