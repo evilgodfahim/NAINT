@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 10 Jan 2026 11:11:58 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 12:27:18 GMT</lastBuildDate>
+<item>
+<title><![CDATA[5 children among 13 killed in Israeli attacks in Gaza]]></title>
+<link>https://www.newagebd.net/post/middle-east/287681/5-children-among-13-killed-in-israeli-attacks-in-gaza</link>
+<pubDate>Sat, 10 Jan 2026 12:27:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump scraps new Venezuela attack after prisoner release]]></title>
 <link>https://www.newagebd.net/post/north-america/287679/trump-scraps-new-venezuela-attack-after-prisoner-release</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Khamenei insists Iran ‘won’t back down’ in face of protests]]></title>
-<link>https://www.newagebd.net/post/middle-east/287664/khamenei-insists-iran-wont-back-down-in-face-of-protests</link>
-<pubDate>Fri, 09 Jan 2026 18:47:45 -0000</pubDate>
+<title><![CDATA[Venezuela launches talks with United States authorities to restore relationship]]></title>
+<link>https://www.newagebd.net/post/latin-america/287716/venezuela-launches-talks-with-united-states-authorities-to-restore-relationship</link>
+<pubDate>Sat, 10 Jan 2026 12:27:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Storms spark travel mayhem, power cuts in northern Europe]]></title>
 <link>https://www.newagebd.net/post/europe/287685/storms-spark-travel-mayhem-power-cuts-in-northern-europe</link>
 <pubDate>Sat, 10 Jan 2026 00:53:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[5 children among 13 killed in Israeli attacks in Gaza]]></title>
-<link>https://www.newagebd.net/post/middle-east/287681/5-children-among-13-killed-in-israeli-attacks-in-gaza</link>
-<pubDate>Fri, 09 Jan 2026 20:17:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
