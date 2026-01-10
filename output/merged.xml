@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 10 Jan 2026 05:16:05 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 06:21:16 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump scraps new Venezuela attack after prisoner release]]></title>
+<link>https://www.newagebd.net/post/north-america/287679/trump-scraps-new-venezuela-attack-after-prisoner-release</link>
+<pubDate>Sat, 10 Jan 2026 06:21:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Syrian president meets with EU chief]]></title>
 <link>https://www.newagebd.net/post/middle-east/287672/syrian-president-meets-with-eu-chief</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s Khamenei insists ‘won’t back down’ in protests]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/287612/irans-khamenei-insists-wont-back-down-in-protests</link>
-<pubDate>Fri, 09 Jan 2026 18:32:45 -0000</pubDate>
+<title><![CDATA[US announces aid to bolster Thailand, Cambodia truce]]></title>
+<link>https://www.newagebd.net/post/south-asia/287701/us-announces-aid-to-bolster-thailand-cambodia-truce</link>
+<pubDate>Sat, 10 Jan 2026 06:21:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[5 children among 13 killed in Israeli attacks in Gaza]]></title>
 <link>https://www.newagebd.net/post/middle-east/287681/5-children-among-13-killed-in-israeli-attacks-in-gaza</link>
 <pubDate>Fri, 09 Jan 2026 20:17:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump scraps new Venezuela attack after prisoner release]]></title>
-<link>https://www.newagebd.net/post/north-america/287679/trump-scraps-new-venezuela-attack-after-prisoner-release</link>
-<pubDate>Fri, 09 Jan 2026 20:02:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
