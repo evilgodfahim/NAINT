@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 11 Jan 2026 21:12:52 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 22:13:42 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Scores of homes razed, one dead in Australian bushfires]]></title>
+<link>https://www.newagebd.net/post/oceania/287838/scores-of-homes-razed-one-dead-in-australian-bushfires</link>
+<pubDate>Sun, 11 Jan 2026 22:13:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Argentina wildfire burns over 5,500 hectares]]></title>
 <link>https://www.newagebd.net/post/latin-america/287837/argentina-wildfire-burns-over-5500-hectares</link>
@@ -23,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran president says ‘rioters’ must not disrupt society]]></title>
-<link>https://www.newagebd.net/post/middle-east/287834/iran-president-says-rioters-must-not-disrupt-society</link>
-<pubDate>Sun, 11 Jan 2026 19:30:48 -0000</pubDate>
+<title><![CDATA[Protest death toll rises to 192 in Iran]]></title>
+<link>https://www.newagebd.net/post/Middle%20East/287834/protest-death-toll-rises-to-192-in-iran</link>
+<pubDate>Sun, 11 Jan 2026 21:58:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Guinea-Bissau bans unofficial press events, statements]]></title>
-<link>https://www.newagebd.net/post/africa/287794/guinea-bissau-bans-unofficial-press-events-statements</link>
-<pubDate>Sun, 11 Jan 2026 16:16:49 -0000</pubDate>
+<title><![CDATA[Ugandan opposition turns national flag into protest symbol]]></title>
+<link>https://www.newagebd.net/post/africa/287842/ugandan-opposition-turns-national-flag-into-protest-symbol</link>
+<pubDate>Sun, 11 Jan 2026 22:13:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Sudan PM announces govt return to Khartoum from wartime capital]]></title>
 <link>https://www.newagebd.net/post/africa/287839/sudan-pm-announces-govt-return-to-khartoum-from-wartime-capital</link>
 <pubDate>Sun, 11 Jan 2026 19:45:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Scores of homes razed, one dead in Australian bushfires]]></title>
-<link>https://www.newagebd.net/post/oceania/287838/scores-of-homes-razed-one-dead-in-australian-bushfires</link>
-<pubDate>Sun, 11 Jan 2026 19:30:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
