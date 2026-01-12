@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 12 Jan 2026 11:14:28 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 12:32:47 GMT</lastBuildDate>
+<item>
+<title><![CDATA[In Gaza hospital, patients cling to MSF as Israel orders it out]]></title>
+<link>https://www.newagebd.net/post/middle-east/287840/in-gaza-hospital-patients-cling-to-msf-as-israel-orders-it-out</link>
+<pubDate>Mon, 12 Jan 2026 12:32:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Sudan PM announces govt return to Khartoum from wartime capital]]></title>
 <link>https://www.newagebd.net/post/africa/287839/sudan-pm-announces-govt-return-to-khartoum-from-wartime-capital</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan PM mulling snap poll in coming weeks]]></title>
-<link>https://www.newagebd.net/post/asia/287796/japan-pm-mulling-snap-poll-in-coming-weeks</link>
-<pubDate>Sun, 11 Jan 2026 18:30:48 -0000</pubDate>
+<title><![CDATA[Trump says Iran ‘want to negotiate’ after hundreds of people killed in protests]]></title>
+<link>https://www.newagebd.net/post/north-america/287931/trump-says-iran-want-to-negotiate-after-hundreds-of-people-killed-in-protests</link>
+<pubDate>Mon, 12 Jan 2026 12:32:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Pope prays for dialogue, peace in Iran, Syria]]></title>
 <link>https://www.newagebd.net/post/europe/287841/pope-prays-for-dialogue-peace-in-iran-syria</link>
 <pubDate>Sun, 11 Jan 2026 20:15:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[In Gaza hospital, patients cling to MSF as Israel orders it out]]></title>
-<link>https://www.newagebd.net/post/middle-east/287840/in-gaza-hospital-patients-cling-to-msf-as-israel-orders-it-out</link>
-<pubDate>Sun, 11 Jan 2026 20:00:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
