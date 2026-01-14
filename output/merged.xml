@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 14 Jan 2026 07:20:11 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 08:21:34 GMT</lastBuildDate>
+<item>
+<title><![CDATA[100 children killed in Gaza since ceasefire: UN]]></title>
+<link>https://www.newagebd.net/post/middle-east/288091/100-children-killed-in-gaza-since-ceasefire-un</link>
+<pubDate>Wed, 14 Jan 2026 08:21:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[VPN barred in four Kashmir districts ‘due to security reasons’]]></title>
 <link>https://www.newagebd.net/post/south-asia/288089/vpn-barred-in-four-kashmir-districts-due-to-security-reasons</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia strikes power plant, kills four in Ukraine]]></title>
-<link>https://www.newagebd.net/post/europe/288059/russia-strikes-power-plant-kills-four-in-ukraine</link>
-<pubDate>Tue, 13 Jan 2026 18:47:30 -0000</pubDate>
+<title><![CDATA[Trump warns of ‘strong action’ if Iran continues hanging protesters]]></title>
+<link>https://www.newagebd.net/post/north-america/288127/trump-warns-of-strong-action-if-iran-continues-hanging-protesters</link>
+<pubDate>Wed, 14 Jan 2026 08:21:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Freezing rain hampers travel in Central Europe]]></title>
 <link>https://www.newagebd.net/post/europe/288093/freezing-rain-hampers-travel-in-central-europe</link>
 <pubDate>Tue, 13 Jan 2026 22:00:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[100 children killed in Gaza since ceasefire: UN]]></title>
-<link>https://www.newagebd.net/post/middle-east/288091/100-children-killed-in-gaza-since-ceasefire-un</link>
-<pubDate>Tue, 13 Jan 2026 20:17:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
