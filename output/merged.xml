@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 14 Jan 2026 05:18:54 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 06:27:01 GMT</lastBuildDate>
+<item>
+<title><![CDATA[VPN barred in four Kashmir districts ‘due to security reasons’]]></title>
+<link>https://www.newagebd.net/post/south-asia/288089/vpn-barred-in-four-kashmir-districts-due-to-security-reasons</link>
+<pubDate>Wed, 14 Jan 2026 06:27:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump hits Iran trade partners with tariffs]]></title>
 <link>https://www.newagebd.net/post/middle-east/288088/trump-hits-iran-trade-partners-with-tariffs</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump urges Iranians to oust rulers, says ‘help’ on its way]]></title>
-<link>https://www.newagebd.net/post/north-america/288051/trump-urges-iranians-to-oust-rulers-says-help-on-its-way</link>
-<pubDate>Tue, 13 Jan 2026 18:23:39 -0000</pubDate>
+<title><![CDATA[India accuses Pakistan of cross-border drone incursions in Kashmir]]></title>
+<link>https://www.newagebd.net/post/south-asia/288108/india-accuses-pakistan-of-cross-border-drone-incursions-in-kashmir</link>
+<pubDate>Wed, 14 Jan 2026 06:27:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[100 children killed in Gaza since ceasefire: UN]]></title>
 <link>https://www.newagebd.net/post/middle-east/288091/100-children-killed-in-gaza-since-ceasefire-un</link>
 <pubDate>Tue, 13 Jan 2026 20:17:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[VPN barred in four Kashmir districts ‘due to security reasons’]]></title>
-<link>https://www.newagebd.net/post/south-asia/288089/vpn-barred-in-four-kashmir-districts-due-to-security-reasons</link>
-<pubDate>Tue, 13 Jan 2026 20:02:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
