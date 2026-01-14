@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 14 Jan 2026 15:19:14 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 16:21:40 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Freezing rain hampers travel in Central Europe]]></title>
+<link>https://www.newagebd.net/post/europe/288093/freezing-rain-hampers-travel-in-central-europe</link>
+<pubDate>Wed, 14 Jan 2026 16:21:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[100 children killed in Gaza since ceasefire: UN]]></title>
 <link>https://www.newagebd.net/post/middle-east/288091/100-children-killed-in-gaza-since-ceasefire-un</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Syrian army tells Kurdish forces to withdraw from Aleppo city]]></title>
-<link>https://www.newagebd.net/post/middle-east/288060/syrian-army-tells-kurdish-forces-to-withdraw-from-aleppo-city</link>
-<pubDate>Tue, 13 Jan 2026 19:02:30 -0000</pubDate>
+<title><![CDATA[More than 20 people killed as crane collapses on train in Thailand]]></title>
+<link>https://www.newagebd.net/post/asia/288128/more-than-20-people-killed-as-crane-collapses-on-train-in-thailand</link>
+<pubDate>Wed, 14 Jan 2026 16:21:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Myanmar pro-military party claims most seats in election]]></title>
 <link>https://www.newagebd.net/post/south-asia/288105/myanmar-pro-military-party-claims-most-seats-in-election</link>
 <pubDate>Tue, 13 Jan 2026 22:15:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Freezing rain hampers travel in Central Europe]]></title>
-<link>https://www.newagebd.net/post/europe/288093/freezing-rain-hampers-travel-in-central-europe</link>
-<pubDate>Tue, 13 Jan 2026 22:00:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
