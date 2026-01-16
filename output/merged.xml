@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 16 Jan 2026 07:20:10 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 08:21:00 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Fatal back-to-back Thailand crane failures tied to same firm]]></title>
+<link>https://www.newagebd.net/post/asia/288279/fatal-back-to-back-thailand-crane-failures-tied-to-same-firm</link>
+<pubDate>Fri, 16 Jan 2026 08:20:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump embraces AI deepfakes in political messaging]]></title>
 <link>https://www.newagebd.net/post/north-america/288275/trump-embraces-ai-deepfakes-in-political-messaging</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran threatens to strike US bases if attacked]]></title>
-<link>https://www.newagebd.net/post/middle-east/288199/iran-threatens-to-strike-us-bases-if-attacked</link>
-<pubDate>Thu, 15 Jan 2026 16:57:55 -0000</pubDate>
+<title><![CDATA[European military mission in Greenland as US aim ‘remains intact’]]></title>
+<link>https://www.newagebd.net/post/europe/288315/european-military-mission-in-greenland-as-us-aim-remains-intact</link>
+<pubDate>Fri, 16 Jan 2026 08:21:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Syrians flee area controlled by Kurds near Aleppo]]></title>
 <link>https://www.newagebd.net/post/middle-east/288280/syrians-flee-area-controlled-by-kurds-near-aleppo</link>
 <pubDate>Thu, 15 Jan 2026 19:47:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fatal back-to-back Thailand crane failures tied to same firm]]></title>
-<link>https://www.newagebd.net/post/asia/288279/fatal-back-to-back-thailand-crane-failures-tied-to-same-firm</link>
-<pubDate>Thu, 15 Jan 2026 18:27:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
