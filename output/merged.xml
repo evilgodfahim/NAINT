@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 19 Jan 2026 08:24:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Jan 2026 09:28:06 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Kurdish forces withdraw from Syria’s largest oil field as govt forces advance]]></title>
+<link>https://www.newagebd.net/post/middle-east/288582/kurdish-forces-withdraw-from-syrias-largest-oil-field-as-govt-forces-advance</link>
+<pubDate>Mon, 19 Jan 2026 09:28:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Uganda maintains social media ban after election]]></title>
 <link>https://www.newagebd.net/post/africa/288581/uganda-maintains-social-media-ban-after-election</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Canada move to end trucker protest unreasonable: court]]></title>
-<link>https://www.newagebd.net/post/north-america/288519/canada-move-to-end-trucker-protest-unreasonable-court</link>
-<pubDate>Sun, 18 Jan 2026 18:11:56 -0000</pubDate>
+<title><![CDATA[Iran considers ‘gradually’ restoring internet after shutdown]]></title>
+<link>https://www.newagebd.net/post/middle-east/288616/iran-considers-gradually-restoring-internet-after-shutdown</link>
+<pubDate>Mon, 19 Jan 2026 09:28:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Europe hits back at Trump tariff threat over Greenland]]></title>
 <link>https://www.newagebd.net/post/europe/288587/europe-hits-back-at-trump-tariff-threat-over-greenland</link>
 <pubDate>Sun, 18 Jan 2026 20:43:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kurdish forces withdraw from Syria’s largest oil field as govt forces advance]]></title>
-<link>https://www.newagebd.net/post/middle-east/288582/kurdish-forces-withdraw-from-syrias-largest-oil-field-as-govt-forces-advance</link>
-<pubDate>Sun, 18 Jan 2026 19:42:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
