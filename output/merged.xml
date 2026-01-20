@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 20 Jan 2026 14:24:15 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Jan 2026 15:24:02 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Train crash kills 39 in Spain]]></title>
+<link>https://www.newagebd.net/post/europe/288719/train-crash-kills-39-in-spain</link>
+<pubDate>Tue, 20 Jan 2026 15:24:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump says world ‘not secure’ until US has Greenland]]></title>
 <link>https://www.newagebd.net/post/north-america/288697/trump-says-world-not-secure-until-us-has-greenland</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China’s birth rate falls to lowest on record]]></title>
-<link>https://www.newagebd.net/post/asia/288651/chinas-birth-rate-falls-to-lowest-on-record</link>
-<pubDate>Mon, 19 Jan 2026 17:37:32 -0000</pubDate>
+<title><![CDATA[European leaders take stage in Davos as US president Trump rocks global order]]></title>
+<link>https://www.newagebd.net/post/europe/288737/european-leaders-take-stage-in-davos-as-us-president-trump-rocks-global-order</link>
+<pubDate>Tue, 20 Jan 2026 15:24:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Surging wealth of billionaires a political threat: Oxfam]]></title>
 <link>https://www.newagebd.net/post/europe/288721/surging-wealth-of-billionaires-a-political-threat-oxfam</link>
 <pubDate>Mon, 19 Jan 2026 23:36:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Train crash kills 39 in Spain]]></title>
-<link>https://www.newagebd.net/post/europe/288719/train-crash-kills-39-in-spain</link>
-<pubDate>Mon, 19 Jan 2026 23:21:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
