@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 20 Jan 2026 07:22:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Jan 2026 08:22:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Syrian army deploys in former Kurdish-held areas]]></title>
 <link>https://www.newagebd.net/post/middle-east/288660/syrian-army-deploys-in-former-kurdish-held-areas</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump to charge $1b for ‘peace board’ membership]]></title>
+<link>https://www.newagebd.net/post/north-america/288724/trump-to-charge-1b-for-peace-board-membership</link>
+<pubDate>Tue, 20 Jan 2026 07:53:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran police chief issues surrender ultimatum over ‘riots’]]></title>
 <link>https://www.newagebd.net/post/middle-east/288722/iran-police-chief-issues-surrender-ultimatum-over-riots</link>
 <pubDate>Mon, 19 Jan 2026 23:51:41 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Train crash kills 39 in Spain]]></title>
 <link>https://www.newagebd.net/post/europe/288719/train-crash-kills-39-in-spain</link>
 <pubDate>Mon, 19 Jan 2026 23:21:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump says world ‘not secure’ until US has Greenland]]></title>
-<link>https://www.newagebd.net/post/north-america/288697/trump-says-world-not-secure-until-us-has-greenland</link>
-<pubDate>Mon, 19 Jan 2026 23:06:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
