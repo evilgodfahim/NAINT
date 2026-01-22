@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 22 Jan 2026 17:23:06 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Jan 2026 18:22:09 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Gunman jailed for life in killing of Japan ex-PM Abe]]></title>
+<link>https://www.newagebd.net/post/asia/288900/gunman-jailed-for-life-in-killing-of-japan-ex-pm-abe</link>
+<pubDate>Thu, 22 Jan 2026 18:22:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[South Korean ex-PM gets 23 years jail for martial law role]]></title>
 <link>https://www.newagebd.net/post/asia/288899/south-korean-ex-pm-gets-23-years-jail-for-martial-law-role</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel begins demolitions at UNRWA HQ in east Jerusalem]]></title>
-<link>https://www.newagebd.net/post/middle-east/288834/israel-begins-demolitions-at-unrwa-hq-in-east-jerusalem</link>
-<pubDate>Wed, 21 Jan 2026 17:48:23 -0000</pubDate>
+<title><![CDATA[United States president Donald Trump to unveil ‘Board of Peace’ at Davos]]></title>
+<link>https://www.newagebd.net/post/north-america/288936/united-states-president-donald-trump-to-unveil-board-of-peace-at-davos</link>
+<pubDate>Thu, 22 Jan 2026 18:22:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israeli strike kills 3 journalists in Gaza]]></title>
 <link>https://www.newagebd.net/post/middle-east/288908/israeli-strike-kills-3-journalists-in-gaza</link>
 <pubDate>Wed, 21 Jan 2026 22:18:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Gunman jailed for life in killing of Japan ex-PM Abe]]></title>
-<link>https://www.newagebd.net/post/asia/288900/gunman-jailed-for-life-in-killing-of-japan-ex-pm-abe</link>
-<pubDate>Wed, 21 Jan 2026 19:21:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
