@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 24 Jan 2026 07:15:07 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 08:18:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Fury grows over five-year-old’s detention in US immigration crackdown]]></title>
 <link>https://www.newagebd.net/post/north-america/289093/fury-grows-over-five-year-olds-detention-in-us-immigration-crackdown</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Indian forces kill 16 Maoists]]></title>
+<link>https://www.newagebd.net/post/south-asia/289127/indian-forces-kill-16-maoists</link>
+<pubDate>Sat, 24 Jan 2026 08:18:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UN urges world to reject Myanmar ‘sham’ election]]></title>
 <link>https://www.newagebd.net/post/south-asia/289126/un-urges-world-to-reject-myanmar-sham-election</link>
 <pubDate>Fri, 23 Jan 2026 23:15:35 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Russian drones kill four in east Ukraine]]></title>
 <link>https://www.newagebd.net/post/europe/289124/russian-drones-kill-four-in-east-ukraine</link>
 <pubDate>Fri, 23 Jan 2026 22:45:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Danish PM visits Greenland for talks after Trump climbdown]]></title>
-<link>https://www.newagebd.net/post/europe/289100/danish-pm-visits-greenland-for-talks-after-trump-climbdown</link>
-<pubDate>Fri, 23 Jan 2026 22:30:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
