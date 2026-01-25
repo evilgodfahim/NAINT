@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 25 Jan 2026 06:22:25 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 07:16:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Greenland, Denmark form united front to face down Trump]]></title>
 <link>https://www.newagebd.net/post/europe/289198/greenland-denmark-form-united-front-to-face-down-trump</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israeli strike kills two teenagers in Gaza]]></title>
+<link>https://www.newagebd.net/post/middle-east/289224/israeli-strike-kills-two-teenagers-in-gaza</link>
+<pubDate>Sun, 25 Jan 2026 07:16:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Icy storm threatens Americans with power outages, extreme cold]]></title>
 <link>https://www.newagebd.net/post/north-america/289222/icy-storm-threatens-americans-with-power-outages-extreme-cold</link>
 <pubDate>Sat, 24 Jan 2026 20:15:08 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Defiant protests over US immigration crackdown]]></title>
 <link>https://www.newagebd.net/post/north-america/289218/defiant-protests-over-us-immigration-crackdown</link>
 <pubDate>Sat, 24 Jan 2026 19:45:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine, Russia, US agree to more talks]]></title>
-<link>https://www.newagebd.net/post/europe/289203/ukraine-russia-us-agree-to-more-talks</link>
-<pubDate>Sat, 24 Jan 2026 19:30:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
