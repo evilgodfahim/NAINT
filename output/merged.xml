@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 27 Jan 2026 07:22:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Jan 2026 08:24:15 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump sends top official to Minneapolis]]></title>
+<link>https://www.newagebd.net/post/north-america/289386/trump-sends-top-official-to-minneapolis</link>
+<pubDate>Tue, 27 Jan 2026 08:24:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[US aircraft carrier arrives in Middle East]]></title>
 <link>https://www.newagebd.net/post/middle-east/289352/us-aircraft-carrier-arrives-in-middle-east</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelensky seeks air defence as Russia hits Kyiv]]></title>
-<link>https://www.newagebd.net/post/europe/289324/zelensky-seeks-air-defence-as-russia-hits-kyiv</link>
-<pubDate>Mon, 26 Jan 2026 17:25:43 -0000</pubDate>
+<title><![CDATA[French authorities ban social media for children under 15]]></title>
+<link>https://www.newagebd.net/post/europe/289415/french-authorities-ban-social-media-for-children-under-15</link>
+<pubDate>Tue, 27 Jan 2026 08:24:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Winter storm kills 11 across US]]></title>
 <link>https://www.newagebd.net/post/north-america/289390/winter-storm-kills-11-across-us</link>
 <pubDate>Mon, 26 Jan 2026 20:03:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump sends top official to Minneapolis]]></title>
-<link>https://www.newagebd.net/post/north-america/289386/trump-sends-top-official-to-minneapolis</link>
-<pubDate>Mon, 26 Jan 2026 19:48:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
