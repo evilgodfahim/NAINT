@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 27 Jan 2026 10:20:34 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Jan 2026 11:18:03 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Winter storm kills 11 across US]]></title>
+<link>https://www.newagebd.net/post/north-america/289390/winter-storm-kills-11-across-us</link>
+<pubDate>Tue, 27 Jan 2026 11:18:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump sends top official to Minneapolis]]></title>
 <link>https://www.newagebd.net/post/north-america/289386/trump-sends-top-official-to-minneapolis</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Takaichi’s popularity slips on tax-cut pledge]]></title>
-<link>https://www.newagebd.net/post/asia/289337/takaichis-popularity-slips-on-tax-cut-pledge</link>
-<pubDate>Mon, 26 Jan 2026 17:40:43 -0000</pubDate>
+<title><![CDATA[US president Trump attempts to pivot in face of Minneapolis killing backlash]]></title>
+<link>https://www.newagebd.net/post/north-america/289416/us-president-trump-attempts-to-pivot-in-face-of-minneapolis-killing-backlash</link>
+<pubDate>Tue, 27 Jan 2026 11:18:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[11 killed in armed attack at soccer field in Mexico]]></title>
 <link>https://www.newagebd.net/post/north-america/289400/11-killed-in-armed-attack-at-soccer-field-in-mexico</link>
 <pubDate>Mon, 26 Jan 2026 20:18:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Winter storm kills 11 across US]]></title>
-<link>https://www.newagebd.net/post/north-america/289390/winter-storm-kills-11-across-us</link>
-<pubDate>Mon, 26 Jan 2026 20:03:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
