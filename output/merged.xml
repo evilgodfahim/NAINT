@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 28 Jan 2026 14:23:16 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Jan 2026 15:25:29 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Some US immigration agents to leave Minneapolis, says mayor]]></title>
+<link>https://www.newagebd.net/post/North%20America/289481/some-us-immigration-agents-to-leave-minneapolis-says-mayor</link>
+<pubDate>Wed, 28 Jan 2026 15:25:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[UN experts decry ‘serious violation’ of child rights in US immigration procedures]]></title>
 <link>https://www.newagebd.net/post/north-america/289456/un-experts-decry-serious-violation-of-child-rights-in-us-immigration-procedures</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French authorities ban social media for children under 15]]></title>
-<link>https://www.newagebd.net/post/europe/289415/french-authorities-ban-social-media-for-children-under-15</link>
-<pubDate>Tue, 27 Jan 2026 16:37:47 -0000</pubDate>
+<title><![CDATA[Russia kills 6 in Ukraine, hits energy sites]]></title>
+<link>https://www.newagebd.net/post/europe/289495/russia-kills-6-in-ukraine-hits-energy-sites</link>
+<pubDate>Wed, 28 Jan 2026 15:25:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[US monster storm kills 30]]></title>
 <link>https://www.newagebd.net/post/north-america/289492/us-monster-storm-kills-30</link>
 <pubDate>Tue, 27 Jan 2026 19:46:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Some US immigration agents to leave Minneapolis, says mayor]]></title>
-<link>https://www.newagebd.net/post/North%20America/289481/some-us-immigration-agents-to-leave-minneapolis-says-mayor</link>
-<pubDate>Tue, 27 Jan 2026 19:31:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
