@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 30 Jan 2026 08:29:40 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Jan 2026 09:32:13 GMT</lastBuildDate>
+<item>
+<title><![CDATA[China executes 11 linked to Myanmar scam compounds]]></title>
+<link>https://www.newagebd.net/post/asia/289605/china-executes-11-linked-to-myanmar-scam-compounds</link>
+<pubDate>Fri, 30 Jan 2026 09:32:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Venezuela military, police pledge loyalty to interim president]]></title>
 <link>https://www.newagebd.net/post/latin-america/289604/venezuela-military-police-pledge-loyalty-to-interim-president</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran rejects talks amid threats]]></title>
-<link>https://www.newagebd.net/post/middle-east/289558/iran-rejects-talks-amid-threats</link>
-<pubDate>Thu, 29 Jan 2026 18:34:36 -0000</pubDate>
+<title><![CDATA[Ukraine faces -30C freeze as Russia batters energy grid]]></title>
+<link>https://www.newagebd.net/post/europe/289643/ukraine-faces-30c-freeze-as-russia-batters-energy-grid</link>
+<pubDate>Fri, 30 Jan 2026 09:32:13 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Ukraine says has received 1,000 bodies from Russia]]></title>
 <link>https://www.newagebd.net/post/europe/289606/ukraine-says-has-received-1000-bodies-from-russia</link>
 <pubDate>Thu, 29 Jan 2026 20:07:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China executes 11 linked to Myanmar scam compounds]]></title>
-<link>https://www.newagebd.net/post/asia/289605/china-executes-11-linked-to-myanmar-scam-compounds</link>
-<pubDate>Thu, 29 Jan 2026 19:52:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
