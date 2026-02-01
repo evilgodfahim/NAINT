@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Feb 2026 06:43:03 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 07:32:38 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Immigration anger boils over in Minneapolis rally]]></title>
+<link>https://www.newagebd.net/post/north-america/289847/immigration-anger-boils-over-in-minneapolis-rally</link>
+<pubDate>Sun, 01 Feb 2026 07:32:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israeli strikes kill 32 in Gaza]]></title>
 <link>https://www.newagebd.net/post/middle-east/289844/israeli-strikes-kill-32-in-gaza</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Britain, Japan to deepen defence, security ties]]></title>
-<link>https://www.newagebd.net/post/asia/289796/britain-japan-to-deepen-defence-security-ties</link>
-<pubDate>Sat, 31 Jan 2026 17:37:02 -0000</pubDate>
+<title><![CDATA[Iran army chief warns US, Israel against attack]]></title>
+<link>https://www.newagebd.net/post/middle-east/289869/iran-army-chief-warns-us-israel-against-attack</link>
+<pubDate>Sun, 01 Feb 2026 07:32:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[UN may run out of cash by July, Guterres warns]]></title>
 <link>https://www.newagebd.net/post/north-america/289865/un-may-run-out-of-cash-by-july-guterres-warns</link>
 <pubDate>Sat, 31 Jan 2026 19:47:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Immigration anger boils over in Minneapolis rally]]></title>
-<link>https://www.newagebd.net/post/north-america/289847/immigration-anger-boils-over-in-minneapolis-rally</link>
-<pubDate>Sat, 31 Jan 2026 19:32:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
