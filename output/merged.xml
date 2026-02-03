@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Feb 2026 12:41:59 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Feb 2026 13:59:25 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Greenland PM seeks ‘concrete’ results from US talks]]></title>
+<link>https://www.newagebd.net/post/north-america/290071/greenland-pm-seeks-concrete-results-from-us-talks</link>
+<pubDate>Tue, 03 Feb 2026 13:59:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Syrian security forces enter Hasakeh city]]></title>
 <link>https://www.newagebd.net/post/middle-east/290031/syrian-security-forces-enter-hasakeh-city</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Khamenei says recent anti-govt protests akin to ‘coup’]]></title>
-<link>https://www.newagebd.net/post/middle-east/289966/khamenei-says-recent-anti-govt-protests-akin-to-coup</link>
-<pubDate>Mon, 02 Feb 2026 16:32:26 -0000</pubDate>
+<title><![CDATA[India, US strike trade deal, says Trump]]></title>
+<link>https://www.newagebd.net/post/north-america/290080/india-us-strike-trade-deal-says-trump</link>
+<pubDate>Tue, 03 Feb 2026 13:59:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Russia strike in east Ukraine kills man, son]]></title>
 <link>https://www.newagebd.net/post/europe/290072/russia-strike-in-east-ukraine-kills-man-son</link>
 <pubDate>Mon, 02 Feb 2026 22:50:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Greenland PM seeks ‘concrete’ results from US talks]]></title>
-<link>https://www.newagebd.net/post/north-america/290071/greenland-pm-seeks-concrete-results-from-us-talks</link>
-<pubDate>Mon, 02 Feb 2026 22:35:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
