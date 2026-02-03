@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Feb 2026 06:40:58 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Feb 2026 07:37:41 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syrian security forces enter Hasakeh city]]></title>
+<link>https://www.newagebd.net/post/middle-east/290031/syrian-security-forces-enter-hasakeh-city</link>
+<pubDate>Tue, 03 Feb 2026 07:37:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israel issues evacuation warnings in south Lebanon ahead of strikes]]></title>
 <link>https://www.newagebd.net/post/middle-east/290030/israel-issues-evacuation-warnings-in-south-lebanon-ahead-of-strikes</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[200 feared dead in DR Congo landslide]]></title>
-<link>https://www.newagebd.net/post/africa/289959/200-feared-dead-in-dr-congo-landslide</link>
-<pubDate>Mon, 02 Feb 2026 16:17:26 -0000</pubDate>
+<title><![CDATA[Rafah crossing makes limited reopening]]></title>
+<link>https://www.newagebd.net/post/middle-east/290074/rafah-crossing-makes-limited-reopening</link>
+<pubDate>Tue, 03 Feb 2026 07:37:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Greenland PM seeks ‘concrete’ results from US talks]]></title>
 <link>https://www.newagebd.net/post/north-america/290071/greenland-pm-seeks-concrete-results-from-us-talks</link>
 <pubDate>Mon, 02 Feb 2026 22:35:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian security forces enter Hasakeh city]]></title>
-<link>https://www.newagebd.net/post/middle-east/290031/syrian-security-forces-enter-hasakeh-city</link>
-<pubDate>Mon, 02 Feb 2026 22:20:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
