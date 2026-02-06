@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 06 Feb 2026 14:38:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Feb 2026 15:33:31 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Spain, Portugal face floods and chaos after new storm]]></title>
+<link>https://www.newagebd.net/post/europe/290248/spain-portugal-face-floods-and-chaos-after-new-storm</link>
+<pubDate>Fri, 06 Feb 2026 15:33:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[UNHR agency in ‘survival mode’]]></title>
 <link>https://www.newagebd.net/post/europe/290247/unhr-agency-in-survival-mode</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Starmer regrets appointing Mandelson as US envoy]]></title>
-<link>https://www.newagebd.net/post/europe/290172/starmer-regrets-appointing-mandelson-as-us-envoy</link>
-<pubDate>Thu, 05 Feb 2026 16:11:55 -0000</pubDate>
+<title><![CDATA[Ukraine, Russia exchange POWs for first time in months]]></title>
+<link>https://www.newagebd.net/post/europe/290322/ukraine-russia-exchange-pows-for-first-time-in-months</link>
+<pubDate>Fri, 06 Feb 2026 15:33:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Japan atomic bomb survivors fear war as US-Russia pact expires]]></title>
 <link>https://www.newagebd.net/post/asia/290249/japan-atomic-bomb-survivors-fear-war-as-us-russia-pact-expires</link>
 <pubDate>Thu, 05 Feb 2026 22:47:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Spain, Portugal face floods and chaos after new storm]]></title>
-<link>https://www.newagebd.net/post/europe/290248/spain-portugal-face-floods-and-chaos-after-new-storm</link>
-<pubDate>Thu, 05 Feb 2026 17:41:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
