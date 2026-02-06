@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 06 Feb 2026 16:35:48 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Feb 2026 17:36:38 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Japan atomic bomb survivors fear war as US-Russia pact expires]]></title>
+<link>https://www.newagebd.net/post/asia/290249/japan-atomic-bomb-survivors-fear-war-as-us-russia-pact-expires</link>
+<pubDate>Fri, 06 Feb 2026 17:36:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Spain, Portugal face floods and chaos after new storm]]></title>
 <link>https://www.newagebd.net/post/europe/290248/spain-portugal-face-floods-and-chaos-after-new-storm</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli strikes kill 23 in Gaza]]></title>
-<link>https://www.newagebd.net/post/middle-east/290212/israeli-strikes-kill-23-in-gaza</link>
-<pubDate>Thu, 05 Feb 2026 16:26:55 -0000</pubDate>
+<title><![CDATA[At least 31 dead, over 130 wounded in Pakistan suicide bombing]]></title>
+<link>https://www.newagebd.net/post/south-asia/290339/at-least-31-dead-over-130-wounded-in-pakistan-suicide-bombing</link>
+<pubDate>Fri, 06 Feb 2026 17:36:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Iran Guards seize two foreign-crewed tankers in Gulf]]></title>
 <link>https://www.newagebd.net/post/middle-east/290301/iran-guards-seize-two-foreign-crewed-tankers-in-gulf</link>
 <pubDate>Thu, 05 Feb 2026 23:02:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan atomic bomb survivors fear war as US-Russia pact expires]]></title>
-<link>https://www.newagebd.net/post/asia/290249/japan-atomic-bomb-survivors-fear-war-as-us-russia-pact-expires</link>
-<pubDate>Thu, 05 Feb 2026 22:47:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
