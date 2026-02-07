@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Feb 2026 08:22:34 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 09:24:03 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Kamala Harris reactivates campaign social media account]]></title>
+<link>https://www.newagebd.net/post/north-america/290377/kamala-harris-reactivates-campaign-social-media-account</link>
+<pubDate>Sat, 07 Feb 2026 09:24:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Japan PM wins Trump backing ahead of snap election]]></title>
 <link>https://www.newagebd.net/post/asia/290375/japan-pm-wins-trump-backing-ahead-of-snap-election</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[31 killed in Islamabad mosque blast]]></title>
-<link>https://www.newagebd.net/post/South%20Asia/290339/31-killed-in-islamabad-mosque-blast</link>
-<pubDate>Fri, 06 Feb 2026 19:40:29 -0000</pubDate>
+<title><![CDATA[Russia accuses Kyiv of gun attack on army general]]></title>
+<link>https://www.newagebd.net/post/europe/290409/russia-accuses-kyiv-of-gun-attack-on-army-general</link>
+<pubDate>Sat, 07 Feb 2026 09:24:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Trump tries to name airport, rail station after himself]]></title>
 <link>https://www.newagebd.net/post/north-america/290388/trump-tries-to-name-airport-rail-station-after-himself</link>
 <pubDate>Fri, 06 Feb 2026 20:10:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kamala Harris reactivates campaign social media account]]></title>
-<link>https://www.newagebd.net/post/north-america/290377/kamala-harris-reactivates-campaign-social-media-account</link>
-<pubDate>Fri, 06 Feb 2026 19:55:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
