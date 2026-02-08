@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Feb 2026 06:49:34 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 07:34:33 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US re-approves twice-banned pesticide]]></title>
+<link>https://www.newagebd.net/post/north-america/290468/us-re-approves-twice-banned-pesticide</link>
+<pubDate>Sun, 08 Feb 2026 07:34:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Brazil suspends Amazon River dredging]]></title>
 <link>https://www.newagebd.net/post/latin-america/290467/brazil-suspends-amazon-river-dredging</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hundreds protest against Washington Post job cut]]></title>
-<link>https://www.newagebd.net/post/north-america/290397/hundreds-protest-against-washington-post-job-cut</link>
-<pubDate>Sat, 07 Feb 2026 16:40:20 -0000</pubDate>
+<title><![CDATA[US pressing Ukraine, Russia to end war by June]]></title>
+<link>https://www.newagebd.net/post/europe/290542/us-pressing-ukraine-russia-to-end-war-by-june</link>
+<pubDate>Sun, 08 Feb 2026 07:34:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Syria, KSA sign airline, telecoms deals]]></title>
 <link>https://www.newagebd.net/post/middle-east/290469/syria-ksa-sign-airline-telecoms-deals</link>
 <pubDate>Sat, 07 Feb 2026 18:25:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US re-approves twice-banned pesticide]]></title>
-<link>https://www.newagebd.net/post/north-america/290468/us-re-approves-twice-banned-pesticide</link>
-<pubDate>Sat, 07 Feb 2026 18:10:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
