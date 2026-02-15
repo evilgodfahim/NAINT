@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Feb 2026 06:41:58 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 07:33:34 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Palestinian leader urges Israel to lift Gaza ceasefire ‘obstacles’]]></title>
+<link>https://www.newagebd.net/post/middle-east/291287/palestinian-leader-urges-israel-to-lift-gaza-ceasefire-obstacles</link>
+<pubDate>Sun, 15 Feb 2026 07:33:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump threatens to order poll reforms, bypassing Congress]]></title>
 <link>https://www.newagebd.net/post/north-america/291285/trump-threatens-to-order-poll-reforms-bypassing-congress</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bahrain, Egypt mediating UAE-KSA rift]]></title>
-<link>https://www.newagebd.net/post/middle-east/291247/bahrain-egypt-mediating-uae-ksa-rift</link>
-<pubDate>Sat, 14 Feb 2026 19:33:06 -0000</pubDate>
+<title><![CDATA[Power change in Iran would be ‘best thing’: Trump]]></title>
+<link>https://www.newagebd.net/post/north-america/291307/power-change-in-iran-would-be-best-thing-trump</link>
+<pubDate>Sun, 15 Feb 2026 07:33:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[European debate over nuclear weapons gains pace]]></title>
 <link>https://www.newagebd.net/post/europe/291303/european-debate-over-nuclear-weapons-gains-pace</link>
 <pubDate>Sat, 14 Feb 2026 22:16:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Palestinian leader urges Israel to lift Gaza ceasefire ‘obstacles’]]></title>
-<link>https://www.newagebd.net/post/middle-east/291287/palestinian-leader-urges-israel-to-lift-gaza-ceasefire-obstacles</link>
-<pubDate>Sat, 14 Feb 2026 22:01:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
