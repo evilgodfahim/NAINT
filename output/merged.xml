@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 17 Feb 2026 04:12:19 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Feb 2026 05:53:35 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Drone attack on Sudan market kills 28]]></title>
+<link>https://www.newagebd.net/post/africa/291457/drone-attack-on-sudan-market-kills-28</link>
+<pubDate>Tue, 17 Feb 2026 05:53:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israel strike kills four in Lebanon]]></title>
 <link>https://www.newagebd.net/post/middle-east/291456/israel-strike-kills-four-in-lebanon</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli strikes kill 12 in Gaza]]></title>
-<link>https://www.newagebd.net/post/middle-east/291396/israeli-strikes-kill-12-in-gaza</link>
-<pubDate>Mon, 16 Feb 2026 17:19:19 -0000</pubDate>
+<title><![CDATA[Nepal launches campaigns for first post-uprising polls]]></title>
+<link>https://www.newagebd.net/post/south-asia/291514/nepal-launches-campaigns-for-first-post-uprising-polls</link>
+<pubDate>Tue, 17 Feb 2026 05:53:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israeli approval of West Bank land registration draws outrage]]></title>
 <link>https://www.newagebd.net/post/middle-east/291493/israeli-approval-of-west-bank-land-registration-draws-outrage</link>
 <pubDate>Mon, 16 Feb 2026 19:52:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Drone attack on Sudan market kills 28]]></title>
-<link>https://www.newagebd.net/post/africa/291457/drone-attack-on-sudan-market-kills-28</link>
-<pubDate>Mon, 16 Feb 2026 19:37:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
