@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 21 Feb 2026 12:31:46 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Feb 2026 13:37:07 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Draft nuclear plan in 2-3 days: Iran]]></title>
+<link>https://www.newagebd.net/post/middle-east/291868/draft-nuclear-plan-in-2-3-days-iran</link>
+<pubDate>Sat, 21 Feb 2026 13:37:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[US aircraft carrier enters Mediterranean as Trump mulls Iran strikes]]></title>
 <link>https://www.newagebd.net/post/north-america/291848/us-aircraft-carrier-enters-mediterranean-as-trump-mulls-iran-strikes</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Supreme Court says Trump's global tariffs illegal]]></title>
-<link>https://www.newagebd.net/post/North%20America/291829/us-supreme-court-says-trumps-global-tariffs-illegal</link>
-<pubDate>Fri, 20 Feb 2026 17:36:15 -0000</pubDate>
+<title><![CDATA[European powers call for ‘robust’ security guarantees for Ukraine]]></title>
+<link>https://www.newagebd.net/post/europe/291889/european-powers-call-for-robust-security-guarantees-for-ukraine</link>
+<pubDate>Sat, 21 Feb 2026 13:37:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Hamas says path for Gaza must begin with end to ‘aggression’]]></title>
 <link>https://www.newagebd.net/post/middle-east/291875/hamas-says-path-for-gaza-must-begin-with-end-to-aggression</link>
 <pubDate>Fri, 20 Feb 2026 20:22:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Draft nuclear plan in 2-3 days: Iran]]></title>
-<link>https://www.newagebd.net/post/middle-east/291868/draft-nuclear-plan-in-2-3-days-iran</link>
-<pubDate>Fri, 20 Feb 2026 20:07:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
