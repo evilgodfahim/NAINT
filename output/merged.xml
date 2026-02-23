@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 23 Feb 2026 04:17:02 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Feb 2026 06:01:07 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Strong 7.1-magnitude quake hits off Malaysia’s coast]]></title>
+<link>https://www.newagebd.net/post/asia/291988/strong-71-magnitude-quake-hits-off-malaysias-coast</link>
+<pubDate>Mon, 23 Feb 2026 06:01:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Countries slam US envoy’s remarks on Israel’s right to ME land]]></title>
 <link>https://www.newagebd.net/post/middle-east/291961/countries-slam-us-envoys-remarks-on-israels-right-to-me-land</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[European powers call for ‘robust’ security guarantees for Ukraine]]></title>
-<link>https://www.newagebd.net/post/europe/291889/european-powers-call-for-robust-security-guarantees-for-ukraine</link>
-<pubDate>Sun, 22 Feb 2026 17:25:39 -0000</pubDate>
+<title><![CDATA[Hamas official says group in final stage of choosing new chief]]></title>
+<link>https://www.newagebd.net/post/middle-east/292025/hamas-official-says-group-in-final-stage-of-choosing-new-chief</link>
+<pubDate>Mon, 23 Feb 2026 06:01:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Trump hikes US global tariff rate to 15pc]]></title>
 <link>https://www.newagebd.net/post/north-america/292001/trump-hikes-us-global-tariff-rate-to-15pc</link>
 <pubDate>Sun, 22 Feb 2026 22:48:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Strong 7.1-magnitude quake hits off Malaysia’s coast]]></title>
-<link>https://www.newagebd.net/post/asia/291988/strong-71-magnitude-quake-hits-off-malaysias-coast</link>
-<pubDate>Sun, 22 Feb 2026 20:17:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
