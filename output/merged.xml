@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 25 Feb 2026 04:13:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 05:55:56 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Hamas calls for sanctions against Israel over new West Bank moves]]></title>
+<link>https://www.newagebd.net/post/middle-east/292209/hamas-calls-for-sanctions-against-israel-over-new-west-bank-moves</link>
+<pubDate>Wed, 25 Feb 2026 05:55:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Lebanon fears Israeli strikes if Iran situation escalates]]></title>
 <link>https://www.newagebd.net/post/middle-east/292196/lebanon-fears-israeli-strikes-if-iran-situation-escalates</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Australian gynaecologist accused of unneeded surgeries on women]]></title>
-<link>https://www.newagebd.net/post/oceania/292156/australian-gynaecologist-accused-of-unneeded-surgeries-on-women</link>
-<pubDate>Tue, 24 Feb 2026 17:57:33 -0000</pubDate>
+<title><![CDATA[Revolutionary Guards conduct military drills in Iran’s south]]></title>
+<link>https://www.newagebd.net/post/middle-east/292224/revolutionary-guards-conduct-military-drills-in-irans-south</link>
+<pubDate>Wed, 25 Feb 2026 05:55:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Ukraine unbroken after 4 years: Zelensky]]></title>
 <link>https://www.newagebd.net/post/europe/292210/ukraine-unbroken-after-4-years-zelensky</link>
 <pubDate>Tue, 24 Feb 2026 20:57:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hamas calls for sanctions against Israel over new West Bank moves]]></title>
-<link>https://www.newagebd.net/post/middle-east/292209/hamas-calls-for-sanctions-against-israel-over-new-west-bank-moves</link>
-<pubDate>Tue, 24 Feb 2026 20:42:25 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
