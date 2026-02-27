@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Feb 2026 06:43:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 07:40:32 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US, Ukraine hold talks in Geneva]]></title>
+<link>https://www.newagebd.net/post/europe/292434/us-ukraine-hold-talks-in-geneva</link>
+<pubDate>Fri, 27 Feb 2026 07:13:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Syria govt, Druze factions swap dozens of detainees]]></title>
 <link>https://www.newagebd.net/post/middle-east/292391/syria-govt-druze-factions-swap-dozens-of-detainees</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran rejects US claims on missile programme as ‘big lies’]]></title>
-<link>https://www.newagebd.net/post/middle-east/292328/iran-rejects-us-claims-on-missile-programme-as-big-lies</link>
-<pubDate>Thu, 26 Feb 2026 17:08:00 -0000</pubDate>
+<title><![CDATA[US govt accused of major ‘cover-up’ over Trump sex abuse claims]]></title>
+<link>https://www.newagebd.net/post/north-america/292439/us-govt-accused-of-major-cover-up-over-trump-sex-abuse-claims</link>
+<pubDate>Fri, 27 Feb 2026 06:57:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[20 killed in Pakistan attacks]]></title>
 <link>https://www.newagebd.net/post/south-asia/292436/20-killed-in-pakistan-attacks</link>
 <pubDate>Thu, 26 Feb 2026 21:56:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US, Ukraine hold talks in Geneva]]></title>
-<link>https://www.newagebd.net/post/europe/292434/us-ukraine-hold-talks-in-geneva</link>
-<pubDate>Thu, 26 Feb 2026 21:41:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
