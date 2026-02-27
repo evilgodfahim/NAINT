@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Feb 2026 14:34:59 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 15:32:29 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US govt accused of major ‘cover-up’ over Trump sex abuse claims]]></title>
+<link>https://www.newagebd.net/post/north-america/292439/us-govt-accused-of-major-cover-up-over-trump-sex-abuse-claims</link>
+<pubDate>Fri, 27 Feb 2026 15:15:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iran, US hold talks in push to avert war]]></title>
 <link>https://www.newagebd.net/post/middle-east/292438/iran-us-hold-talks-in-push-to-avert-war</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Post-uprising polls won’t shake Nepal’s delicate India-China balance]]></title>
-<link>https://www.newagebd.net/post/south-asia/292384/post-uprising-polls-wont-shake-nepals-delicate-india-china-balance</link>
-<pubDate>Thu, 26 Feb 2026 19:09:43 -0000</pubDate>
+<title><![CDATA[Canada PM Mark Carney begins key India visit]]></title>
+<link>https://www.newagebd.net/post/south-asia/292447/canada-pm-mark-carney-begins-key-india-visit</link>
+<pubDate>Fri, 27 Feb 2026 15:32:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Pakistan bombs Afghanistan capital in ‘open war’]]></title>
 <link>https://www.newagebd.net/post/South%20Asia/292440/pakistan-bombs-afghanistan-capital-in-open-war</link>
 <pubDate>Fri, 27 Feb 2026 12:11:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US govt accused of major ‘cover-up’ over Trump sex abuse claims]]></title>
-<link>https://www.newagebd.net/post/north-america/292439/us-govt-accused-of-major-cover-up-over-trump-sex-abuse-claims</link>
-<pubDate>Fri, 27 Feb 2026 06:57:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
