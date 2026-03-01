@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 10:18:23 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 11:14:46 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran supreme leader Khamenei killed in massive US, Israeli attack]]></title>
+<link>https://www.newagebd.net/post/Middle%20East/292648/iran-supreme-leader-khamenei-killed-in-massive-us-israeli-attack</link>
+<pubDate>Sun, 01 Mar 2026 11:14:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Clinton denies wrongdoing at grilling on Epstein ties]]></title>
 <link>https://www.newagebd.net/post/north-america/292641/clinton-denies-wrongdoing-at-grilling-on-epstein-ties</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UN chief condemns migrants’ political exploitation]]></title>
-<link>https://www.newagebd.net/post/north-america/292585/un-chief-condemns-migrants-political-exploitation</link>
-<pubDate>Sat, 28 Feb 2026 18:23:05 -0000</pubDate>
+<title><![CDATA[Eight killed in pro-Iran protest at US consulate in Pakistan]]></title>
+<link>https://www.newagebd.net/post/South%20Asia/292653/eight-killed-in-pro-iran-protest-at-us-consulate-in-pakistan</link>
+<pubDate>Sun, 01 Mar 2026 11:14:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Two dead as Iran launches 137 missiles, 209 drones across UAE]]></title>
 <link>https://www.newagebd.net/post/Middle%20East/292649/two-dead-as-iran-launches-137-missiles-209-drones-across-uae</link>
 <pubDate>Sun, 01 Mar 2026 07:27:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran supreme leader Khamenei killed in massive US, Israeli attack]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/292648/iran-supreme-leader-khamenei-killed-in-massive-us-israeli-attack</link>
-<pubDate>Sun, 01 Mar 2026 05:46:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
