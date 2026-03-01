@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 01:44:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 04:15:43 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Airspaces closed, flights cancelled as US-Iran war begins]]></title>
+<link>https://www.newagebd.net/post/middle-east/292607/airspaces-closed-flights-cancelled-as-us-iran-war-begins</link>
+<pubDate>Sun, 01 Mar 2026 03:21:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[US discussing ‘friendly takeover’ of Cuba: Trump]]></title>
 <link>https://www.newagebd.net/post/north-america/292590/us-discussing-friendly-takeover-of-cuba-trump</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[85 killed as US, Israel strike Iran, Tehran retaliates]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/292554/85-killed-as-us-israel-strike-iran-tehran-retaliates</link>
-<pubDate>Sat, 28 Feb 2026 19:32:44 -0000</pubDate>
+<title><![CDATA[Trump says Khamenei is dead]]></title>
+<link>https://www.newagebd.net/post/Middle%20East/292648/trump-says-khamenei-is-dead</link>
+<pubDate>Sun, 01 Mar 2026 04:15:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Civilians killed in Pakistan air strikes: Afghanistan]]></title>
 <link>https://www.newagebd.net/post/south-asia/292613/civilians-killed-in-pakistan-air-strikes-afghanistan</link>
 <pubDate>Sat, 28 Feb 2026 20:17:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Airspaces closed, flights cancelled as US-Iran war begins]]></title>
-<link>https://www.newagebd.net/post/middle-east/292607/airspaces-closed-flights-cancelled-as-us-iran-war-begins</link>
-<pubDate>Sat, 28 Feb 2026 20:02:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
