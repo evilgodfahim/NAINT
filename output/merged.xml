@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 02 Mar 2026 23:19:03 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Mar 2026 01:27:22 GMT</lastBuildDate>
+<item>
+<title><![CDATA[War spreads with strikes across ME, beyond]]></title>
+<link>https://www.newagebd.net/post/middle-east/292811/war-spreads-with-strikes-across-me-beyond</link>
+<pubDate>Tue, 03 Mar 2026 01:27:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[UK PM defends decision to stay out of Iran strikes]]></title>
 <link>https://www.newagebd.net/post/europe/292804/uk-pm-defends-decision-to-stay-out-of-iran-strikes</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[QatarEnergy suspends production of liquefied natural gas over Iran attacks]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/292775/qatarenergy-suspends-production-of-liquefied-natural-gas-over-iran-attacks</link>
-<pubDate>Mon, 02 Mar 2026 16:54:10 -0000</pubDate>
+<title><![CDATA[UK toughens asylum rules to discourage migration]]></title>
+<link>https://www.newagebd.net/post/europe/292843/uk-toughens-asylum-rules-to-discourage-migration</link>
+<pubDate>Tue, 03 Mar 2026 01:27:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Anti-war protests spread across world]]></title>
 <link>https://www.newagebd.net/post/middle-east/292823/anti-war-protests-spread-across-world</link>
 <pubDate>Mon, 02 Mar 2026 20:56:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[War spreads with strikes across ME, beyond]]></title>
-<link>https://www.newagebd.net/post/middle-east/292811/war-spreads-with-strikes-across-me-beyond</link>
-<pubDate>Mon, 02 Mar 2026 19:32:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
