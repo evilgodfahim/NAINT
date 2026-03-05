@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 05 Mar 2026 06:41:09 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 07:37:01 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran, Israel launch fresh strikes]]></title>
+<link>https://www.newagebd.net/post/middle-east/293025/iran-israel-launch-fresh-strikes</link>
+<pubDate>Thu, 05 Mar 2026 07:36:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Syria strengthens military presence on border areas]]></title>
 <link>https://www.newagebd.net/post/middle-east/293018/syria-strengthens-military-presence-on-border-areas</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel says Iran’s next supreme leader will be ‘a target for elimination’]]></title>
-<link>https://www.newagebd.net/post/middle-east/292973/israel-says-irans-next-supreme-leader-will-be-a-target-for-elimination</link>
-<pubDate>Wed, 04 Mar 2026 17:37:57 -0000</pubDate>
+<title><![CDATA[Canada PM says can’t rule out military participation in Iran war]]></title>
+<link>https://www.newagebd.net/post/Oceania/293061/canada-pm-says-cant-rule-out-military-participation-in-iran-war</link>
+<pubDate>Thu, 05 Mar 2026 07:37:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[87 killed as US sinks Iranian warship]]></title>
 <link>https://www.newagebd.net/post/middle-east/293029/87-killed-as-us-sinks-iranian-warship</link>
 <pubDate>Wed, 04 Mar 2026 20:10:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran, Israel launch fresh strikes]]></title>
-<link>https://www.newagebd.net/post/middle-east/293025/iran-israel-launch-fresh-strikes</link>
-<pubDate>Wed, 04 Mar 2026 19:55:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
