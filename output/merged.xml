@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 05 Mar 2026 04:06:25 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 05:42:12 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syria strengthens military presence on border areas]]></title>
+<link>https://www.newagebd.net/post/middle-east/293018/syria-strengthens-military-presence-on-border-areas</link>
+<pubDate>Thu, 05 Mar 2026 05:42:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[New flights evacuate travellers stranded by Middle East war]]></title>
 <link>https://www.newagebd.net/post/middle-east/293017/new-flights-evacuate-travellers-stranded-by-middle-east-war</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pentagon identifies four US troops killed in Kuwait]]></title>
-<link>https://www.newagebd.net/post/north-america/292969/pentagon-identifies-four-us-troops-killed-in-kuwait</link>
-<pubDate>Wed, 04 Mar 2026 17:22:57 -0000</pubDate>
+<title><![CDATA[Nepal readies for pivotal post-uprising vote]]></title>
+<link>https://www.newagebd.net/post/south-asia/293052/nepal-readies-for-pivotal-post-uprising-vote</link>
+<pubDate>Thu, 05 Mar 2026 05:42:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Iran, Israel launch fresh strikes]]></title>
 <link>https://www.newagebd.net/post/middle-east/293025/iran-israel-launch-fresh-strikes</link>
 <pubDate>Wed, 04 Mar 2026 19:55:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syria strengthens military presence on border areas]]></title>
-<link>https://www.newagebd.net/post/middle-east/293018/syria-strengthens-military-presence-on-border-areas</link>
-<pubDate>Wed, 04 Mar 2026 19:40:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
