@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Mar 2026 05:35:07 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 06:30:45 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Ethiopia rebels gang-raped children: Amnesty]]></title>
+<link>https://www.newagebd.net/post/africa/293207/ethiopia-rebels-gang-raped-children-amnesty</link>
+<pubDate>Sat, 07 Mar 2026 06:30:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[US, Venezuela restore ties]]></title>
 <link>https://www.newagebd.net/post/latin-america/293206/us-venezuela-restore-ties</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indonesia to restrict social media access for under-16s]]></title>
-<link>https://www.newagebd.net/post/asia/293174/indonesia-to-restrict-social-media-access-for-under-16s</link>
-<pubDate>Fri, 06 Mar 2026 17:04:27 -0000</pubDate>
+<title><![CDATA[Russia, Ukraine exchange 300 POWs each]]></title>
+<link>https://www.newagebd.net/post/europe/293253/russia-ukraine-exchange-300-pows-each</link>
+<pubDate>Sat, 07 Mar 2026 06:30:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[56 Afghan civilians killed in conflict with Pakistan since past week]]></title>
 <link>https://www.newagebd.net/post/south-asia/293208/56-afghan-civilians-killed-in-conflict-with-pakistan-since-past-week</link>
 <pubDate>Fri, 06 Mar 2026 20:24:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ethiopia rebels gang-raped children: Amnesty]]></title>
-<link>https://www.newagebd.net/post/africa/293207/ethiopia-rebels-gang-raped-children-amnesty</link>
-<pubDate>Fri, 06 Mar 2026 18:34:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
