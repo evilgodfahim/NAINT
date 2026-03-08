@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Mar 2026 04:04:43 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 05:38:12 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Sri Lanka to treat Iranian sailors under int’l law]]></title>
+<link>https://www.newagebd.net/post/south-asia/293293/sri-lanka-to-treat-iranian-sailors-under-intl-law</link>
+<pubDate>Sun, 08 Mar 2026 05:38:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump hosts Latin American leaders on crime, immigration]]></title>
 <link>https://www.newagebd.net/post/latin-america/293292/trump-hosts-latin-american-leaders-on-crime-immigration</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia, Ukraine exchange 300 POWs each]]></title>
-<link>https://www.newagebd.net/post/europe/293253/russia-ukraine-exchange-300-pows-each</link>
-<pubDate>Sat, 07 Mar 2026 16:38:44 -0000</pubDate>
+<title><![CDATA[Russian strikes kill 12 across Ukraine]]></title>
+<link>https://www.newagebd.net/post/europe/293359/russian-strikes-kill-12-across-ukraine</link>
+<pubDate>Sun, 08 Mar 2026 05:38:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Guinea dissolves 40 parties including main opposition]]></title>
 <link>https://www.newagebd.net/post/africa/293294/guinea-dissolves-40-parties-including-main-opposition</link>
 <pubDate>Sat, 07 Mar 2026 18:23:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sri Lanka to treat Iranian sailors under int’l law]]></title>
-<link>https://www.newagebd.net/post/south-asia/293293/sri-lanka-to-treat-iranian-sailors-under-intl-law</link>
-<pubDate>Sat, 07 Mar 2026 18:08:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
