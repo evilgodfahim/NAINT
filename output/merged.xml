@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 09 Mar 2026 10:38:33 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 11:30:09 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran presses Gulf attacks]]></title>
+<link>https://www.newagebd.net/post/middle-east/293441/iran-presses-gulf-attacks</link>
+<pubDate>Mon, 09 Mar 2026 11:30:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israel attack in West Bank kills three Palestinians]]></title>
 <link>https://www.newagebd.net/post/middle-east/293416/israel-attack-in-west-bank-kills-three-palestinians</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Smoke from burning oil plunges Tehran into darkness]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/293383/smoke-from-burning-oil-plunges-tehran-into-darkness</link>
-<pubDate>Sun, 08 Mar 2026 17:23:49 -0000</pubDate>
+<title><![CDATA[Iran retaliates as Mojtaba Khamenei takes charge]]></title>
+<link>https://www.newagebd.net/post/Middle%20East/293467/iran-retaliates-as-mojtaba-khamenei-takes-charge</link>
+<pubDate>Mon, 09 Mar 2026 11:30:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Centrist RSP heads for landslide]]></title>
 <link>https://www.newagebd.net/post/south-asia/293456/centrist-rsp-heads-for-landslide</link>
 <pubDate>Sun, 08 Mar 2026 22:16:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran presses Gulf attacks]]></title>
-<link>https://www.newagebd.net/post/middle-east/293441/iran-presses-gulf-attacks</link>
-<pubDate>Sun, 08 Mar 2026 20:18:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
