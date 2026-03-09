@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 09 Mar 2026 05:52:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 06:53:20 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israel attack in West Bank kills three Palestinians]]></title>
+<link>https://www.newagebd.net/post/middle-east/293416/israel-attack-in-west-bank-kills-three-palestinians</link>
+<pubDate>Mon, 09 Mar 2026 06:53:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[China warns against govt change in Iran]]></title>
 <link>https://www.newagebd.net/post/asia/293415/china-warns-against-govt-change-in-iran</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran body selecting supreme leader reaches decision, name not announced]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/293379/iran-body-selecting-supreme-leader-reaches-decision-name-not-announced</link>
-<pubDate>Sun, 08 Mar 2026 17:08:49 -0000</pubDate>
+<title><![CDATA[Dozens of people injured in Bahrain as Gulf suffers missile, drone attacks]]></title>
+<link>https://www.newagebd.net/post/middle-east/293466/dozens-of-people-injured-in-bahrain-as-gulf-suffers-missile-drone-attacks</link>
+<pubDate>Mon, 09 Mar 2026 06:53:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Iran presses Gulf attacks]]></title>
 <link>https://www.newagebd.net/post/middle-east/293441/iran-presses-gulf-attacks</link>
 <pubDate>Sun, 08 Mar 2026 20:18:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel attack in West Bank kills three Palestinians]]></title>
-<link>https://www.newagebd.net/post/middle-east/293416/israel-attack-in-west-bank-kills-three-palestinians</link>
-<pubDate>Sun, 08 Mar 2026 20:03:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
