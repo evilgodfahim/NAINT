@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 09 Mar 2026 04:10:11 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 05:52:37 GMT</lastBuildDate>
+<item>
+<title><![CDATA[China warns against govt change in Iran]]></title>
+<link>https://www.newagebd.net/post/asia/293415/china-warns-against-govt-change-in-iran</link>
+<pubDate>Mon, 09 Mar 2026 05:52:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Thousands come out in Spain for women’s rights, against Iran war]]></title>
 <link>https://www.newagebd.net/post/europe/293414/thousands-come-out-in-spain-for-womens-rights-against-iran-war</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Three Indonesian crew go missing after UAE tugboat sinks in Strait of Hormuz]]></title>
-<link>https://www.newagebd.net/post/asia/293375/three-indonesian-crew-go-missing-after-uae-tugboat-sinks-in-strait-of-hormuz</link>
-<pubDate>Sun, 08 Mar 2026 16:53:49 -0000</pubDate>
+<title><![CDATA[Explosion rocks US embassy in Oslo]]></title>
+<link>https://www.newagebd.net/post/europe/293458/explosion-rocks-us-embassy-in-oslo</link>
+<pubDate>Mon, 09 Mar 2026 05:52:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israel attack in West Bank kills three Palestinians]]></title>
 <link>https://www.newagebd.net/post/middle-east/293416/israel-attack-in-west-bank-kills-three-palestinians</link>
 <pubDate>Sun, 08 Mar 2026 20:03:06 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China warns against govt change in Iran]]></title>
-<link>https://www.newagebd.net/post/asia/293415/china-warns-against-govt-change-in-iran</link>
-<pubDate>Sun, 08 Mar 2026 18:23:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
