@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 10 Mar 2026 12:42:30 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 13:56:59 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran faces fresh blitz of US, Israeli strikes]]></title>
+<link>https://www.newagebd.net/post/middle-east/293537/iran-faces-fresh-blitz-of-us-israeli-strikes</link>
+<pubDate>Tue, 10 Mar 2026 13:56:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[China slams Taiwan PM visit to Japan]]></title>
 <link>https://www.newagebd.net/post/asia/293531/china-slams-taiwan-pm-visit-to-japan</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK PM says ‘monitoring’ economic impact of Iran war]]></title>
-<link>https://www.newagebd.net/post/europe/293488/uk-pm-says-monitoring-economic-impact-of-iran-war</link>
-<pubDate>Mon, 09 Mar 2026 17:11:51 -0000</pubDate>
+<title><![CDATA[Azerbaijan sends humanitarian aid to Iran]]></title>
+<link>https://www.newagebd.net/post/Europe/293572/azerbaijan-sends-humanitarian-aid-to-iran</link>
+<pubDate>Tue, 10 Mar 2026 13:56:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Global arms exports soar on European demand: study]]></title>
 <link>https://www.newagebd.net/post/europe/293539/global-arms-exports-soar-on-european-demand-study</link>
 <pubDate>Tue, 10 Mar 2026 07:36:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran faces fresh blitz of US, Israeli strikes]]></title>
-<link>https://www.newagebd.net/post/middle-east/293537/iran-faces-fresh-blitz-of-us-israeli-strikes</link>
-<pubDate>Mon, 09 Mar 2026 18:41:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
