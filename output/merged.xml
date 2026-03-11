@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Mar 2026 14:01:11 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 15:40:39 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Russia kills four in east Ukraine]]></title>
+<link>https://www.newagebd.net/post/europe/293645/russia-kills-four-in-east-ukraine</link>
+<pubDate>Wed, 11 Mar 2026 15:40:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Myanmar civil war drives drugs epidemic in Thai hills]]></title>
 <link>https://www.newagebd.net/post/south-asia/293612/myanmar-civil-war-drives-drugs-epidemic-in-thai-hills</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran vows to block Gulf oil until bombing stops]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/293569/iran-vows-to-block-gulf-oil-until-bombing-stops</link>
-<pubDate>Tue, 10 Mar 2026 20:38:34 -0000</pubDate>
+<title><![CDATA[Italy PM condemns Iran school strike]]></title>
+<link>https://www.newagebd.net/post/europe/293659/italy-pm-condemns-iran-school-strike</link>
+<pubDate>Wed, 11 Mar 2026 15:40:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -71,21 +77,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran’s new supreme leader ‘safe and sound’, says president’s son]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/293655/irans-new-supreme-leader-safe-and-sound-says-presidents-son</link>
-<pubDate>Wed, 11 Mar 2026 11:12:57 -0000</pubDate>
+<title><![CDATA[Iran’s new leader hurt in strike that killed his father]]></title>
+<link>https://www.newagebd.net/post/Middle%20East/293655/irans-new-leader-hurt-in-strike-that-killed-his-father</link>
+<pubDate>Wed, 11 Mar 2026 15:25:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Journalists face restrictions, detention covering ME war]]></title>
 <link>https://www.newagebd.net/post/middle-east/293646/journalists-face-restrictions-detention-covering-me-war</link>
 <pubDate>Wed, 11 Mar 2026 09:35:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russia kills four in east Ukraine]]></title>
-<link>https://www.newagebd.net/post/europe/293645/russia-kills-four-in-east-ukraine</link>
-<pubDate>Tue, 10 Mar 2026 21:23:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
