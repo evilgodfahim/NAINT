@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Mar 2026 08:32:42 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 09:35:15 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump faces mounting political risks as Iran war escalates]]></title>
+<link>https://www.newagebd.net/post/north-america/293610/trump-faces-mounting-political-risks-as-iran-war-escalates</link>
+<pubDate>Wed, 11 Mar 2026 09:35:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[2,70,000 Afghans returned from Iran, Pakistan this year]]></title>
 <link>https://www.newagebd.net/post/south-asia/293609/270000-afghans-returned-from-iran-pakistan-this-year</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran faces fresh blitz of US, Israeli strikes]]></title>
-<link>https://www.newagebd.net/post/middle-east/293537/iran-faces-fresh-blitz-of-us-israeli-strikes</link>
-<pubDate>Tue, 10 Mar 2026 13:56:58 -0000</pubDate>
+<title><![CDATA[Journalists face restrictions, detention covering ME war]]></title>
+<link>https://www.newagebd.net/post/middle-east/293646/journalists-face-restrictions-detention-covering-me-war</link>
+<pubDate>Wed, 11 Mar 2026 09:35:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Red Cross launches Iran emergency appeal as needs soar]]></title>
 <link>https://www.newagebd.net/post/middle-east/293611/red-cross-launches-iran-emergency-appeal-as-needs-soar</link>
 <pubDate>Tue, 10 Mar 2026 19:33:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump faces mounting political risks as Iran war escalates]]></title>
-<link>https://www.newagebd.net/post/north-america/293610/trump-faces-mounting-political-risks-as-iran-war-escalates</link>
-<pubDate>Tue, 10 Mar 2026 19:18:23 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
