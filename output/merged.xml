@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Mar 2026 20:20:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 21:21:09 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli troops kill two children, parents in West Bank]]></title>
+<link>https://www.newagebd.net/post/Middle%20East/294053/israeli-troops-kill-two-children-parents-in-west-bank</link>
+<pubDate>Sun, 15 Mar 2026 21:21:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[India arrests another suspect in Hadi killing]]></title>
 <link>https://www.newagebd.net/post/south-asia/294050/india-arrests-another-suspect-in-hadi-killing</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump urges world leaders to secure Hormuz]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/293996/trump-urges-world-leaders-to-secure-hormuz</link>
-<pubDate>Sat, 14 Mar 2026 23:20:46 -0000</pubDate>
+<title><![CDATA[Canada, Nordics announce deepening of defence ties]]></title>
+<link>https://www.newagebd.net/post/north-america/294075/canada-nordics-announce-deepening-of-defence-ties</link>
+<pubDate>Sun, 15 Mar 2026 21:21:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Protesters ransack a Cuban communist party office]]></title>
 <link>https://www.newagebd.net/post/latin-america/294072/protesters-ransack-a-cuban-communist-party-office</link>
 <pubDate>Sun, 15 Mar 2026 17:58:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli troops kill two children, parents in West Bank]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/294053/israeli-troops-kill-two-children-parents-in-west-bank</link>
-<pubDate>Sun, 15 Mar 2026 17:43:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
