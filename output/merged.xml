@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 16 Mar 2026 04:34:24 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 06:15:59 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Protesters ransack a Cuban communist party office]]></title>
+<link>https://www.newagebd.net/post/latin-america/294072/protesters-ransack-a-cuban-communist-party-office</link>
+<pubDate>Mon, 16 Mar 2026 06:15:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israeli troops kill two children, parents in West Bank]]></title>
 <link>https://www.newagebd.net/post/Middle%20East/294053/israeli-troops-kill-two-children-parents-in-west-bank</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Protesters burn Trump, Meloni’s photos in Rome]]></title>
-<link>https://www.newagebd.net/post/europe/294007/protesters-burn-trump-melonis-photos-in-rome</link>
-<pubDate>Sun, 15 Mar 2026 11:20:03 -0000</pubDate>
+<title><![CDATA[Pakistan forces hit military facilities in Afghanistan]]></title>
+<link>https://www.newagebd.net/post/south-asia/294122/pakistan-forces-hit-military-facilities-in-afghanistan</link>
+<pubDate>Mon, 16 Mar 2026 06:15:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Orban supporters rally in Hungary pre-election showdown]]></title>
 <link>https://www.newagebd.net/post/europe/294073/orban-supporters-rally-in-hungary-pre-election-showdown</link>
 <pubDate>Sun, 15 Mar 2026 18:13:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Protesters ransack a Cuban communist party office]]></title>
-<link>https://www.newagebd.net/post/latin-america/294072/protesters-ransack-a-cuban-communist-party-office</link>
-<pubDate>Sun, 15 Mar 2026 17:58:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
