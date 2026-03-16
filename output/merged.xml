@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 16 Mar 2026 19:49:33 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 20:30:35 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Netanyahu mocks social media rumours about his death]]></title>
+<link>https://www.newagebd.net/post/middle-east/294154/netanyahu-mocks-social-media-rumours-about-his-death</link>
+<pubDate>Mon, 16 Mar 2026 20:30:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Rise of drone warfare sharpens focus on laser defence]]></title>
 <link>https://www.newagebd.net/post/north-america/294150/rise-of-drone-warfare-sharpens-focus-on-laser-defence</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK for de-escalating war in ME]]></title>
-<link>https://www.newagebd.net/post/Europe/294049/uk-for-de-escalating-war-in-me</link>
-<pubDate>Sun, 15 Mar 2026 18:13:41 -0000</pubDate>
+<title><![CDATA[Mideast war ‘not a matter for NATO’, says Germany’s Merz]]></title>
+<link>https://www.newagebd.net/post/Europe/294172/mideast-war-not-a-matter-for-nato-says-germanys-merz</link>
+<pubDate>Mon, 16 Mar 2026 20:30:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[20 Thai sailors return home after vessel attacked in Gulf]]></title>
 <link>https://www.newagebd.net/post/asia/294155/20-thai-sailors-return-home-after-vessel-attacked-in-gulf</link>
 <pubDate>Mon, 16 Mar 2026 16:50:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Netanyahu mocks social media rumours about his death]]></title>
-<link>https://www.newagebd.net/post/middle-east/294154/netanyahu-mocks-social-media-rumours-about-his-death</link>
-<pubDate>Mon, 16 Mar 2026 16:35:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
