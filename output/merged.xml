@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 17 Mar 2026 12:54:39 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Mar 2026 14:15:42 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Afghan says ‘around 400’ killed in Pakistani strike on Kabul rehab clinic]]></title>
+<link>https://www.newagebd.net/post/South%20Asia/294204/afghan-says-around-400-killed-in-pakistani-strike-on-kabul-rehab-clinic</link>
+<pubDate>Tue, 17 Mar 2026 14:15:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Drone, rocket attack targets US embassy in Iraq]]></title>
 <link>https://www.newagebd.net/post/Middle%20East/294203/drone-rocket-attack-targets-us-embassy-in-iraq</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan forces hit military facilities in Afghanistan]]></title>
-<link>https://www.newagebd.net/post/south-asia/294122/pakistan-forces-hit-military-facilities-in-afghanistan</link>
-<pubDate>Mon, 16 Mar 2026 16:50:44 -0000</pubDate>
+<title><![CDATA[Iran security chief Larijani’s accounts post note as Israel says killed him]]></title>
+<link>https://www.newagebd.net/post/Middle%20East/294210/iran-security-chief-larijanis-accounts-post-note-as-israel-says-killed-him</link>
+<pubDate>Tue, 17 Mar 2026 14:15:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Fresh attack targets UAE’s Fujairah oil hub]]></title>
 <link>https://www.newagebd.net/post/Middle%20East/294205/fresh-attack-targets-uaes-fujairah-oil-hub</link>
 <pubDate>Tue, 17 Mar 2026 09:48:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Afghan says ‘around 400’ killed in Pakistani strike on Kabul rehab clinic]]></title>
-<link>https://www.newagebd.net/post/South%20Asia/294204/afghan-says-around-400-killed-in-pakistani-strike-on-kabul-rehab-clinic</link>
-<pubDate>Tue, 17 Mar 2026 11:08:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
