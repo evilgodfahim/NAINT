@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 17 Mar 2026 07:51:34 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Mar 2026 08:42:51 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Pakistan shelling kills four Afghans]]></title>
+<link>https://www.newagebd.net/post/south-asia/294157/pakistan-shelling-kills-four-afghans</link>
+<pubDate>Tue, 17 Mar 2026 08:42:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Ten killed in India hospital fire]]></title>
 <link>https://www.newagebd.net/post/south-asia/294156/ten-killed-in-india-hospital-fire</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Protesters ransack a Cuban communist party office]]></title>
-<link>https://www.newagebd.net/post/latin-america/294072/protesters-ransack-a-cuban-communist-party-office</link>
-<pubDate>Mon, 16 Mar 2026 06:15:58 -0000</pubDate>
+<title><![CDATA[Afghanistan accuses Pakistan of deadly airstrike on drug rehab centre in Kabul]]></title>
+<link>https://www.newagebd.net/post/South%20Asia/294204/afghanistan-accuses-pakistan-of-deadly-airstrike-on-drug-rehab-centre-in-kabul</link>
+<pubDate>Tue, 17 Mar 2026 08:42:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Mideast war ‘not a matter for NATO’, says Germany’s Merz]]></title>
 <link>https://www.newagebd.net/post/Europe/294172/mideast-war-not-a-matter-for-nato-says-germanys-merz</link>
 <pubDate>Mon, 16 Mar 2026 20:30:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan shelling kills four Afghans]]></title>
-<link>https://www.newagebd.net/post/south-asia/294157/pakistan-shelling-kills-four-afghans</link>
-<pubDate>Mon, 16 Mar 2026 18:52:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
