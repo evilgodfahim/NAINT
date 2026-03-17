@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 17 Mar 2026 05:54:38 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Mar 2026 06:56:01 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Ten killed in India hospital fire]]></title>
+<link>https://www.newagebd.net/post/south-asia/294156/ten-killed-in-india-hospital-fire</link>
+<pubDate>Tue, 17 Mar 2026 06:56:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[20 Thai sailors return home after vessel attacked in Gulf]]></title>
 <link>https://www.newagebd.net/post/asia/294155/20-thai-sailors-return-home-after-vessel-attacked-in-gulf</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli troops kill two children, parents in West Bank]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/294053/israeli-troops-kill-two-children-parents-in-west-bank</link>
-<pubDate>Sun, 15 Mar 2026 21:21:08 -0000</pubDate>
+<title><![CDATA[Drone, rocket attack targets US embassy in Iraq]]></title>
+<link>https://www.newagebd.net/post/Middle%20East/294203/drone-rocket-attack-targets-us-embassy-in-iraq</link>
+<pubDate>Tue, 17 Mar 2026 06:56:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Pakistan shelling kills four Afghans]]></title>
 <link>https://www.newagebd.net/post/south-asia/294157/pakistan-shelling-kills-four-afghans</link>
 <pubDate>Mon, 16 Mar 2026 18:52:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ten killed in India hospital fire]]></title>
-<link>https://www.newagebd.net/post/south-asia/294156/ten-killed-in-india-hospital-fire</link>
-<pubDate>Mon, 16 Mar 2026 17:05:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
