@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 18 Mar 2026 11:39:53 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 12:54:24 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump slams some allies for not helping US]]></title>
+<link>https://www.newagebd.net/post/north-america/294296/trump-slams-some-allies-for-not-helping-us</link>
+<pubDate>Wed, 18 Mar 2026 12:54:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iran retaliates as Israel continues attacks]]></title>
 <link>https://www.newagebd.net/post/middle-east/294283/iran-retaliates-as-israel-continues-attacks</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia targets Kyiv at rush hour, kills 3 across Ukraine]]></title>
-<link>https://www.newagebd.net/post/europe/294251/russia-targets-kyiv-at-rush-hour-kills-3-across-ukraine</link>
-<pubDate>Tue, 17 Mar 2026 19:02:00 -0000</pubDate>
+<title><![CDATA[Lebanon says Israel strikes on central Beirut kill at least six]]></title>
+<link>https://www.newagebd.net/post/middle-east/294316/lebanon-says-israel-strikes-on-central-beirut-kill-at-least-six</link>
+<pubDate>Wed, 18 Mar 2026 12:54:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Trump admin can resume ‘third-country’ deportations: court]]></title>
 <link>https://www.newagebd.net/post/north-america/294297/trump-admin-can-resume-third-country-deportations-court</link>
 <pubDate>Wed, 18 Mar 2026 05:58:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump slams some allies for not helping US]]></title>
-<link>https://www.newagebd.net/post/north-america/294296/trump-slams-some-allies-for-not-helping-us</link>
-<pubDate>Tue, 17 Mar 2026 20:32:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
