@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 18 Mar 2026 23:25:20 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Mar 2026 01:29:28 GMT</lastBuildDate>
+<item>
+<title><![CDATA[South Lebanon residents flee death and destruction]]></title>
+<link>https://www.newagebd.net/post/middle-east/294354/south-lebanon-residents-flee-death-and-destruction</link>
+<pubDate>Thu, 19 Mar 2026 01:29:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iranians grapple with whether to flee country because of war]]></title>
 <link>https://www.newagebd.net/post/middle-east/294353/iranians-grapple-with-whether-to-flee-country-because-of-war</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon says Israel strikes on central Beirut kill at least six]]></title>
-<link>https://www.newagebd.net/post/middle-east/294316/lebanon-says-israel-strikes-on-central-beirut-kill-at-least-six</link>
-<pubDate>Wed, 18 Mar 2026 16:40:04 -0000</pubDate>
+<title><![CDATA[Ukraine faces missile shortage due to war on Iran: Zelensky]]></title>
+<link>https://www.newagebd.net/post/europe/294398/ukraine-faces-missile-shortage-due-to-war-on-iran-zelensky</link>
+<pubDate>Thu, 19 Mar 2026 01:29:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Iran hits back as Israel, US continue pounding Iran]]></title>
 <link>https://www.newagebd.net/post/middle-east/294386/iran-hits-back-as-israel-us-continue-pounding-iran</link>
 <pubDate>Wed, 18 Mar 2026 19:43:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Lebanon residents flee death and destruction]]></title>
-<link>https://www.newagebd.net/post/middle-east/294354/south-lebanon-residents-flee-death-and-destruction</link>
-<pubDate>Wed, 18 Mar 2026 19:28:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
