@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 20 Mar 2026 08:32:57 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Mar 2026 09:34:03 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran hits Haifa oil refinery: Israeli media]]></title>
+<link>https://www.newagebd.net/post/middle-east/294465/iran-hits-haifa-oil-refinery-israeli-media</link>
+<pubDate>Fri, 20 Mar 2026 09:34:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Pentagon seeks additional $200 billion for Iran war]]></title>
 <link>https://www.newagebd.net/post/North%20America/294464/pentagon-seeks-additional-200-billion-for-iran-war</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Denmark deployed troops fearing US invasion of Greenland]]></title>
-<link>https://www.newagebd.net/post/Europe/294445/denmark-deployed-troops-fearing-us-invasion-of-greenland</link>
-<pubDate>Thu, 19 Mar 2026 13:33:50 -0000</pubDate>
+<title><![CDATA[US, Japan announce $40 bn nuclear power project]]></title>
+<link>https://www.newagebd.net/post/North%20America/294473/us-japan-announce-40-bn-nuclear-power-project</link>
+<pubDate>Fri, 20 Mar 2026 09:34:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[US approves over $16 billion in arms sales to Gulf states hit by Iran war]]></title>
 <link>https://www.newagebd.net/post/north-america/294467/us-approves-over-16-billion-in-arms-sales-to-gulf-states-hit-by-iran-war</link>
 <pubDate>Fri, 20 Mar 2026 05:30:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran hits Haifa oil refinery: Israeli media]]></title>
-<link>https://www.newagebd.net/post/middle-east/294465/iran-hits-haifa-oil-refinery-israeli-media</link>
-<pubDate>Thu, 19 Mar 2026 18:45:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
