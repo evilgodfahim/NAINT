@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 20 Mar 2026 06:44:37 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Mar 2026 07:40:45 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Pentagon seeks additional $200 billion for Iran war]]></title>
+<link>https://www.newagebd.net/post/North%20America/294464/pentagon-seeks-additional-200-billion-for-iran-war</link>
+<pubDate>Fri, 20 Mar 2026 07:40:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Gulf energy attacks ‘unacceptable’, says India]]></title>
 <link>https://www.newagebd.net/post/middle-east/294462/gulf-energy-attacks-unacceptable-says-india</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[12 more nations need to pay big deposits for US visa]]></title>
-<link>https://www.newagebd.net/post/world/294443/12-more-nations-need-to-pay-big-deposits-for-us-visa</link>
-<pubDate>Thu, 19 Mar 2026 13:18:50 -0000</pubDate>
+<title><![CDATA[Iran fires at Israel after Netanyahu boasts of war gains]]></title>
+<link>https://www.newagebd.net/post/Middle%20East/294472/iran-fires-at-israel-after-netanyahu-boasts-of-war-gains</link>
+<pubDate>Fri, 20 Mar 2026 07:40:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Iran hits Haifa oil refinery: Israeli media]]></title>
 <link>https://www.newagebd.net/post/middle-east/294465/iran-hits-haifa-oil-refinery-israeli-media</link>
 <pubDate>Thu, 19 Mar 2026 18:45:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pentagon seeks additional $200 billion for Iran war]]></title>
-<link>https://www.newagebd.net/post/North%20America/294464/pentagon-seeks-additional-200-billion-for-iran-war</link>
-<pubDate>Thu, 19 Mar 2026 18:30:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
