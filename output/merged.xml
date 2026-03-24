@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 24 Mar 2026 14:17:10 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 15:59:14 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Colombia military says 80 troops believed dead in plane crash]]></title>
+<link>https://www.newagebd.net/post/latin-america/294607/colombia-military-says-80-troops-believed-dead-in-plane-crash</link>
+<pubDate>Tue, 24 Mar 2026 15:59:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iran says got messages from ‘friendly countries’ about US request for talks]]></title>
 <link>https://www.newagebd.net/post/Middle%20East/294606/iran-says-got-messages-from-friendly-countries-about-us-request-for-talks</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israeli bridge strikes ‘prelude to ground invasion’: Lebanon]]></title>
-<link>https://www.newagebd.net/post/middle-east/294559/israeli-bridge-strikes-prelude-to-ground-invasion-lebanon</link>
-<pubDate>Mon, 23 Mar 2026 14:11:18 -0000</pubDate>
+<title><![CDATA[Kim Jong Un vows ‘irreversible’ nuclear status, warns Seoul of ‘merciless’ response]]></title>
+<link>https://www.newagebd.net/post/asia/294620/kim-jong-un-vows-irreversible-nuclear-status-warns-seoul-of-merciless-response</link>
+<pubDate>Tue, 24 Mar 2026 15:59:14 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[UK sending air defence systems to Gulf: PM]]></title>
 <link>https://www.newagebd.net/post/europe/294608/uk-sending-air-defence-systems-to-gulf-pm</link>
 <pubDate>Tue, 24 Mar 2026 05:55:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Colombia military says 80 troops believed dead in plane crash]]></title>
-<link>https://www.newagebd.net/post/latin-america/294607/colombia-military-says-80-troops-believed-dead-in-plane-crash</link>
-<pubDate>Mon, 23 Mar 2026 19:42:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
