@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 24 Mar 2026 07:51:20 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 08:42:19 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Indonesia arrests Swiss man for allegedly insulting Hindu holiday]]></title>
+<link>https://www.newagebd.net/post/asia/294601/indonesia-arrests-swiss-man-for-allegedly-insulting-hindu-holiday</link>
+<pubDate>Tue, 24 Mar 2026 08:42:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump announces ‘very good’ talks with Iran on ending war]]></title>
 <link>https://www.newagebd.net/post/middle-east/294598/trump-announces-very-good-talks-with-iran-on-ending-war</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Missile strike by Iran erodes sense of security in Israel’s nuclear town]]></title>
-<link>https://www.newagebd.net/post/middle-east/294553/missile-strike-by-iran-erodes-sense-of-security-in-israels-nuclear-town</link>
-<pubDate>Mon, 23 Mar 2026 07:57:41 -0000</pubDate>
+<title><![CDATA[At least 66 people killed in Colombian military plane crash]]></title>
+<link>https://www.newagebd.net/post/latin-america/294611/at-least-66-people-killed-in-colombian-military-plane-crash</link>
+<pubDate>Tue, 24 Mar 2026 08:42:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Iran says got messages from ‘friendly countries’ about US request for talks]]></title>
 <link>https://www.newagebd.net/post/Middle%20East/294606/iran-says-got-messages-from-friendly-countries-about-us-request-for-talks</link>
 <pubDate>Mon, 23 Mar 2026 19:27:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesia arrests Swiss man for allegedly insulting Hindu holiday]]></title>
-<link>https://www.newagebd.net/post/asia/294601/indonesia-arrests-swiss-man-for-allegedly-insulting-hindu-holiday</link>
-<pubDate>Mon, 23 Mar 2026 19:12:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
