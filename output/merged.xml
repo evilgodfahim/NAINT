@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 25 Mar 2026 22:28:31 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 23:27:58 GMT</lastBuildDate>
+<item>
+<title><![CDATA[‘Deadliest year ever’ for Red Sea migrants with 922 deaths: UN]]></title>
+<link>https://www.newagebd.net/post/africa/294753/deadliest-year-ever-for-red-sea-migrants-with-922-deaths-un</link>
+<pubDate>Wed, 25 Mar 2026 23:27:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Denmark faces lengthy negotiations to form a government]]></title>
 <link>https://www.newagebd.net/post/europe/294752/denmark-faces-lengthy-negotiations-to-form-a-government</link>
@@ -36,8 +42,8 @@
 </item>
 <item>
 <title><![CDATA[Tehran rejects US peace plan]]></title>
-<link>https://www.newagebd.net/post/middle-east/294740/tehran-rejects-us-peace-plan</link>
-<pubDate>Wed, 25 Mar 2026 16:37:11 -0000</pubDate>
+<link>https://www.newagebd.net/post/Middle%20East/294740/tehran-rejects-us-peace-plan</link>
+<pubDate>Wed, 25 Mar 2026 23:12:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US president Trump sends peace plan aiming at ending Middle East war]]></title>
-<link>https://www.newagebd.net/post/middle-east/294716/us-president-trump-sends-peace-plan-aiming-at-ending-middle-east-war</link>
-<pubDate>Wed, 25 Mar 2026 15:37:11 -0000</pubDate>
+<title><![CDATA[Fresh strike on base in western Iraq kills seven]]></title>
+<link>https://www.newagebd.net/post/middle-east/294758/fresh-strike-on-base-in-western-iraq-kills-seven</link>
+<pubDate>Wed, 25 Mar 2026 23:27:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[OSCE’s ‘chaotic’ Ukraine evacuation put staff at risk: report]]></title>
 <link>https://www.newagebd.net/post/europe/294755/osces-chaotic-ukraine-evacuation-put-staff-at-risk-report</link>
 <pubDate>Wed, 25 Mar 2026 17:22:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘Deadliest year ever’ for Red Sea migrants with 922 deaths: UN]]></title>
-<link>https://www.newagebd.net/post/africa/294753/deadliest-year-ever-for-red-sea-migrants-with-922-deaths-un</link>
-<pubDate>Wed, 25 Mar 2026 17:07:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
