@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 25 Mar 2026 01:28:13 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 04:13:12 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israel says will take ‘control’ of security zone up to Lebanon’s Litani River]]></title>
+<link>https://www.newagebd.net/post/middle-east/294646/israel-says-will-take-control-of-security-zone-up-to-lebanons-litani-river</link>
+<pubDate>Wed, 25 Mar 2026 04:13:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[66 killed after Colombia transport plane crashes]]></title>
 <link>https://www.newagebd.net/post/latin-america/294645/66-killed-after-colombia-transport-plane-crashes</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran fires new wave of missiles at Israel after denying Trump talks]]></title>
-<link>https://www.newagebd.net/post/middle-east/294618/iran-fires-new-wave-of-missiles-at-israel-after-denying-trump-talks</link>
-<pubDate>Tue, 24 Mar 2026 15:33:37 -0000</pubDate>
+<title><![CDATA[5 killed as Russian missiles hit across Ukraine]]></title>
+<link>https://www.newagebd.net/post/europe/294688/5-killed-as-russian-missiles-hit-across-ukraine</link>
+<pubDate>Wed, 25 Mar 2026 04:13:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Deadly strikes in Iraq blamed on US, Iran]]></title>
 <link>https://www.newagebd.net/post/middle-east/294647/deadly-strikes-in-iraq-blamed-on-us-iran</link>
 <pubDate>Tue, 24 Mar 2026 20:04:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel says will take ‘control’ of security zone up to Lebanon’s Litani River]]></title>
-<link>https://www.newagebd.net/post/middle-east/294646/israel-says-will-take-control-of-security-zone-up-to-lebanons-litani-river</link>
-<pubDate>Tue, 24 Mar 2026 17:03:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
