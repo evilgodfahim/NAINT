@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Mar 2026 01:27:06 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 04:12:47 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli military kills two in Jerusalem raid]]></title>
+<link>https://www.newagebd.net/post/middle-east/294932/israeli-military-kills-two-in-jerusalem-raid</link>
+<pubDate>Sat, 28 Mar 2026 04:12:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Cyclone triggers outages at major Australian LNG plants]]></title>
 <link>https://www.newagebd.net/post/oceania/294931/cyclone-triggers-outages-at-major-australian-lng-plants</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon at risk of humanitarian catastrophe: UN]]></title>
-<link>https://www.newagebd.net/post/africa/294908/lebanon-at-risk-of-humanitarian-catastrophe-un</link>
-<pubDate>Fri, 27 Mar 2026 19:45:23 -0000</pubDate>
+<title><![CDATA[China blasts ‘false’ report on chip sales to Iran]]></title>
+<link>https://www.newagebd.net/post/asia/294936/china-blasts-false-report-on-chip-sales-to-iran</link>
+<pubDate>Sat, 28 Mar 2026 04:12:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Austria school headscarf ban sparks anger]]></title>
 <link>https://www.newagebd.net/post/europe/294933/austria-school-headscarf-ban-sparks-anger</link>
 <pubDate>Fri, 27 Mar 2026 22:55:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli military kills two in Jerusalem raid]]></title>
-<link>https://www.newagebd.net/post/middle-east/294932/israeli-military-kills-two-in-jerusalem-raid</link>
-<pubDate>Fri, 27 Mar 2026 22:40:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
