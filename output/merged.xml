@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Mar 2026 22:21:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 23:24:02 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Protesters rally in London against UK far-right rise]]></title>
+<link>https://www.newagebd.net/post/europe/294973/protesters-rally-in-london-against-uk-far-right-rise</link>
+<pubDate>Sat, 28 Mar 2026 23:24:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[US may not be there for NATO if needed: Trump]]></title>
 <link>https://www.newagebd.net/post/north-america/294972/us-may-not-be-there-for-nato-if-needed-trump</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Arctic sea ice at lowest level ever]]></title>
-<link>https://www.newagebd.net/post/north-america/294935/arctic-sea-ice-at-lowest-level-ever</link>
-<pubDate>Sat, 28 Mar 2026 17:01:32 -0000</pubDate>
+<title><![CDATA[Israeli forces shoot dead Palestinian teenager]]></title>
+<link>https://www.newagebd.net/post/middle-east/295009/israeli-forces-shoot-dead-palestinian-teenager</link>
+<pubDate>Sat, 28 Mar 2026 23:24:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[PA condemns east Jerusalem evictions]]></title>
 <link>https://www.newagebd.net/post/middle-east/294974/pa-condemns-east-jerusalem-evictions</link>
 <pubDate>Sat, 28 Mar 2026 19:51:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Protesters rally in London against UK far-right rise]]></title>
-<link>https://www.newagebd.net/post/europe/294973/protesters-rally-in-london-against-uk-far-right-rise</link>
-<pubDate>Sat, 28 Mar 2026 18:31:33 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
