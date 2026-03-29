@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 29 Mar 2026 11:22:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 12:38:35 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Strikes across ME on, war enters 2nd month]]></title>
+<link>https://www.newagebd.net/post/middle-east/295008/strikes-across-me-on-war-enters-2nd-month</link>
+<pubDate>Sun, 29 Mar 2026 12:38:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Anti-Trump protests launch on ‘No Kings’ day in US]]></title>
 <link>https://www.newagebd.net/post/north-america/295007/anti-trump-protests-launch-on-no-kings-day-in-us</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Nepal’s ex-PM arrested over role in protest crackdown]]></title>
-<link>https://www.newagebd.net/post/South%20Asia/294949/nepals-ex-pm-arrested-over-role-in-protest-crackdown</link>
-<pubDate>Sat, 28 Mar 2026 17:46:32 -0000</pubDate>
+<title><![CDATA[Hundreds of Israelis protest against Middle East war, clash with police]]></title>
+<link>https://www.newagebd.net/post/middle-east/295053/hundreds-of-israelis-protest-against-middle-east-war-clash-with-police</link>
+<pubDate>Sun, 29 Mar 2026 12:38:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israeli forces shoot dead Palestinian teenager]]></title>
 <link>https://www.newagebd.net/post/middle-east/295009/israeli-forces-shoot-dead-palestinian-teenager</link>
 <pubDate>Sat, 28 Mar 2026 23:24:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Strikes across ME on, war enters 2nd month]]></title>
-<link>https://www.newagebd.net/post/middle-east/295008/strikes-across-me-on-war-enters-2nd-month</link>
-<pubDate>Sat, 28 Mar 2026 20:21:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
