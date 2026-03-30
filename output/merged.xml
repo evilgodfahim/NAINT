@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 30 Mar 2026 22:28:01 GMT</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 23:28:37 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Dozens killed as gunmen open fire on bar in Nigeria]]></title>
+<link>https://www.newagebd.net/post/africa/295191/dozens-killed-as-gunmen-open-fire-on-bar-in-nigeria</link>
+<pubDate>Mon, 30 Mar 2026 23:28:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Japan’s cherry blossom season dazzles locals, tourists]]></title>
 <link>https://www.newagebd.net/post/asia/295190/japans-cherry-blossom-season-dazzles-locals-tourists</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spain shuts airspace for US planes involved in Iran war]]></title>
-<link>https://www.newagebd.net/post/Europe/295168/spain-shuts-airspace-for-us-planes-involved-in-iran-war</link>
-<pubDate>Mon, 30 Mar 2026 21:20:30 -0000</pubDate>
+<title><![CDATA[Iran, Israel trade strikes as US mulls Gulf ground assaults]]></title>
+<link>https://www.newagebd.net/post/middle-east/295243/iran-israel-trade-strikes-as-us-mulls-gulf-ground-assaults</link>
+<pubDate>Mon, 30 Mar 2026 23:28:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Syrian leader pledges to work with Germany on migration]]></title>
 <link>https://www.newagebd.net/post/europe/295192/syrian-leader-pledges-to-work-with-germany-on-migration</link>
 <pubDate>Mon, 30 Mar 2026 17:32:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dozens killed as gunmen open fire on bar in Nigeria]]></title>
-<link>https://www.newagebd.net/post/africa/295191/dozens-killed-as-gunmen-open-fire-on-bar-in-nigeria</link>
-<pubDate>Mon, 30 Mar 2026 17:17:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
