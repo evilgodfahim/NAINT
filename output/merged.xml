@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 30 Mar 2026 06:26:09 GMT</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 08:18:17 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli strike on ambulance in Lebanon kills paramedic]]></title>
+<link>https://www.newagebd.net/post/middle-east/295126/israeli-strike-on-ambulance-in-lebanon-kills-paramedic</link>
+<pubDate>Mon, 30 Mar 2026 08:18:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iran responds to Trump’s 15-point plan via Islamabad]]></title>
 <link>https://www.newagebd.net/post/middle-east/295124/iran-responds-to-trumps-15-point-plan-via-islamabad</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Large Australian LNG plant remains out after cyclone]]></title>
-<link>https://www.newagebd.net/post/oceania/295093/large-australian-lng-plant-remains-out-after-cyclone</link>
-<pubDate>Sun, 29 Mar 2026 18:31:48 -0000</pubDate>
+<title><![CDATA[Iran deal may be reached ‘soon’, says Trump]]></title>
+<link>https://www.newagebd.net/post/middle-east/295153/iran-deal-may-be-reached-soon-says-trump</link>
+<pubDate>Mon, 30 Mar 2026 08:18:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Ukraine strike sparks fire at major Russian Baltic port]]></title>
 <link>https://www.newagebd.net/post/europe/295146/ukraine-strike-sparks-fire-at-major-russian-baltic-port</link>
 <pubDate>Sun, 29 Mar 2026 21:10:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli strike on ambulance in Lebanon kills paramedic]]></title>
-<link>https://www.newagebd.net/post/middle-east/295126/israeli-strike-on-ambulance-in-lebanon-kills-paramedic</link>
-<pubDate>Sun, 29 Mar 2026 20:55:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
