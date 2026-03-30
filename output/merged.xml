@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 30 Mar 2026 04:40:16 GMT</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 06:26:09 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran responds to Trump’s 15-point plan via Islamabad]]></title>
+<link>https://www.newagebd.net/post/middle-east/295124/iran-responds-to-trumps-15-point-plan-via-islamabad</link>
+<pubDate>Mon, 30 Mar 2026 06:26:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[North Korea tests engine for faster missile launches]]></title>
 <link>https://www.newagebd.net/post/asia/295101/north-korea-tests-engine-for-faster-missile-launches</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Missing aid sailboats reach Cuba]]></title>
-<link>https://www.newagebd.net/post/latin-america/295092/missing-aid-sailboats-reach-cuba</link>
-<pubDate>Sun, 29 Mar 2026 18:16:48 -0000</pubDate>
+<title><![CDATA[Russian tanker nears Cuba, defying US oil blockade]]></title>
+<link>https://www.newagebd.net/post/europe/295151/russian-tanker-nears-cuba-defying-us-oil-blockade</link>
+<pubDate>Mon, 30 Mar 2026 06:26:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israeli strike on ambulance in Lebanon kills paramedic]]></title>
 <link>https://www.newagebd.net/post/middle-east/295126/israeli-strike-on-ambulance-in-lebanon-kills-paramedic</link>
 <pubDate>Sun, 29 Mar 2026 20:55:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran responds to Trump’s 15-point plan via Islamabad]]></title>
-<link>https://www.newagebd.net/post/middle-east/295124/iran-responds-to-trumps-15-point-plan-via-islamabad</link>
-<pubDate>Sun, 29 Mar 2026 20:23:29 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
