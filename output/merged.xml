@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 30 Mar 2026 20:37:31 GMT</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 21:35:31 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Japan’s cherry blossom season dazzles locals, tourists]]></title>
+<link>https://www.newagebd.net/post/asia/295190/japans-cherry-blossom-season-dazzles-locals-tourists</link>
+<pubDate>Mon, 30 Mar 2026 21:35:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israeli forces shoot dead two Palestinians in West Bank]]></title>
 <link>https://www.newagebd.net/post/middle-east/295189/israeli-forces-shoot-dead-two-palestinians-in-west-bank</link>
@@ -53,15 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spain shuts airspace for US planes attacking Iran]]></title>
-<link>https://www.newagebd.net/post/europe/295168/spain-shuts-airspace-for-us-planes-attacking-iran</link>
-<pubDate>Mon, 30 Mar 2026 15:47:00 -0000</pubDate>
+<title><![CDATA[Spain shuts airspace for US planes involved in Iran war]]></title>
+<link>https://www.newagebd.net/post/Europe/295168/spain-shuts-airspace-for-us-planes-involved-in-iran-war</link>
+<pubDate>Mon, 30 Mar 2026 21:20:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia ‘glad’ oil shipment reached Cuba]]></title>
-<link>https://www.newagebd.net/post/europe/295166/russia-glad-oil-shipment-reached-cuba</link>
-<pubDate>Mon, 30 Mar 2026 15:32:00 -0000</pubDate>
+<title><![CDATA[Rain, storms kill dozens in Afghanistan, Pakistan]]></title>
+<link>https://www.newagebd.net/post/south-asia/295194/rain-storms-kill-dozens-in-afghanistan-pakistan</link>
+<pubDate>Mon, 30 Mar 2026 21:35:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Dozens killed as gunmen open fire on bar in Nigeria]]></title>
 <link>https://www.newagebd.net/post/africa/295191/dozens-killed-as-gunmen-open-fire-on-bar-in-nigeria</link>
 <pubDate>Mon, 30 Mar 2026 17:17:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Japan’s cherry blossom season dazzles locals, tourists]]></title>
-<link>https://www.newagebd.net/post/asia/295190/japans-cherry-blossom-season-dazzles-locals-tourists</link>
-<pubDate>Mon, 30 Mar 2026 17:02:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
