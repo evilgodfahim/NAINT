@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 31 Mar 2026 04:30:55 GMT</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 06:12:09 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Syrian leader pledges to work with Germany on migration]]></title>
+<link>https://www.newagebd.net/post/europe/295192/syrian-leader-pledges-to-work-with-germany-on-migration</link>
+<pubDate>Tue, 31 Mar 2026 06:12:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Dozens killed as gunmen open fire on bar in Nigeria]]></title>
 <link>https://www.newagebd.net/post/africa/295191/dozens-killed-as-gunmen-open-fire-on-bar-in-nigeria</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump threatens to obliterate Iran’s Kharg island if no deal reached soon]]></title>
-<link>https://www.newagebd.net/post/north-america/295177/trump-threatens-to-obliterate-irans-kharg-island-if-no-deal-reached-soon</link>
-<pubDate>Mon, 30 Mar 2026 16:02:00 -0000</pubDate>
+<title><![CDATA[India declares victory over Maoist insurgency]]></title>
+<link>https://www.newagebd.net/post/south-asia/295267/india-declares-victory-over-maoist-insurgency</link>
+<pubDate>Tue, 31 Mar 2026 06:12:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Mojtaba Khamenei thanks Iraq in latest written message]]></title>
 <link>https://www.newagebd.net/post/middle-east/295193/mojtaba-khamenei-thanks-iraq-in-latest-written-message</link>
 <pubDate>Mon, 30 Mar 2026 17:47:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Syrian leader pledges to work with Germany on migration]]></title>
-<link>https://www.newagebd.net/post/europe/295192/syrian-leader-pledges-to-work-with-germany-on-migration</link>
-<pubDate>Mon, 30 Mar 2026 17:32:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
