@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 31 Mar 2026 11:42:48 GMT</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 13:00:26 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Rain, storms kill dozens in Afghanistan, Pakistan]]></title>
+<link>https://www.newagebd.net/post/south-asia/295194/rain-storms-kill-dozens-in-afghanistan-pakistan</link>
+<pubDate>Tue, 31 Mar 2026 13:00:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Mojtaba Khamenei thanks Iraq in latest written message]]></title>
 <link>https://www.newagebd.net/post/middle-east/295193/mojtaba-khamenei-thanks-iraq-in-latest-written-message</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US embassy reopens in Venezuela after seven years]]></title>
-<link>https://www.newagebd.net/post/latin-america/295184/us-embassy-reopens-in-venezuela-after-seven-years</link>
-<pubDate>Mon, 30 Mar 2026 16:32:00 -0000</pubDate>
+<title><![CDATA[Iran fires missiles across Middle East as Trump threatens oil hub]]></title>
+<link>https://www.newagebd.net/post/middle-east/295271/iran-fires-missiles-across-middle-east-as-trump-threatens-oil-hub</link>
+<pubDate>Tue, 31 Mar 2026 13:00:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Iran, Israel trade strikes as US mulls Gulf ground assaults]]></title>
 <link>https://www.newagebd.net/post/middle-east/295243/iran-israel-trade-strikes-as-us-mulls-gulf-ground-assaults</link>
 <pubDate>Mon, 30 Mar 2026 23:28:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rain, storms kill dozens in Afghanistan, Pakistan]]></title>
-<link>https://www.newagebd.net/post/south-asia/295194/rain-storms-kill-dozens-in-afghanistan-pakistan</link>
-<pubDate>Mon, 30 Mar 2026 21:35:31 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
