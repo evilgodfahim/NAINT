@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 02 Apr 2026 14:19:44 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 15:54:17 GMT</lastBuildDate>
+<item>
+<title><![CDATA[29 killed as Russian military plane crashes in Crimea]]></title>
+<link>https://www.newagebd.net/post/europe/295482/29-killed-as-russian-military-plane-crashes-in-crimea</link>
+<pubDate>Thu, 02 Apr 2026 15:54:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Pakistan, Afghanistan hold talks to end conflict]]></title>
 <link>https://www.newagebd.net/post/south-asia/295481/pakistan-afghanistan-hold-talks-to-end-conflict</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US president Trump orders crackdown on mail-in voting ahead of midterm polls]]></title>
-<link>https://www.newagebd.net/post/north-america/295390/us-president-trump-orders-crackdown-on-mail-in-voting-ahead-of-midterm-polls</link>
-<pubDate>Wed, 01 Apr 2026 19:23:54 -0000</pubDate>
+<title><![CDATA[Iran declares new wave of strikes targeting Israel, United States bases in Gulf]]></title>
+<link>https://www.newagebd.net/post/middle-east/295514/iran-declares-new-wave-of-strikes-targeting-israel-united-states-bases-in-gulf</link>
+<pubDate>Thu, 02 Apr 2026 15:54:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[SC hearing landmark citizenship case with Trump in audience]]></title>
 <link>https://www.newagebd.net/post/north-america/295483/sc-hearing-landmark-citizenship-case-with-trump-in-audience</link>
 <pubDate>Thu, 02 Apr 2026 05:37:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[29 killed as Russian military plane crashes in Crimea]]></title>
-<link>https://www.newagebd.net/post/europe/295482/29-killed-as-russian-military-plane-crashes-in-crimea</link>
-<pubDate>Wed, 01 Apr 2026 21:35:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
