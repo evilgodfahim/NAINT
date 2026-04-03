@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 03 Apr 2026 12:44:45 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 13:58:12 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Nepal holds its first post-polls parliament session]]></title>
+<link>https://www.newagebd.net/post/south-asia/295628/nepal-holds-its-first-post-polls-parliament-session</link>
+<pubDate>Fri, 03 Apr 2026 13:58:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Russia fired record number of drones in March: Ukraine]]></title>
 <link>https://www.newagebd.net/post/europe/295627/russia-fired-record-number-of-drones-in-march-ukraine</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil approves law allowing shared pet custody]]></title>
-<link>https://www.newagebd.net/post/latin-america/295554/brazil-approves-law-allowing-shared-pet-custody</link>
-<pubDate>Thu, 02 Apr 2026 17:43:34 -0000</pubDate>
+<title><![CDATA[Iran media releases images claiming downed US jet]]></title>
+<link>https://www.newagebd.net/post/middle-east/295634/iran-media-releases-images-claiming-downed-us-jet</link>
+<pubDate>Fri, 03 Apr 2026 13:58:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[UN Security Council delays vote on authorising force to protect Hormuz]]></title>
 <link>https://www.newagebd.net/post/North%20America/295629/un-security-council-delays-vote-on-authorising-force-to-protect-hormuz</link>
 <pubDate>Fri, 03 Apr 2026 07:58:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nepal holds its first post-polls parliament session]]></title>
-<link>https://www.newagebd.net/post/south-asia/295628/nepal-holds-its-first-post-polls-parliament-session</link>
-<pubDate>Fri, 03 Apr 2026 07:43:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
