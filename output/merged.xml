@@ -3,7 +3,19 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Apr 2026 20:21:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 21:24:50 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Italian PM in Qatar after Saudi visit]]></title>
+<link>https://www.newagebd.net/post/middle-east/295766/italian-pm-in-qatar-after-saudi-visit</link>
+<pubDate>Sat, 04 Apr 2026 21:24:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Nicaraguans celebrate Holy Week, defying processions ban]]></title>
+<link>https://www.newagebd.net/post/north-america/295765/nicaraguans-celebrate-holy-week-defying-processions-ban</link>
+<pubDate>Sat, 04 Apr 2026 21:09:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Rain, storms kill 121 in Afghanistan, Pakistan in 2 weeks]]></title>
 <link>https://www.newagebd.net/post/south-asia/295764/rain-storms-kill-121-in-afghanistan-pakistan-in-2-weeks</link>
@@ -53,15 +65,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Five killed in Pakistan suicide bombing]]></title>
-<link>https://www.newagebd.net/post/south-asia/295719/five-killed-in-pakistan-suicide-bombing</link>
-<pubDate>Sat, 04 Apr 2026 16:46:52 -0000</pubDate>
+<title><![CDATA[Thousands rally against racism in Paris]]></title>
+<link>https://www.newagebd.net/post/europe/295811/thousands-rally-against-racism-in-paris</link>
+<pubDate>Sat, 04 Apr 2026 21:24:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia launches daytime strikes on Ukraine]]></title>
-<link>https://www.newagebd.net/post/europe/295718/russia-launches-daytime-strikes-on-ukraine</link>
-<pubDate>Sat, 04 Apr 2026 16:31:52 -0000</pubDate>
+<title><![CDATA[Trump gives Iran 48-hour ultimatum]]></title>
+<link>https://www.newagebd.net/post/middle-east/295808/trump-gives-iran-48-hour-ultimatum</link>
+<pubDate>Sat, 04 Apr 2026 21:09:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -74,18 +86,6 @@
 <title><![CDATA[Explosion hits pro-Israel centre in Netherlands]]></title>
 <link>https://www.newagebd.net/post/europe/295767/explosion-hits-pro-israel-centre-in-netherlands</link>
 <pubDate>Sat, 04 Apr 2026 18:31:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Italian PM in Qatar after Saudi visit]]></title>
-<link>https://www.newagebd.net/post/middle-east/295766/italian-pm-in-qatar-after-saudi-visit</link>
-<pubDate>Sat, 04 Apr 2026 18:16:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Nicaraguans celebrate Holy Week, defying processions ban]]></title>
-<link>https://www.newagebd.net/post/north-america/295765/nicaraguans-celebrate-holy-week-defying-processions-ban</link>
-<pubDate>Sat, 04 Apr 2026 18:01:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
