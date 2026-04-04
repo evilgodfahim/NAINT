@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Apr 2026 08:32:53 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 09:30:21 GMT</lastBuildDate>
+<item>
+<title><![CDATA[MSF condemns ‘appalling’ attack on Sudan hospital]]></title>
+<link>https://www.newagebd.net/post/africa/295692/msf-condemns-appalling-attack-on-sudan-hospital</link>
+<pubDate>Sat, 04 Apr 2026 09:30:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Pope speaks with Israeli, Ukrainian presidents, urging peace]]></title>
 <link>https://www.newagebd.net/post/middle-east/295691/pope-speaks-with-israeli-ukrainian-presidents-urging-peace</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[White House seeks $1.5t defence budget as Iran war drives costs]]></title>
-<link>https://www.newagebd.net/post/North%20America/295642/white-house-seeks-15t-defence-budget-as-iran-war-drives-costs</link>
-<pubDate>Fri, 03 Apr 2026 19:13:23 -0000</pubDate>
+<title><![CDATA[Iran hunts crew member of crashed United States jet after one reported rescued]]></title>
+<link>https://www.newagebd.net/post/middle-east/295735/iran-hunts-crew-member-of-crashed-united-states-jet-after-one-reported-rescued</link>
+<pubDate>Sat, 04 Apr 2026 09:30:21 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Nepal to issue formal apology to dalit communities]]></title>
 <link>https://www.newagebd.net/post/south-asia/295716/nepal-to-issue-formal-apology-to-dalit-communities</link>
 <pubDate>Fri, 03 Apr 2026 23:11:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[MSF condemns ‘appalling’ attack on Sudan hospital]]></title>
-<link>https://www.newagebd.net/post/africa/295692/msf-condemns-appalling-attack-on-sudan-hospital</link>
-<pubDate>Fri, 03 Apr 2026 22:56:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
