@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Apr 2026 22:21:40 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 23:24:35 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Explosion hits pro-Israel centre in Netherlands]]></title>
+<link>https://www.newagebd.net/post/europe/295767/explosion-hits-pro-israel-centre-in-netherlands</link>
+<pubDate>Sat, 04 Apr 2026 23:24:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Italian PM in Qatar after Saudi visit]]></title>
 <link>https://www.newagebd.net/post/middle-east/295766/italian-pm-in-qatar-after-saudi-visit</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran hunts crew member of crashed United States jet after one reported rescued]]></title>
-<link>https://www.newagebd.net/post/middle-east/295735/iran-hunts-crew-member-of-crashed-united-states-jet-after-one-reported-rescued</link>
-<pubDate>Sat, 04 Apr 2026 17:01:52 -0000</pubDate>
+<title><![CDATA[US arrests slain IRGC general Soleimani’s relatives]]></title>
+<link>https://www.newagebd.net/post/middle-east/295816/us-arrests-slain-irgc-general-soleimanis-relatives</link>
+<pubDate>Sat, 04 Apr 2026 23:24:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israel strikes Tyre in south Lebanon]]></title>
 <link>https://www.newagebd.net/post/middle-east/295768/israel-strikes-tyre-in-south-lebanon</link>
 <pubDate>Sat, 04 Apr 2026 20:21:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Explosion hits pro-Israel centre in Netherlands]]></title>
-<link>https://www.newagebd.net/post/europe/295767/explosion-hits-pro-israel-centre-in-netherlands</link>
-<pubDate>Sat, 04 Apr 2026 18:31:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
