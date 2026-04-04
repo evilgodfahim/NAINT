@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Apr 2026 04:10:44 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 05:52:19 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Pope speaks with Israeli, Ukrainian presidents, urging peace]]></title>
+<link>https://www.newagebd.net/post/middle-east/295691/pope-speaks-with-israeli-ukrainian-presidents-urging-peace</link>
+<pubDate>Sat, 04 Apr 2026 05:52:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Easter masses cancelled in Dubai because of war]]></title>
 <link>https://www.newagebd.net/post/middle-east/295690/easter-masses-cancelled-in-dubai-because-of-war</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan announces free public transport amid energy crisis]]></title>
-<link>https://www.newagebd.net/post/south-asia/295640/pakistan-announces-free-public-transport-amid-energy-crisis</link>
-<pubDate>Fri, 03 Apr 2026 18:58:23 -0000</pubDate>
+<title><![CDATA[Five killed in Pakistan suicide bombing]]></title>
+<link>https://www.newagebd.net/post/south-asia/295719/five-killed-in-pakistan-suicide-bombing</link>
+<pubDate>Sat, 04 Apr 2026 05:52:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[MSF condemns ‘appalling’ attack on Sudan hospital]]></title>
 <link>https://www.newagebd.net/post/africa/295692/msf-condemns-appalling-attack-on-sudan-hospital</link>
 <pubDate>Fri, 03 Apr 2026 22:56:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope speaks with Israeli, Ukrainian presidents, urging peace]]></title>
-<link>https://www.newagebd.net/post/middle-east/295691/pope-speaks-with-israeli-ukrainian-presidents-urging-peace</link>
-<pubDate>Fri, 03 Apr 2026 20:28:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
