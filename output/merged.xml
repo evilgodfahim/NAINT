@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 05 Apr 2026 06:10:41 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 07:51:34 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israel strikes Tyre in south Lebanon]]></title>
+<link>https://www.newagebd.net/post/middle-east/295768/israel-strikes-tyre-in-south-lebanon</link>
+<pubDate>Sun, 05 Apr 2026 07:51:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Explosion hits pro-Israel centre in Netherlands]]></title>
 <link>https://www.newagebd.net/post/europe/295767/explosion-hits-pro-israel-centre-in-netherlands</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[12 people, including eight members of same family, killed in Afghanistan earthquake]]></title>
-<link>https://www.newagebd.net/post/South%20Asia/295741/12-people-including-eight-members-of-same-family-killed-in-afghanistan-earthquake</link>
-<pubDate>Sat, 04 Apr 2026 17:16:52 -0000</pubDate>
+<title><![CDATA[Trump seeks $152m to revive Alcatraz prison]]></title>
+<link>https://www.newagebd.net/post/north-america/295848/trump-seeks-152m-to-revive-alcatraz-prison</link>
+<pubDate>Sun, 05 Apr 2026 07:51:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Trump gives Iran 48-hour ultimatum]]></title>
 <link>https://www.newagebd.net/post/middle-east/295808/trump-gives-iran-48-hour-ultimatum</link>
 <pubDate>Sat, 04 Apr 2026 21:09:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel strikes Tyre in south Lebanon]]></title>
-<link>https://www.newagebd.net/post/middle-east/295768/israel-strikes-tyre-in-south-lebanon</link>
-<pubDate>Sat, 04 Apr 2026 20:21:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
