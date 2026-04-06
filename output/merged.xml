@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 06 Apr 2026 10:02:35 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 11:42:24 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US president draws criticism with Easter message on Iran]]></title>
+<link>https://www.newagebd.net/post/north-america/295899/us-president-draws-criticism-with-easter-message-on-iran</link>
+<pubDate>Mon, 06 Apr 2026 11:42:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israeli strike kills four in Gaza]]></title>
 <link>https://www.newagebd.net/post/middle-east/295890/israeli-strike-kills-four-in-gaza</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Migrants missing as boat capsizes in Mediterranean sea]]></title>
-<link>https://www.newagebd.net/post/Europe/295880/migrants-missing-as-boat-capsizes-in-mediterranean-sea</link>
-<pubDate>Sun, 05 Apr 2026 17:17:53 -0000</pubDate>
+<title><![CDATA[Iran Guards intelligence chief killed in US, Israeli strikes as Trump deadline looms]]></title>
+<link>https://www.newagebd.net/post/Middle%20East/295975/iran-guards-intelligence-chief-killed-in-us-israeli-strikes-as-trump-deadline-looms</link>
+<pubDate>Mon, 06 Apr 2026 11:42:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Maldives rejects merging key elections to cut costs]]></title>
 <link>https://www.newagebd.net/post/south-asia/295965/maldives-rejects-merging-key-elections-to-cut-costs</link>
 <pubDate>Mon, 06 Apr 2026 01:52:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US president draws criticism with Easter message on Iran]]></title>
-<link>https://www.newagebd.net/post/north-america/295899/us-president-draws-criticism-with-easter-message-on-iran</link>
-<pubDate>Mon, 06 Apr 2026 01:37:41 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
