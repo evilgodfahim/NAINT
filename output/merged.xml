@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 06 Apr 2026 04:39:26 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 06:26:44 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US satellite firm announces blackout on ME war pics]]></title>
+<link>https://www.newagebd.net/post/north-america/295889/us-satellite-firm-announces-blackout-on-me-war-pics</link>
+<pubDate>Mon, 06 Apr 2026 06:26:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Pope marks first Easter under cloud of ME war]]></title>
 <link>https://www.newagebd.net/post/europe/295888/pope-marks-first-easter-under-cloud-of-me-war</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US claims airman rescued, Iran says operation foiled]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/295877/us-claims-airman-rescued-iran-says-operation-foiled</link>
-<pubDate>Sun, 05 Apr 2026 20:25:02 -0000</pubDate>
+<title><![CDATA[Zelensky meets Syrian president in Damascus]]></title>
+<link>https://www.newagebd.net/post/europe/295969/zelensky-meets-syrian-president-in-damascus</link>
+<pubDate>Mon, 06 Apr 2026 06:26:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israeli strike kills four in Gaza]]></title>
 <link>https://www.newagebd.net/post/middle-east/295890/israeli-strike-kills-four-in-gaza</link>
 <pubDate>Sun, 05 Apr 2026 18:32:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US satellite firm announces blackout on ME war pics]]></title>
-<link>https://www.newagebd.net/post/north-america/295889/us-satellite-firm-announces-blackout-on-me-war-pics</link>
-<pubDate>Sun, 05 Apr 2026 18:17:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
