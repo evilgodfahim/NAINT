@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 06 Apr 2026 08:19:39 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 10:02:35 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli strike kills four in Gaza]]></title>
+<link>https://www.newagebd.net/post/middle-east/295890/israeli-strike-kills-four-in-gaza</link>
+<pubDate>Mon, 06 Apr 2026 10:02:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[US satellite firm announces blackout on ME war pics]]></title>
 <link>https://www.newagebd.net/post/north-america/295889/us-satellite-firm-announces-blackout-on-me-war-pics</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel vows to kill Iran leaders]]></title>
-<link>https://www.newagebd.net/post/middle-east/295878/israel-vows-to-kill-iran-leaders</link>
-<pubDate>Sun, 05 Apr 2026 17:02:53 -0000</pubDate>
+<title><![CDATA[Iran threatens ‘much more devastating’ retaliation if civilian targets attacked]]></title>
+<link>https://www.newagebd.net/post/middle-east/295971/iran-threatens-much-more-devastating-retaliation-if-civilian-targets-attacked</link>
+<pubDate>Mon, 06 Apr 2026 10:02:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[US president draws criticism with Easter message on Iran]]></title>
 <link>https://www.newagebd.net/post/north-america/295899/us-president-draws-criticism-with-easter-message-on-iran</link>
 <pubDate>Mon, 06 Apr 2026 01:37:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli strike kills four in Gaza]]></title>
-<link>https://www.newagebd.net/post/middle-east/295890/israeli-strike-kills-four-in-gaza</link>
-<pubDate>Sun, 05 Apr 2026 18:32:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
