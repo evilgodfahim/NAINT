@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 07 Apr 2026 01:49:19 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Apr 2026 04:28:36 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Vietnam parliament convenes to confirm new state leaders]]></title>
+<link>https://www.newagebd.net/post/asia/296007/vietnam-parliament-convenes-to-confirm-new-state-leaders</link>
+<pubDate>Tue, 07 Apr 2026 04:28:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iran wartime executions mount as another protester hanged]]></title>
 <link>https://www.newagebd.net/post/middle-east/296006/iran-wartime-executions-mount-as-another-protester-hanged</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran threatens ‘much more devastating’ retaliation if civilian targets attacked]]></title>
-<link>https://www.newagebd.net/post/middle-east/295971/iran-threatens-much-more-devastating-retaliation-if-civilian-targets-attacked</link>
-<pubDate>Mon, 06 Apr 2026 17:02:01 -0000</pubDate>
+<title><![CDATA[Russian strikes kill 3 in Ukraine]]></title>
+<link>https://www.newagebd.net/post/europe/296068/russian-strikes-kill-3-in-ukraine</link>
+<pubDate>Tue, 07 Apr 2026 04:28:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[US politicians react to Trump’s expletive-laden threat to Iran]]></title>
 <link>https://www.newagebd.net/post/north-america/296008/us-politicians-react-to-trumps-expletive-laden-threat-to-iran</link>
 <pubDate>Mon, 06 Apr 2026 18:47:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Vietnam parliament convenes to confirm new state leaders]]></title>
-<link>https://www.newagebd.net/post/asia/296007/vietnam-parliament-convenes-to-confirm-new-state-leaders</link>
-<pubDate>Mon, 06 Apr 2026 18:32:02 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
