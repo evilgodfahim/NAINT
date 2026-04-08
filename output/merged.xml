@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 08 Apr 2026 06:17:20 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 08:08:08 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Doctors in England go on strike for 15th time in 3 years]]></title>
+<link>https://www.newagebd.net/post/europe/296186/doctors-in-england-go-on-strike-for-15th-time-in-3-years</link>
+<pubDate>Wed, 08 Apr 2026 08:08:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[180 dead or missing in Med since March 28: UN]]></title>
 <link>https://www.newagebd.net/post/europe/296185/180-dead-or-missing-in-med-since-march-28-un</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Vietnam’s To Lam consolidates power with presidential perch]]></title>
-<link>https://www.newagebd.net/post/south-asia/296117/vietnams-to-lam-consolidates-power-with-presidential-perch</link>
-<pubDate>Tue, 07 Apr 2026 20:09:08 -0000</pubDate>
+<title><![CDATA[UN secretary-general Antonio Guterres ‘welcomes’ US-Iran ceasefire]]></title>
+<link>https://www.newagebd.net/post/North%20America/296196/un-secretary-general-antonio-guterres-welcomes-us-iran-ceasefire</link>
+<pubDate>Wed, 08 Apr 2026 08:08:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[DR Congo makes deal with US to take in deported foreigners]]></title>
 <link>https://www.newagebd.net/post/africa/296187/dr-congo-makes-deal-with-us-to-take-in-deported-foreigners</link>
 <pubDate>Wed, 08 Apr 2026 01:49:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Doctors in England go on strike for 15th time in 3 years]]></title>
-<link>https://www.newagebd.net/post/europe/296186/doctors-in-england-go-on-strike-for-15th-time-in-3-years</link>
-<pubDate>Wed, 08 Apr 2026 01:34:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
