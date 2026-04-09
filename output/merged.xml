@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 08 Apr 2026 23:32:01 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 01:29:00 GMT</lastBuildDate>
+<item>
+<title><![CDATA[World welcomes US-Iran ceasefire, urges lasting peace in ME]]></title>
+<link>https://www.newagebd.net/post/Middle%20East/296262/world-welcomes-us-iran-ceasefire-urges-lasting-peace-in-me</link>
+<pubDate>Thu, 09 Apr 2026 01:28:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Israel carries out violent strikes across Lebanon]]></title>
 <link>https://www.newagebd.net/post/middle-east/296239/israel-carries-out-violent-strikes-across-lebanon</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Two injured in Iranian attack in Bahrain despite US, Iran ceasefire]]></title>
-<link>https://www.newagebd.net/post/middle-east/296207/two-injured-in-iranian-attack-in-bahrain-despite-us-iran-ceasefire</link>
-<pubDate>Wed, 08 Apr 2026 17:01:19 -0000</pubDate>
+<title><![CDATA[Kyiv calls for Ukraine ceasefire after Iran truce]]></title>
+<link>https://www.newagebd.net/post/europe/296278/kyiv-calls-for-ukraine-ceasefire-after-iran-truce</link>
+<pubDate>Thu, 09 Apr 2026 01:29:00 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[US alleges Iran’s 10-point peace plan not same set of agreed conditions]]></title>
 <link>https://www.newagebd.net/post/middle-east/296263/us-alleges-irans-10-point-peace-plan-not-same-set-of-agreed-conditions</link>
 <pubDate>Wed, 08 Apr 2026 21:05:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[World welcomes US-Iran ceasefire, urges lasting peace in ME]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/296262/world-welcomes-us-iran-ceasefire-urges-lasting-peace-in-me</link>
-<pubDate>Wed, 08 Apr 2026 20:50:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
