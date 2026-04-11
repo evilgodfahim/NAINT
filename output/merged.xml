@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 11 Apr 2026 06:54:57 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 07:45:00 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli strike in Lebanon kills 10 security personnel]]></title>
+<link>https://www.newagebd.net/post/middle-east/296479/israeli-strike-in-lebanon-kills-10-security-personnel</link>
+<pubDate>Sat, 11 Apr 2026 07:44:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Pakistan ready to host US-Iran peace talks]]></title>
 <link>https://www.newagebd.net/post/south-asia/296468/pakistan-ready-to-host-us-iran-peace-talks</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ex-Iranian FM dies from attack wounds]]></title>
-<link>https://www.newagebd.net/post/middle-east/296421/ex-iranian-fm-dies-from-attack-wounds</link>
-<pubDate>Fri, 10 Apr 2026 16:56:54 -0000</pubDate>
+<title><![CDATA[Five key issues to know about the planned Iran-US talks in Islamabad]]></title>
+<link>https://www.newagebd.net/post/south-asia/296506/five-key-issues-to-know-about-the-planned-iran-us-talks-in-islamabad</link>
+<pubDate>Sat, 11 Apr 2026 07:45:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Ukraine units downed Iran drones in ME states: Zelensky]]></title>
 <link>https://www.newagebd.net/post/europe/296493/ukraine-units-downed-iran-drones-in-me-states-zelensky</link>
 <pubDate>Fri, 10 Apr 2026 21:15:26 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli strike in Lebanon kills 10 security personnel]]></title>
-<link>https://www.newagebd.net/post/middle-east/296479/israeli-strike-in-lebanon-kills-10-security-personnel</link>
-<pubDate>Fri, 10 Apr 2026 21:00:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
