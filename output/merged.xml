@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 11 Apr 2026 20:24:28 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 21:25:52 GMT</lastBuildDate>
+<item>
+<title><![CDATA[UN demands accountability]]></title>
+<link>https://www.newagebd.net/post/europe/296547/un-demands-accountability</link>
+<pubDate>Sat, 11 Apr 2026 21:25:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Drone crashed near US diplomats at Baghdad airport]]></title>
 <link>https://www.newagebd.net/post/middle-east/296546/drone-crashed-near-us-diplomats-at-baghdad-airport</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Vance in Islamabad for ‘make-or-break’ Iran talks]]></title>
-<link>https://www.newagebd.net/post/South%20Asia/296516/vance-in-islamabad-for-make-or-break-iran-talks</link>
-<pubDate>Sat, 11 Apr 2026 16:28:43 -0000</pubDate>
+<title><![CDATA[Hezbollah slams planned Lebanese talks with Israel as strikes kill 10]]></title>
+<link>https://www.newagebd.net/post/middle-east/296584/hezbollah-slams-planned-lebanese-talks-with-israel-as-strikes-kill-10</link>
+<pubDate>Sat, 11 Apr 2026 21:25:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Venezuelan opposition demands elections]]></title>
 <link>https://www.newagebd.net/post/latin-america/296548/venezuelan-opposition-demands-elections</link>
 <pubDate>Sat, 11 Apr 2026 18:33:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[UN demands accountability]]></title>
-<link>https://www.newagebd.net/post/europe/296547/un-demands-accountability</link>
-<pubDate>Sat, 11 Apr 2026 18:18:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
