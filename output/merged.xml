@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 12 Apr 2026 14:36:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 15:30:16 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Easter truce between Russia, Ukraine begins]]></title>
+<link>https://www.newagebd.net/post/europe/296589/easter-truce-between-russia-ukraine-begins</link>
+<pubDate>Sun, 12 Apr 2026 15:30:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Hezbollah slams planned Lebanese talks with Israel as strikes kill 10]]></title>
 <link>https://www.newagebd.net/post/middle-east/296584/hezbollah-slams-planned-lebanese-talks-with-israel-as-strikes-kill-10</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Buffets, baristas, but no briefings: journalists frozen out of Iran talks]]></title>
-<link>https://www.newagebd.net/post/south-asia/296528/buffets-baristas-but-no-briefings-journalists-frozen-out-of-iran-talks</link>
-<pubDate>Sat, 11 Apr 2026 18:03:57 -0000</pubDate>
+<title><![CDATA[World calls for more talks after US-Iran negotiations end without deal]]></title>
+<link>https://www.newagebd.net/post/Europe/296627/world-calls-for-more-talks-after-us-iran-negotiations-end-without-deal</link>
+<pubDate>Sun, 12 Apr 2026 15:30:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[US-Iran talks failed to reach agreement: Vance]]></title>
 <link>https://www.newagebd.net/post/South%20Asia/296614/us-iran-talks-failed-to-reach-agreement-vance</link>
 <pubDate>Sun, 12 Apr 2026 06:20:55 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Easter truce between Russia, Ukraine begins]]></title>
-<link>https://www.newagebd.net/post/europe/296589/easter-truce-between-russia-ukraine-begins</link>
-<pubDate>Sun, 12 Apr 2026 04:43:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
