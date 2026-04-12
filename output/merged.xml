@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 12 Apr 2026 01:55:39 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 04:43:07 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Venezuelan opposition demands elections]]></title>
+<link>https://www.newagebd.net/post/latin-america/296548/venezuelan-opposition-demands-elections</link>
+<pubDate>Sun, 12 Apr 2026 04:43:05 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[UN demands accountability]]></title>
 <link>https://www.newagebd.net/post/europe/296547/un-demands-accountability</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran envoys meet with Pakistan prime minister ahead of talks with United States]]></title>
-<link>https://www.newagebd.net/post/south-asia/296517/iran-envoys-meet-with-pakistan-prime-minister-ahead-of-talks-with-united-states</link>
-<pubDate>Sat, 11 Apr 2026 17:03:57 -0000</pubDate>
+<title><![CDATA[Easter truce between Russia, Ukraine begins]]></title>
+<link>https://www.newagebd.net/post/europe/296589/easter-truce-between-russia-ukraine-begins</link>
+<pubDate>Sun, 12 Apr 2026 04:43:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[UK puts Chagos handover deal in ‘deep freeze’ after Trump criticism]]></title>
 <link>https://www.newagebd.net/post/europe/296549/uk-puts-chagos-handover-deal-in-deep-freeze-after-trump-criticism</link>
 <pubDate>Sat, 11 Apr 2026 20:09:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuelan opposition demands elections]]></title>
-<link>https://www.newagebd.net/post/latin-america/296548/venezuelan-opposition-demands-elections</link>
-<pubDate>Sat, 11 Apr 2026 18:33:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
