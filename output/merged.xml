@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 12 Apr 2026 19:34:01 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 20:27:50 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Kuwait arrests 24 over ‘financing of terror’]]></title>
+<link>https://www.newagebd.net/post/middle-east/296642/kuwait-arrests-24-over-financing-of-terror</link>
+<pubDate>Sun, 12 Apr 2026 20:27:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Iraq elects Nizar Amedi as country’s new president]]></title>
 <link>https://www.newagebd.net/post/middle-east/296640/iraq-elects-nizar-amedi-as-countrys-new-president</link>
@@ -29,9 +35,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump orders naval blockade of Strait of Hormuz]]></title>
-<link>https://www.newagebd.net/post/north-america/296630/trump-orders-naval-blockade-of-strait-of-hormuz</link>
-<pubDate>Sun, 12 Apr 2026 16:58:42 -0000</pubDate>
+<title><![CDATA[Trump orders navy to block Hormuz after talks fail]]></title>
+<link>https://www.newagebd.net/post/North%20America/296630/trump-orders-navy-to-block-hormuz-after-talks-fail</link>
+<pubDate>Sun, 12 Apr 2026 20:12:49 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Easter truce between Russia, Ukraine begins]]></title>
-<link>https://www.newagebd.net/post/europe/296589/easter-truce-between-russia-ukraine-begins</link>
-<pubDate>Sun, 12 Apr 2026 15:30:15 -0000</pubDate>
+<title><![CDATA[China to boost Taiwan exchanges as opposition leader ends visit]]></title>
+<link>https://www.newagebd.net/post/asia/296646/china-to-boost-taiwan-exchanges-as-opposition-leader-ends-visit</link>
+<pubDate>Sun, 12 Apr 2026 20:27:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Saudi Arabia executes seven people in a day]]></title>
 <link>https://www.newagebd.net/post/middle-east/296643/saudi-arabia-executes-seven-people-in-a-day</link>
 <pubDate>Sun, 12 Apr 2026 17:28:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Kuwait arrests 24 over ‘financing of terror’]]></title>
-<link>https://www.newagebd.net/post/middle-east/296642/kuwait-arrests-24-over-financing-of-terror</link>
-<pubDate>Sun, 12 Apr 2026 17:13:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
