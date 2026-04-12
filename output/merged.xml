@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 12 Apr 2026 22:26:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 23:27:31 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Saudi Arabia executes seven people in a day]]></title>
+<link>https://www.newagebd.net/post/middle-east/296643/saudi-arabia-executes-seven-people-in-a-day</link>
+<pubDate>Sun, 12 Apr 2026 23:27:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Kuwait arrests 24 over ‘financing of terror’]]></title>
 <link>https://www.newagebd.net/post/middle-east/296642/kuwait-arrests-24-over-financing-of-terror</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US-Iran talks failed to reach agreement: Vance]]></title>
-<link>https://www.newagebd.net/post/South%20Asia/296614/us-iran-talks-failed-to-reach-agreement-vance</link>
-<pubDate>Sun, 12 Apr 2026 15:58:42 -0000</pubDate>
+<title><![CDATA[Ukraine, Russia accuse each other of Easter truce violations]]></title>
+<link>https://www.newagebd.net/post/europe/296699/ukraine-russia-accuse-each-other-of-easter-truce-violations</link>
+<pubDate>Sun, 12 Apr 2026 23:27:31 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Hungarians vote in closely watched election with Orban’s rule on line]]></title>
 <link>https://www.newagebd.net/post/europe/296644/hungarians-vote-in-closely-watched-election-with-orbans-rule-on-line</link>
 <pubDate>Sun, 12 Apr 2026 18:21:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Saudi Arabia executes seven people in a day]]></title>
-<link>https://www.newagebd.net/post/middle-east/296643/saudi-arabia-executes-seven-people-in-a-day</link>
-<pubDate>Sun, 12 Apr 2026 17:28:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
