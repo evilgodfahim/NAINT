@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 13 Apr 2026 09:47:42 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Apr 2026 11:11:27 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Democrats see ‘blue wave’ building for US midterms]]></title>
+<link>https://www.newagebd.net/post/north-america/296645/democrats-see-blue-wave-building-for-us-midterms</link>
+<pubDate>Mon, 13 Apr 2026 11:11:26 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Hungarians vote in closely watched election with Orban’s rule on line]]></title>
 <link>https://www.newagebd.net/post/europe/296644/hungarians-vote-in-closely-watched-election-with-orbans-rule-on-line</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[War succeeded in ‘crushing’ Iran’s nuclear, missile programmes: Netanyahu]]></title>
-<link>https://www.newagebd.net/post/middle-east/296617/war-succeeded-in-crushing-irans-nuclear-missile-programmes-netanyahu</link>
-<pubDate>Sun, 12 Apr 2026 16:28:42 -0000</pubDate>
+<title><![CDATA[Viktor Orban loses in Hungary polls to pro-Europe Peter Magyar]]></title>
+<link>https://www.newagebd.net/post/europe/296721/viktor-orban-loses-in-hungary-polls-to-pro-europe-peter-magyar</link>
+<pubDate>Mon, 13 Apr 2026 11:11:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[China to boost Taiwan exchanges as opposition leader ends visit]]></title>
 <link>https://www.newagebd.net/post/asia/296646/china-to-boost-taiwan-exchanges-as-opposition-leader-ends-visit</link>
 <pubDate>Sun, 12 Apr 2026 20:27:50 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Democrats see ‘blue wave’ building for US midterms]]></title>
-<link>https://www.newagebd.net/post/north-america/296645/democrats-see-blue-wave-building-for-us-midterms</link>
-<pubDate>Sun, 12 Apr 2026 18:36:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
