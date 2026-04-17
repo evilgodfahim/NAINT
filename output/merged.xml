@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 17 Apr 2026 13:02:33 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Apr 2026 14:49:03 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Russian strikes kill 19 across Ukraine]]></title>
+<link>https://www.newagebd.net/post/europe/297040/russian-strikes-kill-19-across-ukraine</link>
+<pubDate>Fri, 17 Apr 2026 14:49:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Teachers protest as Turkey buries school shooting victims]]></title>
 <link>https://www.newagebd.net/post/europe/297002/teachers-protest-as-turkey-buries-school-shooting-victims</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel, Lebanon agree to 10-day truce, says Trump]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/296979/israel-lebanon-agree-to-10-day-truce-says-trump</link>
-<pubDate>Thu, 16 Apr 2026 20:10:38 -0000</pubDate>
+<title><![CDATA[Macron, Starmer rally allies over proposed Hormuz mission]]></title>
+<link>https://www.newagebd.net/post/europe/297073/macron-starmer-rally-allies-over-proposed-hormuz-mission</link>
+<pubDate>Fri, 17 Apr 2026 14:49:03 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[India plans parliament expansion for women]]></title>
 <link>https://www.newagebd.net/post/south-asia/297060/india-plans-parliament-expansion-for-women</link>
 <pubDate>Fri, 17 Apr 2026 06:53:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Russian strikes kill 19 across Ukraine]]></title>
-<link>https://www.newagebd.net/post/europe/297040/russian-strikes-kill-19-across-ukraine</link>
-<pubDate>Thu, 16 Apr 2026 20:40:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
