@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 20 Apr 2026 19:01:44 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Apr 2026 20:38:44 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Pope blasts ‘exploitation’ on visit to Angola]]></title>
+<link>https://www.newagebd.net/post/africa/297423/pope-blasts-exploitation-on-visit-to-angola</link>
+<pubDate>Mon, 20 Apr 2026 20:38:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Israel PM vows ‘harsh action’ against soldier]]></title>
 <link>https://www.newagebd.net/post/middle-east/297422/israel-pm-vows-harsh-action-against-soldier</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Lebanon restores road, bridge damaged by Israeli strikes]]></title>
-<link>https://www.newagebd.net/post/middle-east/297319/lebanon-restores-road-bridge-damaged-by-israeli-strikes</link>
-<pubDate>Mon, 20 Apr 2026 02:01:15 -0000</pubDate>
+<title><![CDATA[Lebanon president says Israel talks aim to end hostilities]]></title>
+<link>https://www.newagebd.net/post/middle-east/297427/lebanon-president-says-israel-talks-aim-to-end-hostilities</link>
+<pubDate>Mon, 20 Apr 2026 20:38:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Starmer admits should never have named Mandelson as US envoy]]></title>
 <link>https://www.newagebd.net/post/europe/297424/starmer-admits-should-never-have-named-mandelson-as-us-envoy</link>
 <pubDate>Mon, 20 Apr 2026 18:31:44 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pope blasts ‘exploitation’ on visit to Angola]]></title>
-<link>https://www.newagebd.net/post/africa/297423/pope-blasts-exploitation-on-visit-to-angola</link>
-<pubDate>Mon, 20 Apr 2026 18:16:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
