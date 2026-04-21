@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 21 Apr 2026 08:29:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Apr 2026 10:13:34 GMT</lastBuildDate>
+<item>
+<title><![CDATA[EU highlights backing for Palestinians amid ME War]]></title>
+<link>https://www.newagebd.net/post/europe/297426/eu-highlights-backing-for-palestinians-amid-me-war</link>
+<pubDate>Tue, 21 Apr 2026 10:13:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[US, Philippines begin major military exercises]]></title>
 <link>https://www.newagebd.net/post/asia/297425/us-philippines-begin-major-military-exercises</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Blue Origin launches rocket with used booster for first time]]></title>
-<link>https://www.newagebd.net/post/north-america/297379/blue-origin-launches-rocket-with-used-booster-for-first-time</link>
-<pubDate>Mon, 20 Apr 2026 09:52:27 -0000</pubDate>
+<title><![CDATA[Japan issues warning after 7.7-magnitude quake]]></title>
+<link>https://www.newagebd.net/post/asia/297484/japan-issues-warning-after-77-magnitude-quake</link>
+<pubDate>Tue, 21 Apr 2026 10:13:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Lebanon president says Israel talks aim to end hostilities]]></title>
 <link>https://www.newagebd.net/post/middle-east/297427/lebanon-president-says-israel-talks-aim-to-end-hostilities</link>
 <pubDate>Mon, 20 Apr 2026 20:38:44 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[EU highlights backing for Palestinians amid ME War]]></title>
-<link>https://www.newagebd.net/post/europe/297426/eu-highlights-backing-for-palestinians-amid-me-war</link>
-<pubDate>Mon, 20 Apr 2026 19:01:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
