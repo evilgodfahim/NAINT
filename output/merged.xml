@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 22 Apr 2026 15:06:05 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Apr 2026 16:52:09 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump extends Iran ceasefire for talks, blockade continues]]></title>
+<link>https://www.newagebd.net/post/north-america/297582/trump-extends-iran-ceasefire-for-talks-blockade-continues</link>
+<pubDate>Wed, 22 Apr 2026 16:52:08 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Russian strikes wound 25 in Ukraine overnight]]></title>
 <link>https://www.newagebd.net/post/europe/297581/russian-strikes-wound-25-in-ukraine-overnight</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope calls for ‘law and justice’ on Equatorial Guinea visit]]></title>
-<link>https://www.newagebd.net/post/africa/297538/pope-calls-for-law-and-justice-on-equatorial-guinea-visit</link>
-<pubDate>Tue, 21 Apr 2026 18:47:02 -0000</pubDate>
+<title><![CDATA[Israeli foreign minister urges Lebanon to ‘work together’ with them against Hezbollah]]></title>
+<link>https://www.newagebd.net/post/middle-east/297593/israeli-foreign-minister-urges-lebanon-to-work-together-with-them-against-hezbollah</link>
+<pubDate>Wed, 22 Apr 2026 16:52:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Iran urges United Nations condemnation after United States seizes cargo ship]]></title>
 <link>https://www.newagebd.net/post/north-america/297583/iran-urges-united-nations-condemnation-after-united-states-seizes-cargo-ship</link>
 <pubDate>Wed, 22 Apr 2026 06:53:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump extends Iran ceasefire for talks, blockade continues]]></title>
-<link>https://www.newagebd.net/post/north-america/297582/trump-extends-iran-ceasefire-for-talks-blockade-continues</link>
-<pubDate>Wed, 22 Apr 2026 06:38:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
