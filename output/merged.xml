@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 24 Apr 2026 13:06:10 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Apr 2026 15:02:10 GMT</lastBuildDate>
+<item>
+<title><![CDATA[West Bengal, Tamil Nadu cast votes]]></title>
+<link>https://www.newagebd.net/post/south-asia/297776/west-bengal-tamil-nadu-cast-votes</link>
+<pubDate>Fri, 24 Apr 2026 15:02:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Rohingya boat exodus surges by 90pc: Save the Children]]></title>
 <link>https://www.newagebd.net/post/south-asia/297775/rohingya-boat-exodus-surges-by-90pc-save-the-children</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[18 injured in head-on train crash in Denmark]]></title>
-<link>https://www.newagebd.net/post/europe/297733/18-injured-in-head-on-train-crash-in-denmark</link>
-<pubDate>Thu, 23 Apr 2026 18:28:33 -0000</pubDate>
+<title><![CDATA[NATO ‘must remain united’, says Italy PM]]></title>
+<link>https://www.newagebd.net/post/Europe/297784/nato-must-remain-united-says-italy-pm</link>
+<pubDate>Fri, 24 Apr 2026 15:02:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[EU signs off on Ukraine loan, new Russia sanctions]]></title>
 <link>https://www.newagebd.net/post/europe/297777/eu-signs-off-on-ukraine-loan-new-russia-sanctions</link>
 <pubDate>Fri, 24 Apr 2026 07:51:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[West Bengal, Tamil Nadu cast votes]]></title>
-<link>https://www.newagebd.net/post/south-asia/297776/west-bengal-tamil-nadu-cast-votes</link>
-<pubDate>Thu, 23 Apr 2026 20:06:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
