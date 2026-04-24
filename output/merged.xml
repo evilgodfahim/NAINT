@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 24 Apr 2026 15:02:10 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Apr 2026 16:47:52 GMT</lastBuildDate>
+<item>
+<title><![CDATA[EU signs off on Ukraine loan, new Russia sanctions]]></title>
+<link>https://www.newagebd.net/post/europe/297777/eu-signs-off-on-ukraine-loan-new-russia-sanctions</link>
+<pubDate>Fri, 24 Apr 2026 16:47:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[West Bengal, Tamil Nadu cast votes]]></title>
 <link>https://www.newagebd.net/post/south-asia/297776/west-bengal-tamil-nadu-cast-votes</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Harry calls on Putin to halt invasion in Ukraine]]></title>
-<link>https://www.newagebd.net/post/europe/297734/harry-calls-on-putin-to-halt-invasion-in-ukraine</link>
-<pubDate>Thu, 23 Apr 2026 18:43:33 -0000</pubDate>
+<title><![CDATA[Iran FM expected to arrive in Pakistan Friday night]]></title>
+<link>https://www.newagebd.net/post/south-asia/297785/iran-fm-expected-to-arrive-in-pakistan-friday-night</link>
+<pubDate>Fri, 24 Apr 2026 16:47:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israel, Lebanon extend ceasefire]]></title>
 <link>https://www.newagebd.net/post/middle-east/297779/israel-lebanon-extend-ceasefire</link>
 <pubDate>Fri, 24 Apr 2026 12:51:10 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[EU signs off on Ukraine loan, new Russia sanctions]]></title>
-<link>https://www.newagebd.net/post/europe/297777/eu-signs-off-on-ukraine-loan-new-russia-sanctions</link>
-<pubDate>Fri, 24 Apr 2026 07:51:19 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
