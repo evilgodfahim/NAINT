@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Apr 2026 08:01:43 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 09:43:55 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Pak military kills 22 in northwest clashes]]></title>
+<link>https://www.newagebd.net/post/south-asia/297861/pak-military-kills-22-in-northwest-clashes</link>
+<pubDate>Sat, 25 Apr 2026 09:43:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Pakistan bids to revive US-Iran talks]]></title>
 <link>https://www.newagebd.net/post/middle-east/297835/pakistan-bids-to-revive-us-iran-talks</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[EU, US ink minerals plan to counter China reliance]]></title>
-<link>https://www.newagebd.net/post/north-america/297791/eu-us-ink-minerals-plan-to-counter-china-reliance</link>
-<pubDate>Fri, 24 Apr 2026 19:00:54 -0000</pubDate>
+<title><![CDATA[Three killed in clashes in India’s Manipur state]]></title>
+<link>https://www.newagebd.net/post/south-asia/297889/three-killed-in-clashes-in-indias-manipur-state</link>
+<pubDate>Sat, 25 Apr 2026 09:43:55 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[India criticises Trump post against immigrants]]></title>
 <link>https://www.newagebd.net/post/south-asia/297864/india-criticises-trump-post-against-immigrants</link>
 <pubDate>Fri, 24 Apr 2026 21:41:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pak military kills 22 in northwest clashes]]></title>
-<link>https://www.newagebd.net/post/south-asia/297861/pak-military-kills-22-in-northwest-clashes</link>
-<pubDate>Fri, 24 Apr 2026 21:26:11 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
