@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Apr 2026 02:03:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 05:32:17 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Four killed in Israeli strikes in Lebanon]]></title>
+<link>https://www.newagebd.net/post/middle-east/297944/four-killed-in-israeli-strikes-in-lebanon</link>
+<pubDate>Sun, 26 Apr 2026 05:32:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Syria to begin trying Assad-era figures today]]></title>
 <link>https://www.newagebd.net/post/middle-east/297941/syria-to-begin-trying-assad-era-figures-today</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[47 Maoist rebels surrender: Indian police]]></title>
-<link>https://www.newagebd.net/post/South%20Asia/297919/47-maoist-rebels-surrender-indian-police</link>
-<pubDate>Sat, 25 Apr 2026 20:14:57 -0000</pubDate>
+<title><![CDATA[Russian strikes kill 6 across Ukraine]]></title>
+<link>https://www.newagebd.net/post/europe/297979/russian-strikes-kill-6-across-ukraine</link>
+<pubDate>Sun, 26 Apr 2026 05:32:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[US agents killed in Mexico not authorised]]></title>
 <link>https://www.newagebd.net/post/north-america/297976/us-agents-killed-in-mexico-not-authorised</link>
 <pubDate>Sat, 25 Apr 2026 23:00:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Four killed in Israeli strikes in Lebanon]]></title>
-<link>https://www.newagebd.net/post/middle-east/297944/four-killed-in-israeli-strikes-in-lebanon</link>
-<pubDate>Sat, 25 Apr 2026 22:45:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
