@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Apr 2026 14:00:46 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 15:36:13 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Russian strikes kill 6 across Ukraine]]></title>
+<link>https://www.newagebd.net/post/europe/297979/russian-strikes-kill-6-across-ukraine</link>
+<pubDate>Sun, 26 Apr 2026 15:36:12 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Germany blames Russia for Signal phishing attacks on MPs]]></title>
 <link>https://www.newagebd.net/post/europe/297978/germany-blames-russia-for-signal-phishing-attacks-on-mps</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mali junta battles ‘terrorist groups’ amid intense fighting]]></title>
-<link>https://www.newagebd.net/post/africa/297924/mali-junta-battles-terrorist-groups-amid-intense-fighting</link>
-<pubDate>Sat, 25 Apr 2026 21:14:57 -0000</pubDate>
+<title><![CDATA[Indian photographer Raghu Rai who documented Bangladesh’s liberation war dies]]></title>
+<link>https://www.newagebd.net/post/south-asia/297994/indian-photographer-raghu-rai-who-documented-bangladeshs-liberation-war-dies</link>
+<pubDate>Sun, 26 Apr 2026 15:36:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Trump evacuated as shooter opens fire at Washington gala event]]></title>
 <link>https://www.newagebd.net/post/North%20America/297987/trump-evacuated-as-shooter-opens-fire-at-washington-gala-event</link>
 <pubDate>Sun, 26 Apr 2026 07:04:02 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Russian strikes kill 6 across Ukraine]]></title>
-<link>https://www.newagebd.net/post/europe/297979/russian-strikes-kill-6-across-ukraine</link>
-<pubDate>Sun, 26 Apr 2026 05:32:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
