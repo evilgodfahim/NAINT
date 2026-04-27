@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Apr 2026 23:32:33 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Apr 2026 02:05:51 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli attacks kill three in Gaza]]></title>
+<link>https://www.newagebd.net/post/middle-east/298016/israeli-attacks-kill-three-in-gaza</link>
+<pubDate>Mon, 27 Apr 2026 02:05:50 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Chernobyl, 40 years since disaster: five things to know]]></title>
 <link>https://www.newagebd.net/post/europe/298015/chernobyl-40-years-since-disaster-five-things-to-know</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump says shooting at White House won’t ‘deter’ him from Iran war]]></title>
-<link>https://www.newagebd.net/post/north-america/297988/trump-says-shooting-at-white-house-wont-deter-him-from-iran-war</link>
-<pubDate>Sun, 26 Apr 2026 16:40:59 -0000</pubDate>
+<title><![CDATA[Zelensky accuses Russia of ‘nuclear terrorism’]]></title>
+<link>https://www.newagebd.net/post/europe/298067/zelensky-accuses-russia-of-nuclear-terrorism</link>
+<pubDate>Mon, 27 Apr 2026 02:05:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[UN chief condemns Mali attacks, calls for ‘coordinated international’ response]]></title>
 <link>https://www.newagebd.net/post/north-america/298017/un-chief-condemns-mali-attacks-calls-for-coordinated-international-response</link>
 <pubDate>Sun, 26 Apr 2026 18:26:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli attacks kill three in Gaza]]></title>
-<link>https://www.newagebd.net/post/middle-east/298016/israeli-attacks-kill-three-in-gaza</link>
-<pubDate>Sun, 26 Apr 2026 18:11:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
