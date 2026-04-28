@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Apr 2026 02:12:20 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Apr 2026 05:52:03 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran blames US for talks failure]]></title>
+<link>https://www.newagebd.net/post/middle-east/298172/iran-blames-us-for-talks-failure</link>
+<pubDate>Tue, 28 Apr 2026 05:52:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Pakistani fire kills four along Afghan border]]></title>
 <link>https://www.newagebd.net/post/south-asia/298124/pakistani-fire-kills-four-along-afghan-border</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Gunman sought to kill Trump, cabinet at gala dinner]]></title>
-<link>https://www.newagebd.net/post/north-america/298087/gunman-sought-to-kill-trump-cabinet-at-gala-dinner</link>
-<pubDate>Mon, 27 Apr 2026 16:15:02 -0000</pubDate>
+<title><![CDATA[UAE slams Gulf allies as ‘weak’ on Iran]]></title>
+<link>https://www.newagebd.net/post/middle-east/298187/uae-slams-gulf-allies-as-weak-on-iran</link>
+<pubDate>Tue, 28 Apr 2026 05:52:03 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Lebanon govt, Hezbollah divided over talks with Israel]]></title>
 <link>https://www.newagebd.net/post/middle-east/298173/lebanon-govt-hezbollah-divided-over-talks-with-israel</link>
 <pubDate>Mon, 27 Apr 2026 20:24:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Iran blames US for talks failure]]></title>
-<link>https://www.newagebd.net/post/middle-east/298172/iran-blames-us-for-talks-failure</link>
-<pubDate>Mon, 27 Apr 2026 20:09:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
