@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Apr 2026 05:47:41 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Apr 2026 08:04:21 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israel using water access as weapon in Gaza: MSF]]></title>
+<link>https://www.newagebd.net/post/middle-east/298242/israel-using-water-access-as-weapon-in-gaza-msf</link>
+<pubDate>Wed, 29 Apr 2026 08:04:20 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Strikes kill or wound dozens of Afghans near Pakistan]]></title>
 <link>https://www.newagebd.net/post/south-asia/298241/strikes-kill-or-wound-dozens-of-afghans-near-pakistan</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Plane crash in South Sudan kills 14]]></title>
-<link>https://www.newagebd.net/post/africa/298186/plane-crash-in-south-sudan-kills-14</link>
-<pubDate>Tue, 28 Apr 2026 17:26:22 -0000</pubDate>
+<title><![CDATA[Second phase of West Bengal election today]]></title>
+<link>https://www.newagebd.net/post/south-asia/298282/second-phase-of-west-bengal-election-today</link>
+<pubDate>Wed, 29 Apr 2026 08:04:21 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Peace efforts stall, US examines Iran proposal]]></title>
 <link>https://www.newagebd.net/post/middle-east/298254/peace-efforts-stall-us-examines-iran-proposal</link>
 <pubDate>Tue, 28 Apr 2026 20:31:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israel using water access as weapon in Gaza: MSF]]></title>
-<link>https://www.newagebd.net/post/middle-east/298242/israel-using-water-access-as-weapon-in-gaza-msf</link>
-<pubDate>Tue, 28 Apr 2026 19:23:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
