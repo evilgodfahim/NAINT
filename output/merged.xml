@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Apr 2026 19:13:36 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Apr 2026 20:55:44 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Two people stabbed in north London, one arrest]]></title>
+<link>https://www.newagebd.net/post/europe/298310/two-people-stabbed-in-north-london-one-arrest</link>
+<pubDate>Wed, 29 Apr 2026 20:55:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Indian man takes sister’s exhumed body to bank for withdrawal]]></title>
 <link>https://www.newagebd.net/post/south-asia/298309/indian-man-takes-sisters-exhumed-body-to-bank-for-withdrawal</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel using water access as weapon in Gaza: MSF]]></title>
-<link>https://www.newagebd.net/post/middle-east/298242/israel-using-water-access-as-weapon-in-gaza-msf</link>
-<pubDate>Wed, 29 Apr 2026 08:04:20 -0000</pubDate>
+<title><![CDATA[Israeli forces kill Palestinian in West Bank raid]]></title>
+<link>https://www.newagebd.net/post/middle-east/298314/israeli-forces-kill-palestinian-in-west-bank-raid</link>
+<pubDate>Wed, 29 Apr 2026 20:55:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Sexual violence in Sudan triggers mental health crisis: UN]]></title>
 <link>https://www.newagebd.net/post/africa/298311/sexual-violence-in-sudan-triggers-mental-health-crisis-un</link>
 <pubDate>Wed, 29 Apr 2026 18:43:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Two people stabbed in north London, one arrest]]></title>
-<link>https://www.newagebd.net/post/europe/298310/two-people-stabbed-in-north-london-one-arrest</link>
-<pubDate>Wed, 29 Apr 2026 18:28:36 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
