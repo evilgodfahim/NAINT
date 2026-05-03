@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 03 May 2026 20:34:42 GMT</lastBuildDate>
+<lastBuildDate>Sun, 03 May 2026 21:35:00 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Nigeria warns South Africa over xenophobic attacks]]></title>
+<link>https://www.newagebd.net/post/africa/298634/nigeria-warns-south-africa-over-xenophobic-attacks</link>
+<pubDate>Sun, 03 May 2026 21:34:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Jordan strikes drug, weapons sites in Syria: state TV]]></title>
 <link>https://www.newagebd.net/post/middle-east/298633/jordan-strikes-drug-weapons-sites-in-syria-state-tv</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[IRGC warns US faces ‘impossible’ military operation or ‘bad deal’]]></title>
-<link>https://www.newagebd.net/post/middle-east/298611/irgc-warns-us-faces-impossible-military-operation-or-bad-deal</link>
-<pubDate>Sun, 03 May 2026 15:40:27 -0000</pubDate>
+<title><![CDATA[Sign deal by one month, says Iran]]></title>
+<link>https://www.newagebd.net/post/middle-east/298670/sign-deal-by-one-month-says-iran</link>
+<pubDate>Sun, 03 May 2026 21:35:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[N Korea rejects US cybercrime charges]]></title>
 <link>https://www.newagebd.net/post/asia/298635/n-korea-rejects-us-cybercrime-charges</link>
 <pubDate>Sun, 03 May 2026 17:25:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Nigeria warns South Africa over xenophobic attacks]]></title>
-<link>https://www.newagebd.net/post/africa/298634/nigeria-warns-south-africa-over-xenophobic-attacks</link>
-<pubDate>Sun, 03 May 2026 17:10:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
