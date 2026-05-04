@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 04 May 2026 08:26:34 GMT</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 10:58:50 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Kyiv hits Russian oil sites]]></title>
+<link>https://www.newagebd.net/post/europe/298682/kyiv-hits-russian-oil-sites</link>
+<pubDate>Mon, 04 May 2026 10:58:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Israel extends 2 Gaza flotilla activists’ detention]]></title>
 <link>https://www.newagebd.net/post/middle-east/298681/israel-extends-2-gaza-flotilla-activists-detention</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Nigerian, Beninese militias kill scores of herders]]></title>
-<link>https://www.newagebd.net/post/africa/298632/nigerian-beninese-militias-kill-scores-of-herders</link>
-<pubDate>Sun, 03 May 2026 17:40:27 -0000</pubDate>
+<title><![CDATA[BJP hopes to win West Bengal polls while vote count underway]]></title>
+<link>https://www.newagebd.net/post/south-asia/298714/bjp-hopes-to-win-west-bengal-polls-while-vote-count-underway</link>
+<pubDate>Mon, 04 May 2026 10:58:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Iran to consider any US attempt to interfere in Hormuz as ceasefire breach]]></title>
 <link>https://www.newagebd.net/post/middle-east/298709/iran-to-consider-any-us-attempt-to-interfere-in-hormuz-as-ceasefire-breach</link>
 <pubDate>Mon, 04 May 2026 05:41:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Kyiv hits Russian oil sites]]></title>
-<link>https://www.newagebd.net/post/europe/298682/kyiv-hits-russian-oil-sites</link>
-<pubDate>Mon, 04 May 2026 05:26:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
