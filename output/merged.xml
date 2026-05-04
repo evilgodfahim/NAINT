@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 04 May 2026 05:56:58 GMT</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 08:26:34 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israel extends 2 Gaza flotilla activists’ detention]]></title>
+<link>https://www.newagebd.net/post/middle-east/298681/israel-extends-2-gaza-flotilla-activists-detention</link>
+<pubDate>Mon, 04 May 2026 08:26:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Two women suffocate on migrant boat to UK]]></title>
 <link>https://www.newagebd.net/post/europe/298680/two-women-suffocate-on-migrant-boat-to-uk</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[4,000 EgyptAir hajj flights cancelled in Mali]]></title>
-<link>https://www.newagebd.net/post/africa/298631/4000-egyptair-hajj-flights-cancelled-in-mali</link>
-<pubDate>Sun, 03 May 2026 17:25:27 -0000</pubDate>
+<title><![CDATA[US president Donald Trump calls Iran talks ‘very positive’]]></title>
+<link>https://www.newagebd.net/post/north-america/298711/us-president-donald-trump-calls-iran-talks-very-positive</link>
+<pubDate>Mon, 04 May 2026 08:26:34 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Kyiv hits Russian oil sites]]></title>
 <link>https://www.newagebd.net/post/europe/298682/kyiv-hits-russian-oil-sites</link>
 <pubDate>Mon, 04 May 2026 05:26:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israel extends 2 Gaza flotilla activists’ detention]]></title>
-<link>https://www.newagebd.net/post/middle-east/298681/israel-extends-2-gaza-flotilla-activists-detention</link>
-<pubDate>Sun, 03 May 2026 23:36:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
