@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 05 May 2026 05:35:44 GMT</lastBuildDate>
+<lastBuildDate>Tue, 05 May 2026 07:58:30 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Russian strikes on Ukraine kill nine]]></title>
+<link>https://www.newagebd.net/post/europe/298803/russian-strikes-on-ukraine-kill-nine</link>
+<pubDate>Tue, 05 May 2026 07:58:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Four migrants found dead near Croatia-Slovenia border]]></title>
 <link>https://www.newagebd.net/post/europe/298801/four-migrants-found-dead-near-croatia-slovenia-border</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel bans Jewish pilgrimage near Lebanon border]]></title>
-<link>https://www.newagebd.net/post/middle-east/298755/israel-bans-jewish-pilgrimage-near-lebanon-border</link>
-<pubDate>Mon, 04 May 2026 17:09:24 -0000</pubDate>
+<title><![CDATA[United States-Iran truce on brink as UAE reports attacks]]></title>
+<link>https://www.newagebd.net/post/middle-east/298813/united-states-iran-truce-on-brink-as-uae-reports-attacks</link>
+<pubDate>Tue, 05 May 2026 07:58:30 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Hantavirus risk from cruise ship low: WHO]]></title>
 <link>https://www.newagebd.net/post/europe/298806/hantavirus-risk-from-cruise-ship-low-who</link>
 <pubDate>Mon, 04 May 2026 22:50:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Russian strikes on Ukraine kill nine]]></title>
-<link>https://www.newagebd.net/post/europe/298803/russian-strikes-on-ukraine-kill-nine</link>
-<pubDate>Mon, 04 May 2026 21:00:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
