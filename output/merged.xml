@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 07 May 2026 05:54:37 GMT</lastBuildDate>
+<lastBuildDate>Thu, 07 May 2026 08:22:33 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli strikes on Lebanon kill 4 despite ceasefire]]></title>
+<link>https://www.newagebd.net/post/Middle%20East/298970/israeli-strikes-on-lebanon-kill-4-despite-ceasefire</link>
+<pubDate>Thu, 07 May 2026 08:22:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[EU urged to ‘act now’ on West Bank settlement project]]></title>
 <link>https://www.newagebd.net/post/middle-east/298969/eu-urged-to-act-now-on-west-bank-settlement-project</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Nepal PM justifies banning party-linked unions, student groups]]></title>
-<link>https://www.newagebd.net/post/south-asia/298911/nepal-pm-justifies-banning-party-linked-unions-student-groups</link>
-<pubDate>Wed, 06 May 2026 12:56:39 -0000</pubDate>
+<title><![CDATA[Zelensky says Russia choosing war as dual ceasefires falter]]></title>
+<link>https://www.newagebd.net/post/europe/298990/zelensky-says-russia-choosing-war-as-dual-ceasefires-falter</link>
+<pubDate>Thu, 07 May 2026 08:22:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[US threatens new strikes, Iran reviews proposal to end war]]></title>
 <link>https://www.newagebd.net/post/north-america/298971/us-threatens-new-strikes-iran-reviews-proposal-to-end-war</link>
 <pubDate>Wed, 06 May 2026 19:11:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli strikes on Lebanon kill 4 despite ceasefire]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/298970/israeli-strikes-on-lebanon-kill-4-despite-ceasefire</link>
-<pubDate>Wed, 06 May 2026 18:56:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
