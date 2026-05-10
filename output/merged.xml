@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 10 May 2026 05:57:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 08:06:52 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Colombia reporter found dead in restive zone]]></title>
+<link>https://www.newagebd.net/post/latin-america/299267/colombia-reporter-found-dead-in-restive-zone</link>
+<pubDate>Sun, 10 May 2026 08:06:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Sri Lankan Buddhist monk arrested for sex abuse]]></title>
 <link>https://www.newagebd.net/post/south-asia/299265/sri-lankan-buddhist-monk-arrested-for-sex-abuse</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Syria president, Lebanon PM hold security talks]]></title>
-<link>https://www.newagebd.net/post/middle-east/299252/syria-president-lebanon-pm-hold-security-talks</link>
-<pubDate>Sat, 09 May 2026 18:22:27 -0000</pubDate>
+<title><![CDATA[Fearing return to war, Iran conservationists shore up damaged heritage sites]]></title>
+<link>https://www.newagebd.net/post/middle-east/299320/fearing-return-to-war-iran-conservationists-shore-up-damaged-heritage-sites</link>
+<pubDate>Sun, 10 May 2026 08:06:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Iran keeps US waiting for response on deal]]></title>
 <link>https://www.newagebd.net/post/middle-east/299286/iran-keeps-us-waiting-for-response-on-deal</link>
 <pubDate>Sat, 09 May 2026 23:24:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Colombia reporter found dead in restive zone]]></title>
-<link>https://www.newagebd.net/post/latin-america/299267/colombia-reporter-found-dead-in-restive-zone</link>
-<pubDate>Sat, 09 May 2026 19:52:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
