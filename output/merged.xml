@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 11 May 2026 10:30:52 GMT</lastBuildDate>
+<lastBuildDate>Mon, 11 May 2026 13:40:31 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Ukraine reports multiple casualties on 2nd day of Russia truce]]></title>
+<link>https://www.newagebd.net/post/europe/299413/ukraine-reports-multiple-casualties-on-2nd-day-of-russia-truce</link>
+<pubDate>Mon, 11 May 2026 13:40:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Militia kill 69 in DR Congo]]></title>
 <link>https://www.newagebd.net/post/africa/299357/militia-kill-69-in-dr-congo</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran responds to US proposal, Iranian drones hit Gulf]]></title>
-<link>https://www.newagebd.net/post/Middle%20East/299335/iran-responds-to-us-proposal-iranian-drones-hit-gulf</link>
-<pubDate>Sun, 10 May 2026 17:51:05 -0000</pubDate>
+<title><![CDATA[Iranian Nobel winner Narges Mohammadi released on bail for treatment]]></title>
+<link>https://www.newagebd.net/post/middle-east/299437/iranian-nobel-winner-narges-mohammadi-released-on-bail-for-treatment</link>
+<pubDate>Mon, 11 May 2026 13:40:30 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Trump terms Iran’s peace proposal as ‘totally unacceptable’]]></title>
 <link>https://www.newagebd.net/post/North%20America/299427/trump-terms-irans-peace-proposal-as-totally-unacceptable</link>
 <pubDate>Mon, 11 May 2026 06:31:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine reports multiple casualties on 2nd day of Russia truce]]></title>
-<link>https://www.newagebd.net/post/europe/299413/ukraine-reports-multiple-casualties-on-2nd-day-of-russia-truce</link>
-<pubDate>Mon, 11 May 2026 06:16:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
