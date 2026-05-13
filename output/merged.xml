@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 13 May 2026 11:57:28 GMT</lastBuildDate>
+<lastBuildDate>Wed, 13 May 2026 14:31:26 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Pakistan suicide bombing kills nine]]></title>
+<link>https://www.newagebd.net/post/south-asia/299611/pakistan-suicide-bombing-kills-nine</link>
+<pubDate>Wed, 13 May 2026 14:31:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Israeli strikes killed 380 since truce: Lebanon]]></title>
 <link>https://www.newagebd.net/post/middle-east/299608/israeli-strikes-killed-380-since-truce-lebanon</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pressure grows on United Kingdom’s Starmer to quit as prime minister]]></title>
-<link>https://www.newagebd.net/post/europe/299533/pressure-grows-on-united-kingdoms-starmer-to-quit-as-prime-minister</link>
-<pubDate>Tue, 12 May 2026 18:54:47 -0000</pubDate>
+<title><![CDATA[Australia says will join France, United Kingdom mission in Hormuz]]></title>
+<link>https://www.newagebd.net/post/oceania/299626/australia-says-will-join-france-united-kingdom-mission-in-hormuz</link>
+<pubDate>Wed, 13 May 2026 14:31:26 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Vijay meets AIADMK leaders backing TVK]]></title>
 <link>https://www.newagebd.net/post/south-asia/299612/vijay-meets-aiadmk-leaders-backing-tvk</link>
 <pubDate>Wed, 13 May 2026 05:50:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan suicide bombing kills nine]]></title>
-<link>https://www.newagebd.net/post/south-asia/299611/pakistan-suicide-bombing-kills-nine</link>
-<pubDate>Tue, 12 May 2026 22:53:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
