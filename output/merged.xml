@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 17 May 2026 10:24:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 11:56:03 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Putin to visit China May 19-20 after Trump]]></title>
+<link>https://www.newagebd.net/post/asia/299980/putin-to-visit-china-may-19-20-after-trump</link>
+<pubDate>Sun, 17 May 2026 11:56:01 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Pak minister in Tehran for peace talks]]></title>
 <link>https://www.newagebd.net/post/middle-east/299972/pak-minister-in-tehran-for-peace-talks</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel says Hamas armed wing chief killed in Gaza attack]]></title>
-<link>https://www.newagebd.net/post/middle-east/299935/israel-says-hamas-armed-wing-chief-killed-in-gaza-attack</link>
-<pubDate>Sat, 16 May 2026 17:50:02 -0000</pubDate>
+<title><![CDATA[Eight people wounded as driver in Italian city runs over pedestrians]]></title>
+<link>https://www.newagebd.net/post/europe/300023/eight-people-wounded-as-driver-in-italian-city-runs-over-pedestrians</link>
+<pubDate>Sun, 17 May 2026 11:56:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Hamas armed wing chief killed in Gaza strike]]></title>
 <link>https://www.newagebd.net/post/middle-east/300008/hamas-armed-wing-chief-killed-in-gaza-strike</link>
 <pubDate>Sat, 16 May 2026 23:43:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Putin to visit China May 19-20 after Trump]]></title>
-<link>https://www.newagebd.net/post/asia/299980/putin-to-visit-china-may-19-20-after-trump</link>
-<pubDate>Sat, 16 May 2026 23:28:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
