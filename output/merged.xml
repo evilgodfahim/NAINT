@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 17 May 2026 02:29:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 06:15:42 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Thousands protest at UK far-right rally, counter-demo]]></title>
+<link>https://www.newagebd.net/post/europe/299956/thousands-protest-at-uk-far-right-rally-counter-demo</link>
+<pubDate>Sun, 17 May 2026 06:15:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[France arrests 6 over Palestinian flag on Eiffel Tower]]></title>
 <link>https://www.newagebd.net/post/europe/299955/france-arrests-6-over-palestinian-flag-on-eiffel-tower</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Taiwan claims independence after Trump warning]]></title>
-<link>https://www.newagebd.net/post/asia/299916/taiwan-claims-independence-after-trump-warning</link>
-<pubDate>Sat, 16 May 2026 18:43:27 -0000</pubDate>
+<title><![CDATA[French judge to investigate Khashoggi murder]]></title>
+<link>https://www.newagebd.net/post/europe/300009/french-judge-to-investigate-khashoggi-murder</link>
+<pubDate>Sun, 17 May 2026 06:15:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Pak minister in Tehran for peace talks]]></title>
 <link>https://www.newagebd.net/post/middle-east/299972/pak-minister-in-tehran-for-peace-talks</link>
 <pubDate>Sat, 16 May 2026 19:58:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands protest at UK far-right rally, counter-demo]]></title>
-<link>https://www.newagebd.net/post/europe/299956/thousands-protest-at-uk-far-right-rally-counter-demo</link>
-<pubDate>Sat, 16 May 2026 19:43:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
