@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 18 May 2026 21:04:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 18 May 2026 22:53:00 GMT</lastBuildDate>
+<item>
+<title><![CDATA[UN demands Israel prevent ‘genocide’ in Gaza]]></title>
+<link>https://www.newagebd.net/post/europe/300165/un-demands-israel-prevent-genocide-in-gaza</link>
+<pubDate>Mon, 18 May 2026 22:52:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Iraq says no drones detected heading toward Saudi Arabia]]></title>
 <link>https://www.newagebd.net/post/middle-east/300164/iraq-says-no-drones-detected-heading-toward-saudi-arabia</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel strikes Lebanon as Hezbollah calls talks ‘dead end’]]></title>
-<link>https://www.newagebd.net/post/middle-east/300092/israel-strikes-lebanon-as-hezbollah-calls-talks-dead-end</link>
-<pubDate>Mon, 18 May 2026 14:57:44 -0000</pubDate>
+<title><![CDATA[Gunmen in Pakistan kill two police officers]]></title>
+<link>https://www.newagebd.net/post/south-asia/300219/gunmen-in-pakistan-kill-two-police-officers</link>
+<pubDate>Mon, 18 May 2026 22:53:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[US accepts waiver of Iran oil sanctions]]></title>
 <link>https://www.newagebd.net/post/middle-east/300180/us-accepts-waiver-of-iran-oil-sanctions</link>
 <pubDate>Mon, 18 May 2026 20:34:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[UN demands Israel prevent ‘genocide’ in Gaza]]></title>
-<link>https://www.newagebd.net/post/europe/300165/un-demands-israel-prevent-genocide-in-gaza</link>
-<pubDate>Mon, 18 May 2026 20:19:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
