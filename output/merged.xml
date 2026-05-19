@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 19 May 2026 18:55:39 GMT</lastBuildDate>
+<lastBuildDate>Tue, 19 May 2026 20:26:13 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Kenya fuel strike ends after mass shutdown]]></title>
+<link>https://www.newagebd.net/post/africa/300255/kenya-fuel-strike-ends-after-mass-shutdown</link>
+<pubDate>Tue, 19 May 2026 20:26:12 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Malaysia seeks $251m from Norwegian firm for scrapped deal]]></title>
 <link>https://www.newagebd.net/post/south-asia/300254/malaysia-seeks-251m-from-norwegian-firm-for-scrapped-deal</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Gunmen in Pakistan kill two police officers]]></title>
-<link>https://www.newagebd.net/post/south-asia/300219/gunmen-in-pakistan-kill-two-police-officers</link>
-<pubDate>Tue, 19 May 2026 16:40:37 -0000</pubDate>
+<title><![CDATA[Cuba warns of ‘bloodbath’ if US attacks after sanctions]]></title>
+<link>https://www.newagebd.net/post/latin-america/300259/cuba-warns-of-bloodbath-if-us-attacks-after-sanctions</link>
+<pubDate>Tue, 19 May 2026 20:26:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Indonesia critics face lies, violence: Amnesty]]></title>
 <link>https://www.newagebd.net/post/asia/300256/indonesia-critics-face-lies-violence-amnesty</link>
 <pubDate>Tue, 19 May 2026 18:25:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Kenya fuel strike ends after mass shutdown]]></title>
-<link>https://www.newagebd.net/post/africa/300255/kenya-fuel-strike-ends-after-mass-shutdown</link>
-<pubDate>Tue, 19 May 2026 18:10:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
