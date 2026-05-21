@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 21 May 2026 10:34:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 21 May 2026 13:58:20 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Russian strike kills two in Ukraine’s Dnipro]]></title>
+<link>https://www.newagebd.net/post/europe/300421/russian-strike-kills-two-in-ukraines-dnipro</link>
+<pubDate>Thu, 21 May 2026 13:58:18 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Hormuz blockade could trigger global food crisis: UN]]></title>
 <link>https://www.newagebd.net/post/europe/300399/hormuz-blockade-could-trigger-global-food-crisis-un</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[IRGC navy allows 26 ships to transit Hormuz since Tuesday]]></title>
-<link>https://www.newagebd.net/post/middle-east/300354/irgc-navy-allows-26-ships-to-transit-hormuz-since-tuesday</link>
-<pubDate>Wed, 20 May 2026 18:16:04 -0000</pubDate>
+<title><![CDATA[Iran weighs United States offer as Trump says peace talks on ‘borderline’]]></title>
+<link>https://www.newagebd.net/post/middle-east/300431/iran-weighs-united-states-offer-as-trump-says-peace-talks-on-borderline</link>
+<pubDate>Thu, 21 May 2026 13:58:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[China training Russian troops for Ukraine combat]]></title>
 <link>https://www.newagebd.net/post/asia/300423/china-training-russian-troops-for-ukraine-combat</link>
 <pubDate>Wed, 20 May 2026 23:06:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Russian strike kills two in Ukraine’s Dnipro]]></title>
-<link>https://www.newagebd.net/post/europe/300421/russian-strike-kills-two-in-ukraines-dnipro</link>
-<pubDate>Wed, 20 May 2026 21:45:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
