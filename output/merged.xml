@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 22 May 2026 02:43:10 GMT</lastBuildDate>
+<lastBuildDate>Fri, 22 May 2026 06:42:48 GMT</lastBuildDate>
+<item>
+<title><![CDATA[42 aircraft lost in Iran war: report]]></title>
+<link>https://www.newagebd.net/post/north-america/300470/42-aircraft-lost-in-iran-war-report</link>
+<pubDate>Fri, 22 May 2026 06:42:47 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Anti-migrant marches intensify in S Africa]]></title>
 <link>https://www.newagebd.net/post/africa/300469/anti-migrant-marches-intensify-in-s-africa</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Russian strike kills two in Ukraine’s Dnipro]]></title>
-<link>https://www.newagebd.net/post/europe/300421/russian-strike-kills-two-in-ukraines-dnipro</link>
-<pubDate>Thu, 21 May 2026 13:58:18 -0000</pubDate>
+<title><![CDATA[Israeli strike damages hospital in south Lebanon]]></title>
+<link>https://www.newagebd.net/post/middle-east/300519/israeli-strike-damages-hospital-in-south-lebanon</link>
+<pubDate>Fri, 22 May 2026 06:42:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israel deports all activists from Gaza flotilla]]></title>
 <link>https://www.newagebd.net/post/middle-east/300471/israel-deports-all-activists-from-gaza-flotilla</link>
 <pubDate>Thu, 21 May 2026 20:17:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[42 aircraft lost in Iran war: report]]></title>
-<link>https://www.newagebd.net/post/north-america/300470/42-aircraft-lost-in-iran-war-report</link>
-<pubDate>Thu, 21 May 2026 18:55:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
