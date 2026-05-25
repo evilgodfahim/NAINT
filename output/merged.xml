@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 25 May 2026 07:06:51 GMT</lastBuildDate>
+<lastBuildDate>Mon, 25 May 2026 11:46:23 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Train blast claims 24 in Balochistan]]></title>
+<link>https://www.newagebd.net/post/south-asia/300791/train-blast-claims-24-in-balochistan</link>
+<pubDate>Mon, 25 May 2026 11:46:22 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[US not to rush into deal with Iran: Trump]]></title>
 <link>https://www.newagebd.net/post/middle-east/300767/us-not-to-rush-into-deal-with-iran-trump</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[United States, Iran seek to finalise deal to end war]]></title>
-<link>https://www.newagebd.net/post/north-america/300719/united-states-iran-seek-to-finalise-deal-to-end-war</link>
-<pubDate>Sun, 24 May 2026 18:21:04 -0000</pubDate>
+<title><![CDATA[United States hopeful about Iran deal as Trump tempers expectations]]></title>
+<link>https://www.newagebd.net/post/south-asia/300814/united-states-hopeful-about-iran-deal-as-trump-tempers-expectations</link>
+<pubDate>Mon, 25 May 2026 11:46:23 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[West Bengal reduces Eid holiday]]></title>
 <link>https://www.newagebd.net/post/south-asia/300792/west-bengal-reduces-eid-holiday</link>
 <pubDate>Sun, 24 May 2026 20:29:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Train blast claims 24 in Balochistan]]></title>
-<link>https://www.newagebd.net/post/south-asia/300791/train-blast-claims-24-in-balochistan</link>
-<pubDate>Sun, 24 May 2026 20:14:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
