@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 25 May 2026 02:45:14 GMT</lastBuildDate>
+<lastBuildDate>Mon, 25 May 2026 07:06:51 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US not to rush into deal with Iran: Trump]]></title>
+<link>https://www.newagebd.net/post/middle-east/300767/us-not-to-rush-into-deal-with-iran-trump</link>
+<pubDate>Mon, 25 May 2026 07:06:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Israeli strikes hit south, east Lebanon]]></title>
 <link>https://www.newagebd.net/post/middle-east/300751/israeli-strikes-hit-south-east-lebanon</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Gunman shot to death by secret service after opening fire near White House]]></title>
-<link>https://www.newagebd.net/post/north-america/300716/gunman-shot-to-death-by-secret-service-after-opening-fire-near-white-house</link>
-<pubDate>Sun, 24 May 2026 18:06:04 -0000</pubDate>
+<title><![CDATA[Russia kills 4 in massive Ukraine attack]]></title>
+<link>https://www.newagebd.net/post/europe/300795/russia-kills-4-in-massive-ukraine-attack</link>
+<pubDate>Mon, 25 May 2026 07:06:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Train blast claims 24 in Balochistan]]></title>
 <link>https://www.newagebd.net/post/south-asia/300791/train-blast-claims-24-in-balochistan</link>
 <pubDate>Sun, 24 May 2026 20:14:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US not to rush into deal with Iran: Trump]]></title>
-<link>https://www.newagebd.net/post/middle-east/300767/us-not-to-rush-into-deal-with-iran-trump</link>
-<pubDate>Sun, 24 May 2026 19:59:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
