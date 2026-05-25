@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 25 May 2026 11:46:23 GMT</lastBuildDate>
+<lastBuildDate>Mon, 25 May 2026 14:39:58 GMT</lastBuildDate>
+<item>
+<title><![CDATA[West Bengal reduces Eid holiday]]></title>
+<link>https://www.newagebd.net/post/south-asia/300792/west-bengal-reduces-eid-holiday</link>
+<pubDate>Mon, 25 May 2026 14:39:57 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Train blast claims 24 in Balochistan]]></title>
 <link>https://www.newagebd.net/post/south-asia/300791/train-blast-claims-24-in-balochistan</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran hangs man for spying during war with US, Israel]]></title>
-<link>https://www.newagebd.net/post/middle-east/300743/iran-hangs-man-for-spying-during-war-with-us-israel</link>
-<pubDate>Sun, 24 May 2026 18:36:04 -0000</pubDate>
+<title><![CDATA[India hikes fuel prices for 4th time in 10 days due to Middle East war]]></title>
+<link>https://www.newagebd.net/post/south-asia/300819/india-hikes-fuel-prices-for-4th-time-in-10-days-due-to-middle-east-war</link>
+<pubDate>Mon, 25 May 2026 14:39:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[16 die of heatstroke in India]]></title>
 <link>https://www.newagebd.net/post/south-asia/300793/16-die-of-heatstroke-in-india</link>
 <pubDate>Sun, 24 May 2026 20:44:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[West Bengal reduces Eid holiday]]></title>
-<link>https://www.newagebd.net/post/south-asia/300792/west-bengal-reduces-eid-holiday</link>
-<pubDate>Sun, 24 May 2026 20:29:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
