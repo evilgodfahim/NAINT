@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 26 May 2026 21:50:14 GMT</lastBuildDate>
+<lastBuildDate>Tue, 26 May 2026 23:03:05 GMT</lastBuildDate>
+<item>
+<title><![CDATA[North Korea launches several projectiles into Yellow Sea: Seoul]]></title>
+<link>https://www.newagebd.net/post/asia/300933/north-korea-launches-several-projectiles-into-yellow-sea-seoul</link>
+<pubDate>Tue, 26 May 2026 23:03:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Muslim pilgrims pray on Arafat as hajj reaches peak]]></title>
 <link>https://www.newagebd.net/post/middle-east/300932/muslim-pilgrims-pray-on-arafat-as-hajj-reaches-peak</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Philippine building collapse toll hits four, dozen missing]]></title>
-<link>https://www.newagebd.net/post/asia/300844/philippine-building-collapse-toll-hits-four-dozen-missing</link>
-<pubDate>Mon, 25 May 2026 19:18:08 -0000</pubDate>
+<title><![CDATA[Israel expands south Lebanon ground operations]]></title>
+<link>https://www.newagebd.net/post/middle-east/300953/israel-expands-south-lebanon-ground-operations</link>
+<pubDate>Tue, 26 May 2026 23:03:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Region will not serve as shields for United States bases: Mojtaba Khamenei]]></title>
 <link>https://www.newagebd.net/post/middle-east/300935/region-will-not-serve-as-shields-for-united-states-bases-mojtaba-khamenei</link>
 <pubDate>Tue, 26 May 2026 14:36:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[North Korea launches several projectiles into Yellow Sea: Seoul]]></title>
-<link>https://www.newagebd.net/post/asia/300933/north-korea-launches-several-projectiles-into-yellow-sea-seoul</link>
-<pubDate>Tue, 26 May 2026 14:21:00 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
