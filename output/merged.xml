@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 27 May 2026 20:04:22 GMT</lastBuildDate>
+<lastBuildDate>Wed, 27 May 2026 22:26:48 GMT</lastBuildDate>
+<item>
+<title><![CDATA[North Korea tests new multi-purpose missile launch system]]></title>
+<link>https://www.newagebd.net/post/asia/300959/north-korea-tests-new-multi-purpose-missile-launch-system</link>
+<pubDate>Wed, 27 May 2026 22:26:46 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Israel targets new Hamas armed wing chief in Gaza strike]]></title>
 <link>https://www.newagebd.net/post/middle-east/300958/israel-targets-new-hamas-armed-wing-chief-in-gaza-strike</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Russia threatens more strikes on Kyiv, urges foreigners to leave city]]></title>
-<link>https://www.newagebd.net/post/europe/300923/russia-threatens-more-strikes-on-kyiv-urges-foreigners-to-leave-city</link>
-<pubDate>Tue, 26 May 2026 14:20:59 -0000</pubDate>
+<title><![CDATA[US commits to ending naval blockade in draft deal: Iran state TV]]></title>
+<link>https://www.newagebd.net/post/middle-east/300979/us-commits-to-ending-naval-blockade-in-draft-deal-iran-state-tv</link>
+<pubDate>Wed, 27 May 2026 22:26:47 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[India says 10 sailors released by Iranian authorities]]></title>
 <link>https://www.newagebd.net/post/middle-east/300961/india-says-10-sailors-released-by-iranian-authorities</link>
 <pubDate>Wed, 27 May 2026 10:55:09 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[North Korea tests new multi-purpose missile launch system]]></title>
-<link>https://www.newagebd.net/post/asia/300959/north-korea-tests-new-multi-purpose-missile-launch-system</link>
-<pubDate>Wed, 27 May 2026 06:57:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
