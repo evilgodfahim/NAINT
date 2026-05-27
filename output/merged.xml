@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 27 May 2026 14:22:43 GMT</lastBuildDate>
+<lastBuildDate>Wed, 27 May 2026 17:53:37 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israel targets new Hamas armed wing chief in Gaza strike]]></title>
+<link>https://www.newagebd.net/post/middle-east/300958/israel-targets-new-hamas-armed-wing-chief-in-gaza-strike</link>
+<pubDate>Wed, 27 May 2026 17:53:36 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Israel expands south Lebanon ground operations]]></title>
 <link>https://www.newagebd.net/post/middle-east/300953/israel-expands-south-lebanon-ground-operations</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukrainian strikes kill six in Russia- occupied Ukraine]]></title>
-<link>https://www.newagebd.net/post/europe/300902/ukrainian-strikes-kill-six-in-russia-occupied-ukraine</link>
-<pubDate>Tue, 26 May 2026 14:05:59 -0000</pubDate>
+<title><![CDATA[Iran rules out negotiations on enriched uranium]]></title>
+<link>https://www.newagebd.net/post/middle-east/300973/iran-rules-out-negotiations-on-enriched-uranium</link>
+<pubDate>Wed, 27 May 2026 17:53:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[North Korea tests new multi-purpose missile launch system]]></title>
 <link>https://www.newagebd.net/post/asia/300959/north-korea-tests-new-multi-purpose-missile-launch-system</link>
 <pubDate>Wed, 27 May 2026 06:57:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israel targets new Hamas armed wing chief in Gaza strike]]></title>
-<link>https://www.newagebd.net/post/middle-east/300958/israel-targets-new-hamas-armed-wing-chief-in-gaza-strike</link>
-<pubDate>Wed, 27 May 2026 06:42:51 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
