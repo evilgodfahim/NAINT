@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 27 May 2026 06:57:51 GMT</lastBuildDate>
+<lastBuildDate>Wed, 27 May 2026 10:55:09 GMT</lastBuildDate>
+<item>
+<title><![CDATA[United States strikes fuel concern over Iran deal talks]]></title>
+<link>https://www.newagebd.net/post/middle-east/300946/united-states-strikes-fuel-concern-over-iran-deal-talks</link>
+<pubDate>Wed, 27 May 2026 10:55:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Four, including two children, killed after train hits school bus in Belgium]]></title>
 <link>https://www.newagebd.net/post/europe/300942/four-including-two-children-killed-after-train-hits-school-bus-in-belgium</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[WHO urges DRC neighbours to act immediately on Ebola]]></title>
-<link>https://www.newagebd.net/post/africa/300900/who-urges-drc-neighbours-to-act-immediately-on-ebola</link>
-<pubDate>Tue, 26 May 2026 07:38:34 -0000</pubDate>
+<title><![CDATA[India says 10 sailors released by Iranian authorities]]></title>
+<link>https://www.newagebd.net/post/middle-east/300961/india-says-10-sailors-released-by-iranian-authorities</link>
+<pubDate>Wed, 27 May 2026 10:55:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israel expands south Lebanon ground operations]]></title>
 <link>https://www.newagebd.net/post/middle-east/300953/israel-expands-south-lebanon-ground-operations</link>
 <pubDate>Tue, 26 May 2026 23:03:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[United States strikes fuel concern over Iran deal talks]]></title>
-<link>https://www.newagebd.net/post/middle-east/300946/united-states-strikes-fuel-concern-over-iran-deal-talks</link>
-<pubDate>Tue, 26 May 2026 17:52:45 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
