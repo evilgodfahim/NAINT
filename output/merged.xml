@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 27 May 2026 10:55:09 GMT</lastBuildDate>
+<lastBuildDate>Wed, 27 May 2026 14:22:43 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israel expands south Lebanon ground operations]]></title>
+<link>https://www.newagebd.net/post/middle-east/300953/israel-expands-south-lebanon-ground-operations</link>
+<pubDate>Wed, 27 May 2026 14:22:42 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[United States strikes fuel concern over Iran deal talks]]></title>
 <link>https://www.newagebd.net/post/middle-east/300946/united-states-strikes-fuel-concern-over-iran-deal-talks</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Global tensions threaten peacekeeping missions: SIPRI]]></title>
-<link>https://www.newagebd.net/post/europe/300901/global-tensions-threaten-peacekeeping-missions-sipri</link>
-<pubDate>Tue, 26 May 2026 13:50:59 -0000</pubDate>
+<title><![CDATA[Muslims stone devil in final hajj ritual]]></title>
+<link>https://www.newagebd.net/post/middle-east/300967/muslims-stone-devil-in-final-hajj-ritual</link>
+<pubDate>Wed, 27 May 2026 14:22:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israel targets new Hamas armed wing chief in Gaza strike]]></title>
 <link>https://www.newagebd.net/post/middle-east/300958/israel-targets-new-hamas-armed-wing-chief-in-gaza-strike</link>
 <pubDate>Wed, 27 May 2026 06:42:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israel expands south Lebanon ground operations]]></title>
-<link>https://www.newagebd.net/post/middle-east/300953/israel-expands-south-lebanon-ground-operations</link>
-<pubDate>Tue, 26 May 2026 23:03:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
