@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 28 May 2026 17:58:27 GMT</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 20:25:10 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US, Iran trade strikes in most serious clash since truce began]]></title>
+<link>https://www.newagebd.net/post/middle-east/301001/us-iran-trade-strikes-in-most-serious-clash-since-truce-began</link>
+<pubDate>Thu, 28 May 2026 20:25:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[China vows to support Cuba]]></title>
 <link>https://www.newagebd.net/post/asia/300992/china-vows-to-support-cuba</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel expands south Lebanon ground operations]]></title>
-<link>https://www.newagebd.net/post/middle-east/300953/israel-expands-south-lebanon-ground-operations</link>
-<pubDate>Wed, 27 May 2026 14:22:42 -0000</pubDate>
+<title><![CDATA[Israel breaks all contact with UN secretary-general]]></title>
+<link>https://www.newagebd.net/post/middle-east/301007/israel-breaks-all-contact-with-un-secretary-general</link>
+<pubDate>Thu, 28 May 2026 20:25:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Kenya girls’ school hostel fire kills 16]]></title>
 <link>https://www.newagebd.net/post/africa/301003/kenya-girls-school-hostel-fire-kills-16</link>
 <pubDate>Thu, 28 May 2026 17:28:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US, Iran trade strikes in most serious clash since truce began]]></title>
-<link>https://www.newagebd.net/post/middle-east/301001/us-iran-trade-strikes-in-most-serious-clash-since-truce-began</link>
-<pubDate>Thu, 28 May 2026 14:31:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
