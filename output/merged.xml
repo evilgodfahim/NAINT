@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 29 May 2026 00:05:01 GMT</lastBuildDate>
+<lastBuildDate>Fri, 29 May 2026 05:08:12 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Kenya girls’ school hostel fire kills 16]]></title>
+<link>https://www.newagebd.net/post/africa/301003/kenya-girls-school-hostel-fire-kills-16</link>
+<pubDate>Fri, 29 May 2026 05:08:11 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[US, Iran trade strikes in most serious clash since truce began]]></title>
 <link>https://www.newagebd.net/post/middle-east/301001/us-iran-trade-strikes-in-most-serious-clash-since-truce-began</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel targets new Hamas armed wing chief in Gaza strike]]></title>
-<link>https://www.newagebd.net/post/middle-east/300958/israel-targets-new-hamas-armed-wing-chief-in-gaza-strike</link>
-<pubDate>Wed, 27 May 2026 17:53:36 -0000</pubDate>
+<title><![CDATA[US, Iran agree deal framework, await Trump approval: US source]]></title>
+<link>https://www.newagebd.net/post/middle-east/301013/us-iran-agree-deal-framework-await-trump-approval-us-source</link>
+<pubDate>Fri, 29 May 2026 05:08:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[US to halt Iran airlines’ access to landing spots]]></title>
 <link>https://www.newagebd.net/post/middle-east/301005/us-to-halt-iran-airlines-access-to-landing-spots</link>
 <pubDate>Thu, 28 May 2026 17:43:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Kenya girls’ school hostel fire kills 16]]></title>
-<link>https://www.newagebd.net/post/africa/301003/kenya-girls-school-hostel-fire-kills-16</link>
-<pubDate>Thu, 28 May 2026 17:28:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
