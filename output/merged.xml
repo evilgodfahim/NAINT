@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 29 May 2026 05:08:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 29 May 2026 09:40:18 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US to halt Iran airlines’ access to landing spots]]></title>
+<link>https://www.newagebd.net/post/middle-east/301005/us-to-halt-iran-airlines-access-to-landing-spots</link>
+<pubDate>Fri, 29 May 2026 09:40:15 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Kenya girls’ school hostel fire kills 16]]></title>
 <link>https://www.newagebd.net/post/africa/301003/kenya-girls-school-hostel-fire-kills-16</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[North Korea tests new multi-purpose missile launch system]]></title>
-<link>https://www.newagebd.net/post/asia/300959/north-korea-tests-new-multi-purpose-missile-launch-system</link>
-<pubDate>Wed, 27 May 2026 22:26:46 -0000</pubDate>
+<title><![CDATA[Myanmar farmers face fertiliser, fuel dearth]]></title>
+<link>https://www.newagebd.net/post/south-asia/301027/myanmar-farmers-face-fertiliser-fuel-dearth</link>
+<pubDate>Fri, 29 May 2026 09:40:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[India orders demolition drive along Pakistan border]]></title>
 <link>https://www.newagebd.net/post/south-asia/301006/india-orders-demolition-drive-along-pakistan-border</link>
 <pubDate>Thu, 28 May 2026 17:58:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US to halt Iran airlines’ access to landing spots]]></title>
-<link>https://www.newagebd.net/post/middle-east/301005/us-to-halt-iran-airlines-access-to-landing-spots</link>
-<pubDate>Thu, 28 May 2026 17:43:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
