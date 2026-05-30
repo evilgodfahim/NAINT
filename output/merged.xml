@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 30 May 2026 09:10:47 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 11:14:28 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump ends Iran deal meeting: White House official]]></title>
+<link>https://www.newagebd.net/post/middle-east/301074/trump-ends-iran-deal-meeting-white-house-official</link>
+<pubDate>Sat, 30 May 2026 11:14:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Trump makes ‘final determination’ on Iran deal]]></title>
 <link>https://www.newagebd.net/post/world/301058/trump-makes-final-determination-on-iran-deal</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Myanmar farmers face fertiliser, fuel dearth]]></title>
-<link>https://www.newagebd.net/post/south-asia/301027/myanmar-farmers-face-fertiliser-fuel-dearth</link>
-<pubDate>Fri, 29 May 2026 16:07:39 -0000</pubDate>
+<title><![CDATA[18 people killed, dozens injured in Afghanistan road accident]]></title>
+<link>https://www.newagebd.net/post/south-asia/301085/18-people-killed-dozens-injured-in-afghanistan-road-accident</link>
+<pubDate>Sat, 30 May 2026 11:14:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Physician tells Trump to lose weight]]></title>
 <link>https://www.newagebd.net/post/north-america/301075/physician-tells-trump-to-lose-weight</link>
 <pubDate>Sat, 30 May 2026 06:17:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump ends Iran deal meeting: White House official]]></title>
-<link>https://www.newagebd.net/post/middle-east/301074/trump-ends-iran-deal-meeting-white-house-official</link>
-<pubDate>Sat, 30 May 2026 06:02:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
