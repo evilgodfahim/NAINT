@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 02 Jun 2026 00:13:35 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 05:25:18 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Kenyans protest against femicide scourge]]></title>
+<link>https://www.newagebd.net/post/africa/301266/kenyans-protest-against-femicide-scourge</link>
+<pubDate>Tue, 02 Jun 2026 05:25:17 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Rescuers seek new route to two missing in Laos cave]]></title>
 <link>https://www.newagebd.net/post/asia/301265/rescuers-seek-new-route-to-two-missing-in-laos-cave</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US, Iran exchange fire despite ceasefire]]></title>
-<link>https://www.newagebd.net/post/middle-east/301231/us-iran-exchange-fire-despite-ceasefire</link>
-<pubDate>Mon, 01 Jun 2026 18:51:17 -0000</pubDate>
+<title><![CDATA[Curfew imposed in New Jersey following ICE protest violence]]></title>
+<link>https://www.newagebd.net/post/north-america/301328/curfew-imposed-in-new-jersey-following-ice-protest-violence</link>
+<pubDate>Tue, 02 Jun 2026 05:25:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israel attorney general warns of country’s democratic backsliding]]></title>
 <link>https://www.newagebd.net/post/middle-east/301267/israel-attorney-general-warns-of-countrys-democratic-backsliding</link>
 <pubDate>Mon, 01 Jun 2026 20:36:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Kenyans protest against femicide scourge]]></title>
-<link>https://www.newagebd.net/post/africa/301266/kenyans-protest-against-femicide-scourge</link>
-<pubDate>Mon, 01 Jun 2026 20:21:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
