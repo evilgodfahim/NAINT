@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 02 Jun 2026 05:25:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 10:09:27 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israel attorney general warns of country’s democratic backsliding]]></title>
+<link>https://www.newagebd.net/post/middle-east/301267/israel-attorney-general-warns-of-countrys-democratic-backsliding</link>
+<pubDate>Tue, 02 Jun 2026 10:09:26 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Kenyans protest against femicide scourge]]></title>
 <link>https://www.newagebd.net/post/africa/301266/kenyans-protest-against-femicide-scourge</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Myanmar president holds trade, security talks with Modi]]></title>
-<link>https://www.newagebd.net/post/asia/301244/myanmar-president-holds-trade-security-talks-with-modi</link>
-<pubDate>Mon, 01 Jun 2026 19:06:17 -0000</pubDate>
+<title><![CDATA[Several people killed in Russian attacks in parts of Ukraine]]></title>
+<link>https://www.newagebd.net/post/europe/301330/several-people-killed-in-russian-attacks-in-parts-of-ukraine</link>
+<pubDate>Tue, 02 Jun 2026 10:09:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[China accuses Japan defence minister of ‘baseless’ claims]]></title>
 <link>https://www.newagebd.net/post/asia/301268/china-accuses-japan-defence-minister-of-baseless-claims</link>
 <pubDate>Mon, 01 Jun 2026 20:51:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israel attorney general warns of country’s democratic backsliding]]></title>
-<link>https://www.newagebd.net/post/middle-east/301267/israel-attorney-general-warns-of-countrys-democratic-backsliding</link>
-<pubDate>Mon, 01 Jun 2026 20:36:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
