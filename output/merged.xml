@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 04 Jun 2026 07:20:53 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 10:56:44 GMT</lastBuildDate>
+<item>
+<title><![CDATA[War drone kills three Myanmar migrants in Thailand]]></title>
+<link>https://www.newagebd.net/post/asia/301522/war-drone-kills-three-myanmar-migrants-in-thailand</link>
+<pubDate>Thu, 04 Jun 2026 10:56:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Ukrainian drones hit Saint Petersburg as ‘Russian Davos’ opens]]></title>
 <link>https://www.newagebd.net/post/europe/301521/ukrainian-drones-hit-saint-petersburg-as-russian-davos-opens</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Sri Lanka slaps travel ban on ex-president over Easter bombings]]></title>
-<link>https://www.newagebd.net/post/south-asia/301491/sri-lanka-slaps-travel-ban-on-ex-president-over-easter-bombings</link>
-<pubDate>Wed, 03 Jun 2026 18:03:45 -0000</pubDate>
+<title><![CDATA[At least eight people killed in Israeli attacks in Gaza]]></title>
+<link>https://www.newagebd.net/post/middle-east/301536/at-least-eight-people-killed-in-israeli-attacks-in-gaza</link>
+<pubDate>Thu, 04 Jun 2026 10:56:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[‘No tangible progress’ in talks with US to end war: Iran FM]]></title>
 <link>https://www.newagebd.net/post/middle-east/301524/no-tangible-progress-in-talks-with-us-to-end-war-iran-fm</link>
 <pubDate>Thu, 04 Jun 2026 06:50:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[War drone kills three Myanmar migrants in Thailand]]></title>
-<link>https://www.newagebd.net/post/asia/301522/war-drone-kills-three-myanmar-migrants-in-thailand</link>
-<pubDate>Wed, 03 Jun 2026 21:43:52 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
