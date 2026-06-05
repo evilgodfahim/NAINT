@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 05 Jun 2026 14:31:18 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 17:09:06 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Chinese leader Xi to visit North Korea June 8-9]]></title>
+<link>https://www.newagebd.net/post/asia/301652/chinese-leader-xi-to-visit-north-korea-june-8-9</link>
+<pubDate>Fri, 05 Jun 2026 17:09:05 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Zelensky for full ceasefire, face-to-face meeting with Putin]]></title>
 <link>https://www.newagebd.net/post/europe/301642/zelensky-for-full-ceasefire-face-to-face-meeting-with-putin</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump slams US House vote to end Iran war]]></title>
-<link>https://www.newagebd.net/post/north-america/301559/trump-slams-us-house-vote-to-end-iran-war</link>
-<pubDate>Thu, 04 Jun 2026 18:45:38 -0000</pubDate>
+<title><![CDATA[US imposes sanctions on Cuban president, Castro family members]]></title>
+<link>https://www.newagebd.net/post/north-america/301662/us-imposes-sanctions-on-cuban-president-castro-family-members</link>
+<pubDate>Fri, 05 Jun 2026 17:09:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[South Korean police clear protesters after ballot shortage blockade]]></title>
 <link>https://www.newagebd.net/post/asia/301655/south-korean-police-clear-protesters-after-ballot-shortage-blockade</link>
 <pubDate>Fri, 05 Jun 2026 06:31:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Chinese leader Xi to visit North Korea June 8-9]]></title>
-<link>https://www.newagebd.net/post/asia/301652/chinese-leader-xi-to-visit-north-korea-june-8-9</link>
-<pubDate>Fri, 05 Jun 2026 06:16:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
