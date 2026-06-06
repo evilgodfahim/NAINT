@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 05 Jun 2026 23:00:10 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2026 00:14:14 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Nearly 1.5m displaced in Haiti: UN]]></title>
+<link>https://www.newagebd.net/post/africa/301706/nearly-15m-displaced-in-haiti-un</link>
+<pubDate>Sat, 06 Jun 2026 00:14:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Nigeria repatriating over 1,000 nationals from S Africa]]></title>
 <link>https://www.newagebd.net/post/africa/301705/nigeria-repatriating-over-1000-nationals-from-s-africa</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Japan aims to replace 14 ageing nuclear reactors by 2050s: reports]]></title>
-<link>https://www.newagebd.net/post/asia/301659/japan-aims-to-replace-14-ageing-nuclear-reactors-by-2050s-reports</link>
-<pubDate>Fri, 05 Jun 2026 18:29:24 -0000</pubDate>
+<title><![CDATA[US Senate approves $70b for immigration crackdown]]></title>
+<link>https://www.newagebd.net/post/north-america/301727/us-senate-approves-70b-for-immigration-crackdown</link>
+<pubDate>Sat, 06 Jun 2026 00:14:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Iran dismisses idea of Trump meeting supreme leader]]></title>
 <link>https://www.newagebd.net/post/middle-east/301723/iran-dismisses-idea-of-trump-meeting-supreme-leader</link>
 <pubDate>Fri, 05 Jun 2026 20:48:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Nearly 1.5m displaced in Haiti: UN]]></title>
-<link>https://www.newagebd.net/post/africa/301706/nearly-15m-displaced-in-haiti-un</link>
-<pubDate>Fri, 05 Jun 2026 20:33:31 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
