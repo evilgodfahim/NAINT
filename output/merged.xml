@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 07 Jun 2026 12:17:11 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Jun 2026 14:47:46 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli strike kills three Lebanese soldiers]]></title>
+<link>https://www.newagebd.net/post/middle-east/301829/israeli-strike-kills-three-lebanese-soldiers</link>
+<pubDate>Sun, 07 Jun 2026 14:47:45 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Iran targets Bahrain, Kuwait after US strikes]]></title>
 <link>https://www.newagebd.net/post/middle-east/301827/iran-targets-bahrain-kuwait-after-us-strikes</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope calls for end to polarisation]]></title>
-<link>https://www.newagebd.net/post/europe/301796/pope-calls-for-end-to-polarisation</link>
-<pubDate>Sat, 06 Jun 2026 18:23:44 -0000</pubDate>
+<title><![CDATA[N Korea’s nuclear programme ‘absolutely non-negotiable’, Kim Yo Jong]]></title>
+<link>https://www.newagebd.net/post/asia/301874/n-koreas-nuclear-programme-absolutely-non-negotiable-kim-yo-jong</link>
+<pubDate>Sun, 07 Jun 2026 14:47:46 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Ukraine hits Russia with drones at forum’s close]]></title>
 <link>https://www.newagebd.net/post/europe/301864/ukraine-hits-russia-with-drones-at-forums-close</link>
 <pubDate>Sun, 07 Jun 2026 06:31:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israeli strike kills three Lebanese soldiers]]></title>
-<link>https://www.newagebd.net/post/middle-east/301829/israeli-strike-kills-three-lebanese-soldiers</link>
-<pubDate>Sat, 06 Jun 2026 20:56:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
