@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 08 Jun 2026 10:22:07 GMT</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 14:42:59 GMT</lastBuildDate>
+<item>
+<title><![CDATA[7.8 earthquake in Southern Philippines kills 15, triggers tsunami alert]]></title>
+<link>https://www.newagebd.net/post/asia/301992/78-earthquake-in-southern-philippines-kills-15-triggers-tsunami-alert</link>
+<pubDate>Mon, 08 Jun 2026 12:55:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Israel works to intercept missile from Yemen]]></title>
 <link>https://www.newagebd.net/post/middle-east/301991/israel-works-to-intercept-missile-from-yemen</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[1.2m people attend Pope’s mass in Madrid]]></title>
-<link>https://www.newagebd.net/post/europe/301925/12m-people-attend-popes-mass-in-madrid</link>
-<pubDate>Sun, 07 Jun 2026 19:08:29 -0000</pubDate>
+<title><![CDATA[Seven people killed in police-protestor clashes in Pakistan-administered Kashmir]]></title>
+<link>https://www.newagebd.net/post/south-asia/302000/seven-people-killed-in-police-protestor-clashes-in-pakistan-administered-kashmir</link>
+<pubDate>Mon, 08 Jun 2026 12:56:36 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[At least eight explosions heard over Jerusalem, say AFP journalists]]></title>
 <link>https://www.newagebd.net/post/middle-east/301993/at-least-eight-explosions-heard-over-jerusalem-say-afp-journalists</link>
 <pubDate>Mon, 08 Jun 2026 05:24:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[7.8 earthquake in Southern Philippines kills 15, triggers tsunami alert]]></title>
-<link>https://www.newagebd.net/post/asia/301992/78-earthquake-in-southern-philippines-kills-15-triggers-tsunami-alert</link>
-<pubDate>Mon, 08 Jun 2026 09:52:07 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
