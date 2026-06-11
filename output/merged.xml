@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 11 Jun 2026 12:04:10 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 16:44:37 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Military chopper crashes in Pakistan-administered Kashmir]]></title>
+<link>https://www.newagebd.net/post/south-asia/302328/military-chopper-crashes-in-pakistan-administered-kashmir</link>
+<pubDate>Thu, 11 Jun 2026 16:44:36 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[US, Iran launch fresh attacks against each other fading hopes for quick peace]]></title>
 <link>https://www.newagebd.net/post/middle-east/302324/us-iran-launch-fresh-attacks-against-each-other-fading-hopes-for-quick-peace</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Belfast girds for more violence after stabbing suspect held]]></title>
-<link>https://www.newagebd.net/post/europe/302256/belfast-girds-for-more-violence-after-stabbing-suspect-held</link>
-<pubDate>Thu, 11 Jun 2026 05:39:11 -0000</pubDate>
+<title><![CDATA[Taiwan says Chinese ships entered waters of disputed South China Sea island]]></title>
+<link>https://www.newagebd.net/post/asia/302335/taiwan-says-chinese-ships-entered-waters-of-disputed-south-china-sea-island</link>
+<pubDate>Thu, 11 Jun 2026 16:44:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Iran attacks United States facilities in Bahrain, Jordan]]></title>
 <link>https://www.newagebd.net/post/middle-east/302329/iran-attacks-united-states-facilities-in-bahrain-jordan</link>
 <pubDate>Thu, 11 Jun 2026 07:24:12 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Military chopper crashes in Pakistan-administered Kashmir]]></title>
-<link>https://www.newagebd.net/post/south-asia/302328/military-chopper-crashes-in-pakistan-administered-kashmir</link>
-<pubDate>Thu, 11 Jun 2026 07:09:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
