@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Jun 2026 13:45:50 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 15:44:13 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US-Iran deal likely soon: Pakistan]]></title>
+<link>https://www.newagebd.net/post/middle-east/302645/us-iran-deal-likely-soon-pakistan</link>
+<pubDate>Sun, 14 Jun 2026 15:44:11 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Thousands rally against racism after Belfast unrest]]></title>
 <link>https://www.newagebd.net/post/europe/302643/thousands-rally-against-racism-after-belfast-unrest</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran peace deal to be signed Sunday: Trump]]></title>
-<link>https://www.newagebd.net/post/middle-east/302623/iran-peace-deal-to-be-signed-sunday-trump</link>
-<pubDate>Sat, 13 Jun 2026 18:43:20 -0000</pubDate>
+<title><![CDATA[Mayor shot dead in southern Mexico]]></title>
+<link>https://www.newagebd.net/post/north-america/302701/mayor-shot-dead-in-southern-mexico</link>
+<pubDate>Sun, 14 Jun 2026 15:44:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Israel hits south Lebanon as Iran, US near deal]]></title>
 <link>https://www.newagebd.net/post/middle-east/302646/israel-hits-south-lebanon-as-iran-us-near-deal</link>
 <pubDate>Sat, 13 Jun 2026 21:05:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US-Iran deal likely soon: Pakistan]]></title>
-<link>https://www.newagebd.net/post/middle-east/302645/us-iran-deal-likely-soon-pakistan</link>
-<pubDate>Sat, 13 Jun 2026 20:50:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
