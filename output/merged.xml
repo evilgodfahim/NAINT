@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 17 Jun 2026 14:56:38 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 17:47:27 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Russian strikes kill eight in Ukraine: officials say]]></title>
+<link>https://www.newagebd.net/post/europe/303010/russian-strikes-kill-eight-in-ukraine-officials-say</link>
+<pubDate>Wed, 17 Jun 2026 17:38:08 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Iran threatens ‘harsh response’ to Israeli attacks in Lebanon]]></title>
 <link>https://www.newagebd.net/post/world/303003/iran-threatens-harsh-response-to-israeli-attacks-in-lebanon</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Gotabaya asks court to stop possible arrest over 2019 attacks]]></title>
-<link>https://www.newagebd.net/post/south-asia/302954/gotabaya-asks-court-to-stop-possible-arrest-over-2019-attacks</link>
-<pubDate>Tue, 16 Jun 2026 19:48:42 -0000</pubDate>
+<title><![CDATA[Funeral procession for late Iran supreme leader to pass through Iraq]]></title>
+<link>https://www.newagebd.net/post/middle-east/303043/funeral-procession-for-late-iran-supreme-leader-to-pass-through-iraq</link>
+<pubDate>Wed, 17 Jun 2026 17:47:27 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[At least 58 states, territories contaminated by mines, says United Nations]]></title>
 <link>https://www.newagebd.net/post/europe/303012/at-least-58-states-territories-contaminated-by-mines-says-united-nations</link>
 <pubDate>Wed, 17 Jun 2026 14:26:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Russian strikes kill eight in Ukraine: officials say]]></title>
-<link>https://www.newagebd.net/post/europe/303010/russian-strikes-kill-eight-in-ukraine-officials-say</link>
-<pubDate>Wed, 17 Jun 2026 11:41:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
