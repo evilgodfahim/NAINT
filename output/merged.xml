@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 19 Jun 2026 09:01:09 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 13:29:15 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Andy Burnham wins UK by-election, paving way for bid to challenge PM Starmer]]></title>
+<link>https://www.newagebd.net/post/europe/303244/andy-burnham-wins-uk-by-election-paving-way-for-bid-to-challenge-pm-starmer</link>
+<pubDate>Fri, 19 Jun 2026 13:29:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[UAE bans social media for under-15]]></title>
 <link>https://www.newagebd.net/post/middle-east/303185/uae-bans-social-media-for-under-15</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump calls Modi a ‘killer’ and an ‘angel’]]></title>
-<link>https://www.newagebd.net/post/south-asia/303139/trump-calls-modi-a-killer-and-an-angel</link>
-<pubDate>Thu, 18 Jun 2026 18:22:50 -0000</pubDate>
+<title><![CDATA[No vaccine, conflict, mistrust: Ebola’s return to DR Congo]]></title>
+<link>https://www.newagebd.net/post/africa/303249/no-vaccine-conflict-mistrust-ebolas-return-to-dr-congo</link>
+<pubDate>Fri, 19 Jun 2026 13:29:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[United States vice-president Vance postpones trip to Switzerland for Iran talks]]></title>
 <link>https://www.newagebd.net/post/north-america/303245/united-states-vice-president-vance-postpones-trip-to-switzerland-for-iran-talks</link>
 <pubDate>Fri, 19 Jun 2026 08:31:09 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Andy Burnham wins UK by-election, paving way for bid to challenge PM Starmer]]></title>
-<link>https://www.newagebd.net/post/europe/303244/andy-burnham-wins-uk-by-election-paving-way-for-bid-to-challenge-pm-starmer</link>
-<pubDate>Fri, 19 Jun 2026 08:16:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
