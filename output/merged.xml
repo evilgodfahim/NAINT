@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 26 Jun 2026 06:47:17 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 10:16:50 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Heatwave bakes 101m Europeans]]></title>
+<link>https://www.newagebd.net/post/europe/304022/heatwave-bakes-101m-europeans</link>
+<pubDate>Fri, 26 Jun 2026 10:16:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[US immigration custody deaths decade high: rights groups]]></title>
 <link>https://www.newagebd.net/post/north-america/304008/us-immigration-custody-deaths-decade-high-rights-groups</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelans trapped alive, twin quakes toll rise to 164]]></title>
-<link>https://www.newagebd.net/post/latin-america/303970/venezuelans-trapped-alive-twin-quakes-toll-rise-to-164</link>
-<pubDate>Thu, 25 Jun 2026 18:33:16 -0000</pubDate>
+<title><![CDATA[India ends restrictions on commercial gas]]></title>
+<link>https://www.newagebd.net/post/south-asia/304049/india-ends-restrictions-on-commercial-gas</link>
+<pubDate>Fri, 26 Jun 2026 10:16:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[IMO suspends Hormuz evacuation after attack in Gulf of Oman]]></title>
 <link>https://www.newagebd.net/post/middle-east/304038/imo-suspends-hormuz-evacuation-after-attack-in-gulf-of-oman</link>
 <pubDate>Thu, 25 Jun 2026 23:10:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Heatwave bakes 101m Europeans]]></title>
-<link>https://www.newagebd.net/post/europe/304022/heatwave-bakes-101m-europeans</link>
-<pubDate>Thu, 25 Jun 2026 21:24:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
