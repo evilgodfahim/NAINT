@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 28 Jun 2026 19:06:35 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 20:54:13 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Skydiving plane crash kills 11 in France]]></title>
+<link>https://www.newagebd.net/post/europe/304281/skydiving-plane-crash-kills-11-in-france</link>
+<pubDate>Sun, 28 Jun 2026 20:54:11 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Magnitude 6.1 quake hits Afghanistan]]></title>
 <link>https://www.newagebd.net/post/south-asia/304280/magnitude-61-quake-hits-afghanistan</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Records tumble as European heatwave moves east]]></title>
-<link>https://www.newagebd.net/post/europe/304167/records-tumble-as-european-heatwave-moves-east</link>
-<pubDate>Sun, 28 Jun 2026 06:41:56 -0000</pubDate>
+<title><![CDATA[Israel strikes Lebanon despite truce framework to end hostilities]]></title>
+<link>https://www.newagebd.net/post/middle-east/304285/israel-strikes-lebanon-despite-truce-framework-to-end-hostilities</link>
+<pubDate>Sun, 28 Jun 2026 20:54:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[A painful wait by a pile of rubble in Venezuela]]></title>
 <link>https://www.newagebd.net/post/latin-america/304282/a-painful-wait-by-a-pile-of-rubble-in-venezuela</link>
 <pubDate>Sun, 28 Jun 2026 18:36:35 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Skydiving plane crash kills 11 in France]]></title>
-<link>https://www.newagebd.net/post/europe/304281/skydiving-plane-crash-kills-11-in-france</link>
-<pubDate>Sun, 28 Jun 2026 18:21:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
