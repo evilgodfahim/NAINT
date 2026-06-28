@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 28 Jun 2026 06:56:57 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 09:55:31 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Venezuela quakes death toll nears 1,000]]></title>
+<link>https://www.newagebd.net/post/latin-america/304187/venezuela-quakes-death-toll-nears-1000</link>
+<pubDate>Sun, 28 Jun 2026 09:55:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[Iran, US trade fire in worst post-deal clash]]></title>
 <link>https://www.newagebd.net/post/middle-east/304172/iran-us-trade-fire-in-worst-post-deal-clash</link>
@@ -59,9 +65,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[UK to expand refugee sponsorship schemes]]></title>
-<link>https://www.newagebd.net/post/europe/304159/uk-to-expand-refugee-sponsorship-schemes</link>
-<pubDate>Sat, 27 Jun 2026 18:22:51 -0000</pubDate>
+<title><![CDATA[Trump threatens to destroy Iran after new exchange of strikes]]></title>
+<link>https://www.newagebd.net/post/middle-east/304239/trump-threatens-to-destroy-iran-after-new-exchange-of-strikes</link>
+<pubDate>Sun, 28 Jun 2026 09:55:31 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[What challenges lie ahead for US-Israel-Lebanon agreement?]]></title>
 <link>https://www.newagebd.net/post/middle-east/304222/what-challenges-lie-ahead-for-us-israel-lebanon-agreement</link>
 <pubDate>Sun, 28 Jun 2026 06:26:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela quakes death toll nears 1,000]]></title>
-<link>https://www.newagebd.net/post/latin-america/304187/venezuela-quakes-death-toll-nears-1000</link>
-<pubDate>Sat, 27 Jun 2026 21:57:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
